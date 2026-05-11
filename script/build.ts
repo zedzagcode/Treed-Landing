@@ -74,7 +74,7 @@ async function buildAll() {
             loader: "js",
           }));
           build.onLoad(
-            { filter: /\.(png|jpe?g|gif|svg|webp|avif|ico|ttf|woff2?)$/ },
+            { filter: /\.(png|jpe?g|gif|svg|webp|avif|ico|ttf|woff2?|mp4|webm|mov|m4v|ogv)$/ },
             () => ({
               contents: "export default ''",
               loader: "js",

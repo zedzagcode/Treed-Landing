@@ -71,7 +71,7 @@ function App() {
           <TooltipProvider>
             <Toaster />
             <Router />
-            <Chatbot />
+            {/* <Chatbot /> */}
             <CookieBanner />
           </TooltipProvider>
         </SmoothScroll>
