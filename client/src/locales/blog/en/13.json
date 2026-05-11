@@ -1,0 +1,245 @@
+{
+  "title": "How Museum Directors Should Evaluate Audio Guides in 2026",
+  "excerpt": "Most audio guide evaluations ask the wrong questions. A framework focused on the 7 decisions that separate guides visitors actually use from ones that quietly underperform.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Most audio guide failures don't happen during the evaluation. They happen six months after launch, when adoption is stuck at 11% and nobody can explain why."
+    },
+    {
+      "type": "p",
+      "text": "The guide works. The content is solid. The demo was impressive. But visitors aren't using it — at least, not in the numbers anyone expected."
+    },
+    {
+      "type": "p",
+      "text": "This happens because most evaluations optimise for the wrong things. Museums compare feature sets instead of adoption patterns. They think about launch day, not a Tuesday in November. They run demos with engaged staff, not distracted tourists arriving after a two-hour drive with tired children."
+    },
+    {
+      "type": "p",
+      "text": "The result: systems that perform brilliantly in a procurement meeting and underperform everywhere else."
+    },
+    {
+      "type": "p",
+      "text": "This framework covers the seven decisions that actually determine whether a museum audio guide system succeeds — not features, not price, but the variables that show up six months in, when the real result becomes clear."
+    },
+    {
+      "type": "h2",
+      "text": "Before the Seven Decisions: The Question That Overrides Everything"
+    },
+    {
+      "type": "p",
+      "text": "How many steps does it take a visitor to hear the first piece of content?"
+    },
+    {
+      "type": "p",
+      "text": "Count them. Then ask whether you can reduce that number. Every additional step — app downloads, account creation, QR codes that require a moment to locate, loading screens, onboarding prompts — drops a measurable percentage of visitors before they reach the experience you built."
+    },
+    {
+      "type": "p",
+      "text": "In aggregate, these steps can take a guide from 60% adoption to 12% adoption with the same content, the same signage, and the same front-of-house team. A technically inferior system used by 65% of your visitors will outperform a technically excellent one used by 15%. That equation should sit at the centre of every decision that follows."
+    },
+    {
+      "type": "h2",
+      "text": "1. Will Visitors Actually Start It?"
+    },
+    {
+      "type": "p",
+      "text": "Adoption doesn't come from quality. It comes from ease."
+    },
+    {
+      "type": "p",
+      "text": "Museum visitors — particularly first-time and casual ones — are time-constrained, lightly motivated, and unlikely to troubleshoot. They will not download an app for a 90-minute visit. They will not create an account to access an exhibition they're already standing in. They will not ask a staff member for help unless the barrier is obvious and the experience is clearly worth the effort."
+    },
+    {
+      "type": "p",
+      "text": "The best-performing museum audio guide solutions today have one step: scan or tap, then listen. Systems that require anything more are trading adoption for control — which is a reasonable tradeoff in some contexts, but one worth making deliberately rather than by default."
+    },
+    {
+      "type": "p",
+      "text": "When comparing systems, ask each vendor: what does a first-time visitor do to hear the first piece of content? Count the steps. That number will tell you more than any feature comparison."
+    },
+    {
+      "type": "h2",
+      "text": "2. Dedicated Devices or Visitor Phones — What You're Actually Choosing"
+    },
+    {
+      "type": "p",
+      "text": "The audio guide app vs dedicated device question isn't really about devices. It's about what you're willing to trade."
+    },
+    {
+      "type": "p",
+      "text": "Dedicated handsets give you control over the visitor experience. You know exactly what every visitor is hearing and navigating. In environments where that consistency is critical — high-security exhibitions, strictly guided routes, institutions serving audiences who aren't comfortable with their own devices — this can justify the tradeoff."
+    },
+    {
+      "type": "p",
+      "text": "What you're trading: hardware management. Charging cycles, distribution logistics, sanitisation protocols, replacement stock, and the quiet degradation of a device fleet that ages faster than your content. These costs compound and tend to be underestimated at the point of procurement."
+    },
+    {
+      "type": "p",
+      "text": "Web-based museum audio guide solutions accessed on visitor phones give up some control in exchange for lower operational load and, in most cases, meaningfully higher adoption. Visitors are already holding their phones. The barrier to starting is lower."
+    },
+    {
+      "type": "p",
+      "text": "On apps specifically: the download barrier alone rules out the majority of casual visitors. Most museums that choose a dedicated audio guide app significantly overestimate how many first-time visitors will complete that step. And a hybrid approach — offering both devices and phones — usually means double the operational overhead for a marginal improvement in adoption, with neither experience done particularly well. It's rarely the right default."
+    },
+    {
+      "type": "h2",
+      "text": "3. How Much of Your Team's Time Will This Consume?"
+    },
+    {
+      "type": "p",
+      "text": "Every audio guide system requires ongoing staff involvement. The meaningful question is whether that load is predictable and bounded — or whether it grows quietly until it's a problem."
+    },
+    {
+      "type": "p",
+      "text": "Systems that require staff to initiate every visitor interaction create a hard ceiling on adoption. Visitors who don't ask for help — typically the less confident, the more hurried, those who'd rather figure it out quietly — consistently fail to reach the experience. These visitors often benefit most from a guide."
+    },
+    {
+      "type": "p",
+      "text": "Push past the demo. Ask both the vendor and your own team: what does a busy Saturday afternoon actually look like? Who handles device distribution? Who troubleshoots connection issues? The system that fits within your team's actual capacity — not the one that assumes you'll hire for it — is the one that will still be running well in two years."
+    },
+    {
+      "type": "h2",
+      "text": "4. Can Your Team Update the Content Without External Help?"
+    },
+    {
+      "type": "p",
+      "text": "Content changes. Exhibitions rotate. Curatorial understanding evolves. The guide that accurately represents your collection today will have gaps by next year."
+    },
+    {
+      "type": "p",
+      "text": "The question isn't whether a system supports content updates — they all do. The question is how long an update takes and who needs to be involved. If every change requires a vendor ticket, a review cycle, and a two-week turnaround, your guide will steadily fall out of sync with your collection. Curators stop trusting it. Visitors encounter outdated information. The quality that justified the investment erodes quietly."
+    },
+    {
+      "type": "p",
+      "text": "The standard worth holding: a curator should be able to update an object's description, add a new stop, or correct an error in roughly the time it takes to send an email. If a vendor demo can't show you that workflow in real time, it's worth asking why."
+    },
+    {
+      "type": "p",
+      "text": "Languages are part of this too. Multilingual capability is something every museum audio guide system advertises. The meaningful difference is whether updating a language is a single operation or a manual process requiring a specialist. If your visitors speak six languages and your team speaks two, your content workflow matters as much as your language count."
+    },
+    {
+      "type": "h2",
+      "text": "5. What Does This Actually Cost Over Three Years?"
+    },
+    {
+      "type": "p",
+      "text": "Hardware is the most visible cost in an audio guide procurement. It is rarely the largest one."
+    },
+    {
+      "type": "p",
+      "text": "Across three years, the costs that accumulate are software licensing, content production, staff hours, maintenance and replacement cycles, and infrastructure — network access points, positioning systems, storage. Vendors rarely surface the full picture unprompted."
+    },
+    {
+      "type": "p",
+      "text": "The most useful evaluation is a modelled scenario: assume your annual visitor numbers, your current team size, and one significant exhibition update per year. What does year one look like? Year three?"
+    },
+    {
+      "type": "p",
+      "text": "One variable changes the calculation more than any other: adoption. Remember the 60%-to-12% gap. A museum audio guide system used by 10% of visitors costs roughly six times more per engaged visitor than one used by 60% — even if the licence fee is identical. Low adoption is the most expensive outcome in this category. It's also the one most rarely accounted for at the point of decision."
+    },
+    {
+      "type": "h2",
+      "text": "6. Does the Data Help You Improve, or Just Confirm You Launched?"
+    },
+    {
+      "type": "p",
+      "text": "Every system includes analytics. Most tell you how many visitors used the guide. Few tell you anything you can act on."
+    },
+    {
+      "type": "p",
+      "text": "Useful data answers questions like: where do visitors stop engaging? Which exhibits generate the most conversation — and which ones you assumed would but don't? Which languages are actively used versus which ones you over-invested in? How does engagement differ between first-time visitors and repeat ones?"
+    },
+    {
+      "type": "p",
+      "text": "Data that surfaces those patterns creates a feedback loop. The guide improves over time. Data that doesn't is a dashboard you'll stop checking within three months."
+    },
+    {
+      "type": "p",
+      "text": "When evaluating a system, ask to see an actual analytics report from a comparable institution — not a product mock-up. Whether it helps you answer \"where should we focus next month?\" is the right test."
+    },
+    {
+      "type": "h2",
+      "text": "7. Will This Still Be Worth Running in Three Years?"
+    },
+    {
+      "type": "p",
+      "text": "Technology decisions age. The question isn't whether a system is good today — it's whether it remains useful as your collection evolves and visitor expectations continue to shift."
+    },
+    {
+      "type": "p",
+      "text": "Dedicated device systems tend to age in one direction: hardware becomes dated while the software struggles to keep pace. The replacement cycle is expensive and the content format is often too rigid to adapt quickly."
+    },
+    {
+      "type": "p",
+      "text": "Web-based and AI-driven museum audio guide systems tend to age better because the infrastructure is software rather than hardware. New capabilities can be added without physical replacement. The risk is vendor stability — a company building excellent technology today may look different in three years. Ask about update cadence, platform maintenance, and whether they have institutions that have been running the system for three or more years."
+    },
+    {
+      "type": "h2",
+      "text": "Why Most Audio Guides Quietly Underperform"
+    },
+    {
+      "type": "p",
+      "text": "The failure pattern is consistent. Strong launch energy. Six weeks of reasonable adoption. Then a slow decline as novelty fades, staff stop actively promoting the guide, and nobody iterates on the content because the workflow is too slow."
+    },
+    {
+      "type": "p",
+      "text": "By month four, the guide is running on autopilot. By month eight, it's an afterthought — technically live, practically unused."
+    },
+    {
+      "type": "p",
+      "text": "The antidote is treating a museum audio guide like a live product rather than an installation. That requires a content workflow that makes iteration fast, analytics that surface what to change, and a system simple enough that staff genuinely promote it to every visitor as a first instinct."
+    },
+    {
+      "type": "p",
+      "text": "Systems built for installation-and-forget will fail this test. Systems built for continuous improvement won't."
+    },
+    {
+      "type": "h2",
+      "text": "Evaluation Checklist"
+    },
+    {
+      "type": "p",
+      "text": "Before committing to any museum audio guide system, run through these:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "How many steps does it take a visitor to hear the first piece of content?",
+        "What is the realistic adoption rate at a comparable institution?",
+        "How much ongoing staff involvement does the system require day-to-day?",
+        "Can non-technical staff update content without vendor support?",
+        "What does the total cost look like over three years, including staff time?",
+        "Does the analytics layer surface actionable insights, or just usage numbers?",
+        "What happens to the system when your next major exhibition opens?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "If any answer is vague, that's a signal worth taking seriously."
+    },
+    {
+      "type": "h2",
+      "text": "The Bottom Line"
+    },
+    {
+      "type": "p",
+      "text": "The best museum audio guide system is not the one with the most features. It is not the one your peer institution chose. It is the one that the highest percentage of your visitors will actually use — consistently, without friction, across every kind of visit."
+    },
+    {
+      "type": "p",
+      "text": "Demos are optimised for ideal conditions. Your museum is not ideal conditions. It's a busy Saturday, a school group arriving forty minutes late, and a visitor who has never downloaded a museum app in their life and won't start today."
+    },
+    {
+      "type": "p",
+      "text": "The only reliable way to evaluate how a system performs on those terms is to put it in front of real visitors, in your space, and measure what actually happens."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "If you want to run that test — 90 days, live visitors, real data — ",
+      "linkText": "that's exactly what Tree'd's pilot is designed for",
+      "href": "/booking",
+      "textAfter": "."
+    }
+  ]
+}

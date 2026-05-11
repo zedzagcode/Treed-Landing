@@ -1,0 +1,186 @@
+{
+  "title": "What Is an AI Museum Audio Guide?",
+  "excerpt": "Most visitors think an audio guide plays a script. An AI guide answers the question they didn't plan to ask. What that means for museums, explained clearly.",
+  "body": [
+    {
+      "type": "p",
+      "text": "A visitor stands in front of a 3,000-year-old artefact. The placard says 14. They press 14 on the audio guide. A script plays. It ends. They move on."
+    },
+    {
+      "type": "p",
+      "text": "That exchange has been the museum audio guide experience for sixty years. Something is finally changing — and the gap between the old model and what AI-powered systems now deliver is not incremental. It is a different category of tool."
+    },
+    {
+      "type": "h2",
+      "text": "What an AI museum audio guide actually is"
+    },
+    {
+      "type": "p",
+      "text": "An AI museum audio guide replaces prerecorded tracks with live, two-way conversation. Instead of pressing a number and listening to a script, a visitor speaks — and the guide responds."
+    },
+    {
+      "type": "p",
+      "text": "The distinction sounds simple. The implications are significant. A visitor standing in front of an ancient artefact can ask anything: who commissioned it, why this specific material was chosen, what happened to the craftspeople who made it. The guide draws from a knowledge base trained on the museum's specific collection and answers with that depth — not from a general internet search, but from structured curatorial knowledge built for that institution."
+    },
+    {
+      "type": "p",
+      "text": "This is what separates genuinely conversational AI from the previous wave of 'smart' audio guides — which were largely prerecorded content with a better interface layered on top."
+    },
+    {
+      "type": "h2",
+      "text": "The traditional model: reliable, but bounded"
+    },
+    {
+      "type": "p",
+      "text": "For decades, the museum audio guide has meant one form of interaction: a number pressed, a track played. The guide knows what was recorded into it at a fixed point in time. It delivers the same experience to a ten-year-old and to an art historian. It cannot follow a visitor's curiosity, cannot acknowledge a question it was not built to answer, cannot adapt to the language actually being spoken."
+    },
+    {
+      "type": "p",
+      "text": "The model is not broken. Millions of museum visits have been shaped by it, and for many contexts it still makes sense. But it has a ceiling — and that ceiling becomes visible the moment a visitor genuinely wants to know something the script did not anticipate."
+    },
+    {
+      "type": "callout",
+      "text": "A traditional audio guide knows what it was told. An AI guide understands the collection — which means it can answer questions it was never explicitly programmed to handle."
+    },
+    {
+      "type": "h2",
+      "text": "How it works: a brief, accurate breakdown"
+    },
+    {
+      "type": "p",
+      "text": "Three components make an AI museum audio guide function:"
+    },
+    {
+      "type": "numbered",
+      "items": [
+        "The knowledge base — built from the museum's collection data: curatorial records, provenance documentation, conservation reports, exhibition catalogues, academic literature. This is structured and trained before deployment, then updated as the collection evolves.",
+        "The AI engine — when a visitor speaks, the system converts speech to text, processes the query against the knowledge base, and generates a spoken audio response. This can happen on hardware installed inside the museum (locally deployed) or via a remote server (cloud-based).",
+        "The interface — most often a dedicated Handset provided and managed by the museum, though some systems work through a visitor's smartphone via an app or QR code scan."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The most consequential operational variable is where AI processing happens. Locally deployed systems run on hardware installed inside the museum — visitor data stays on site, the system works independently of internet connectivity, and the institution controls its own infrastructure. Cloud-based systems route each query to an external server, which requires reliable Wi-Fi coverage across the full museum floor."
+    },
+    {
+      "type": "callout",
+      "text": "Whether the AI runs locally or in the cloud is not a technical footnote. It determines your connectivity requirements, your visitor data obligations, and how dependent you are on a vendor's external infrastructure remaining available."
+    },
+    {
+      "type": "h2",
+      "text": "Where the difference actually shows"
+    },
+    {
+      "type": "h3",
+      "text": "Multilingual access"
+    },
+    {
+      "type": "p",
+      "text": "A traditional guide supports the languages it was recorded in. Adding a new language means commissioning scripts, recording new tracks, and maintaining parallel content libraries. An AI guide supports many languages at launch — and extending to new ones does not require re-recording anything. For a museum with a diverse international visitor base, this changes what multilingual access actually costs to deliver."
+    },
+    {
+      "type": "h3",
+      "text": "Visitors at different knowledge levels"
+    },
+    {
+      "type": "p",
+      "text": "The same guide that gives a twelve-year-old an accessible introduction can, with the next visitor, engage an academic's detailed question about iconographic tradition or pigment composition. The system responds to the question being asked, not to an assumed average visitor profile."
+    },
+    {
+      "type": "h3",
+      "text": "Changing collections"
+    },
+    {
+      "type": "p",
+      "text": "When a museum acquires a new work or updates an exhibition, a traditional guide's content is immediately out of date — until someone commissions new recordings. An AI knowledge base can be updated as the collection evolves, keeping responses accurate without production delays or content gaps between refresh cycles."
+    },
+    {
+      "type": "h2",
+      "text": "What changes for visitors and for operations"
+    },
+    {
+      "type": "h3",
+      "text": "For visitors"
+    },
+    {
+      "type": "p",
+      "text": "Visitors who previously spent seconds in front of an artwork — absorbing what they could before moving on — tend to spend considerably longer when the guide can respond to what they actually wonder about. The conversation meets each visitor where they are: their language, their level of knowledge, their specific curiosity."
+    },
+    {
+      "type": "p",
+      "text": "Dedicated Handset systems remove every digital friction point: no download, no account creation, no compatibility issues, no divided attention between a personal phone and the work in front of them. Visitors pick up the Handset and converse with the collection."
+    },
+    {
+      "type": "h3",
+      "text": "For museum operations"
+    },
+    {
+      "type": "p",
+      "text": "Multilingual content without per-language production costs. Visitor engagement data — which works generate the most questions, which languages are most used, which explanations fall flat — available as actionable institutional intelligence for the first time. A guide that grows more accurate as curatorial documentation improves, rather than becoming stale between production cycles."
+    },
+    {
+      "type": "h2",
+      "text": "Limitations and challenges: the honest version"
+    },
+    {
+      "type": "p",
+      "text": "Any institution evaluating AI museum audio guides should weigh the following carefully."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Knowledge base quality determines guide quality. The system's accuracy is a direct reflection of the documentation it was trained on. Gaps in curatorial records, outdated provenance data, or thin coverage of certain works will produce responses of limited usefulness. Building and maintaining the knowledge base is an ongoing curatorial responsibility — not a one-time installation.",
+        "AI systems can produce inaccurate responses. The risk is lower when the model is constrained to verified collection data, but it is not zero. Good systems include mechanisms to restrict responses to known collection knowledge and flag the limits of their certainty. This is one of the most important things to evaluate before selecting any system.",
+        "Hardware management has real operational cost. Dedicated handsets require charging infrastructure, cleaning protocols, routine maintenance, and eventual replacement — the same logistics as any physical device fleet, and worth planning for from the outset.",
+        "The upfront investment is higher than a traditional audio guide, particularly for locally deployed systems. Evaluations should account for total cost of ownership rather than the licence fee alone. The return is typically found in visitor engagement depth and in the operational savings from multilingual deployment."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Where things are heading"
+    },
+    {
+      "type": "p",
+      "text": "The current generation of AI guides is conversational. The next is becoming contextual — systems that know where a visitor is standing, what they are looking at, and how long they have been with a particular work. Multi-modal systems combining voice conversation with visual recognition of artworks are in active development at several institutions."
+    },
+    {
+      "type": "p",
+      "text": "Language support continues to expand. Systems that today handle a dozen languages well will handle considerably more within a few years — without institutions needing to commission additional content to access them."
+    },
+    {
+      "type": "p",
+      "text": "The less obvious shift is in institutional knowledge. Today, most museums have no record of what visitors actually wonder about. AI guide systems generate, for the first time, a structured log of genuine visitor curiosity: which works produce the most questions, which explanations consistently generate follow-up, which aspects of a collection hold attention longest. This is a new category of institutional intelligence — and its value compounds as the dataset grows."
+    },
+    {
+      "type": "h2",
+      "text": "What to ask before you evaluate any system"
+    },
+    {
+      "type": "p",
+      "text": "AI museum audio guides vary considerably in quality, depth, and operational fit. These questions tend to matter most before entering any evaluation:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "How is the knowledge base built — from which source documents, by whom, and how is it updated as the collection changes?",
+        "Where does AI processing happen — on premises or in the cloud? What are the connectivity requirements and data privacy implications for your institution?",
+        "How many languages are supported at launch, and what is the process for adding more?",
+        "What does the handset or interface look like in practice — and how does it integrate with the museum environment without interrupting it?",
+        "What does a realistic deployment look like in terms of timeline, on-site requirements, and ongoing support?"
+      ]
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree'd is a conversational AI guide designed specifically for the museum context: locally deployed, screen-free, and built around a dedicated ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " designed for institutional use rather than adapted from consumer hardware."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See how Tree'd works in practice — in the context of your collection.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

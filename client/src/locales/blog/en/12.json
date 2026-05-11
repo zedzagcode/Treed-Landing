@@ -1,0 +1,203 @@
+{
+  "title": "The 90-Day Museum Audio Guide Pilot: What to Expect and How to Measure It",
+  "excerpt": "A 90-day pilot removes the guesswork. This guide walks through what to track, what to expect, and how to present results to your leadership team.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Most technology decisions in museums take months to approve and years to second-guess."
+    },
+    {
+      "type": "p",
+      "text": "The 90-day pilot exists to change that. It's not a trial in the traditional sense — a reduced version of something larger. It's a complete, live deployment of a conversational audio guide across a real exhibition, with real visitors, generating real data. In 90 days, you don't just find out whether the product works. You find out whether it works for your museum, your collection, and your visitors."
+    },
+    {
+      "type": "p",
+      "text": "This article walks through what actually happens across a 90-day pilot — phase by phase — and the specific signals worth measuring to make a confident decision at the end."
+    },
+    {
+      "type": "h2",
+      "text": "Why 90 Days?"
+    },
+    {
+      "type": "p",
+      "text": "The number isn't arbitrary. Ninety days is long enough to capture meaningful visitor data — not just a first-week spike. It spans multiple visitor cohorts: school groups, weekend families, international tourists, older visitors returning to a familiar collection. It gives curators time to observe the guide in practice and refine responses where needed. And it's short enough to fit within a seasonal exhibition budget, which makes the internal case much easier to build."
+    },
+    {
+      "type": "p",
+      "text": "The 90-day pilot is also a risk architecture, not a leap of faith. You find out what works before you commit to anything larger. That's the entire point."
+    },
+    {
+      "type": "h2",
+      "text": "Phase One: Setup and Validation (Weeks 1–4)"
+    },
+    {
+      "type": "p",
+      "text": "The pilot begins before a single visitor picks up the handset."
+    },
+    {
+      "type": "p",
+      "text": "Week one involves a structured content intake: the museum provides its existing materials — wall texts, exhibition catalogues, interpretation notes, curator commentary. If the existing content is sufficient, nothing new is needed. Where gaps exist, filling them early pays off. The principle is straightforward: better source material, better guide."
+    },
+    {
+      "type": "p",
+      "text": "From the available material, the system's responses are grounded in your collection. The guide prioritises museum-provided sources and stays within what it's been given — it doesn't speculate beyond the content that's been validated."
+    },
+    {
+      "type": "p",
+      "text": "Curatorial validation takes place across weeks two and three. Your curatorial team reviews the guide's responses before any visitor encounters them. This is the stage where the museum's editorial voice is embedded into the experience — curators can refine phrasing, deepen context on specific works, and ensure the guide reflects how the institution wants its collection represented. By the time the guide goes live, it has been approved by the people who know the collection best."
+    },
+    {
+      "type": "p_linked",
+      "textBefore": "By week four, the ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " — custom-designed to complement your museum's aesthetic — is installed and operational. Staff receive an orientation session. The guide runs independently from day one; the orientation is about familiarity, not maintenance."
+    },
+    {
+      "type": "callout",
+      "text": "What to watch in Phase One: how complete are your source materials, and how much depth do curators want to add during the validation phase? Both will shape how rich the experience is when visitors arrive."
+    },
+    {
+      "type": "h2",
+      "text": "Phase Two: Live Deployment (Weeks 5–10)"
+    },
+    {
+      "type": "p",
+      "text": "This is where the data begins — and where the experience speaks for itself."
+    },
+    {
+      "type": "p",
+      "text": "Visitors pick up the handset and converse with it. In 12+ languages. Without downloading anything, creating an account, or navigating a screen. They look at the artwork and ask what they've always wanted to ask."
+    },
+    {
+      "type": "p",
+      "text": "Some visitors will find their footing immediately, diving straight into questions about technique, provenance, or context. Others will take a moment to orient themselves — and that's completely natural. Museums are expert at sparking curiosity, and most visitors quickly find the talking points that pull them in. The guide meets them wherever they start."
+    },
+    {
+      "type": "p",
+      "text": "The pattern that reveals itself over weeks five to ten is trajectory. Visitors who once spent seconds in front of an artwork begin spending minutes. Conversations extend. Return visits to artworks after a conversation become observable. These are the signals that matter — not the opening-weekend number."
+    },
+    {
+      "type": "p",
+      "text": "The guide operates independently throughout. Once deployed, it requires no ongoing staff involvement to function. Visitors converse directly with it, responses are grounded in the collection, and the experience sustains itself across every visitor, in every language."
+    },
+    {
+      "type": "p_linked",
+      "textBefore": "You'll also begin to learn things about your visitors that your ticket data has never captured. Which languages are being used in your galleries? Which artworks are generating the most questions? Are conversations factual, interpretive, or emotional? The ",
+      "linkText": "Analytics Dashboard",
+      "href": "/dashboard",
+      "textAfter": " surfaces these patterns in real time — giving curators and directors a new category of visitor intelligence that compounds in value as the deployment continues."
+    },
+    {
+      "type": "callout",
+      "text": "What to watch in Phase Two: are visitor conversations extending over the weeks, and are patterns forming around particular artworks or languages? These are the indicators of genuine engagement taking hold."
+    },
+    {
+      "type": "h2",
+      "text": "Phase Three: Data Review and Decision (Weeks 11–12)"
+    },
+    {
+      "type": "p",
+      "text": "The final two weeks are spent reading the results."
+    },
+    {
+      "type": "p",
+      "text": "At the end of the pilot, an engagement summary covers usage patterns, language distribution, conversation depth, and visitor satisfaction signals. The summary describes what happened and surfaces the decisions it enables — which artworks drew the most engagement, which visitor segments used the guide, where depth of conversation was highest."
+    },
+    {
+      "type": "p",
+      "text": "The review conversation is an honest account of what the data showed — what landed, what could be refined, and what a continuation would actually require. If certain artworks generated lighter engagement, the question is why: source material depth, gallery positioning, or visitor flow. Understanding the distinction shapes whatever comes next."
+    },
+    {
+      "type": "callout",
+      "text": "What to watch in Phase Three: does the data give you something specific and defensible — a story you can take to a board, a funder, or a budget committee?"
+    },
+    {
+      "type": "h2",
+      "text": "What You Stand to Gain"
+    },
+    {
+      "type": "p",
+      "text": "The upside of a well-run pilot extends beyond the data it produces."
+    },
+    {
+      "type": "p",
+      "text": "Museum directors who run pilots return with evidence, not advocacy. When the board asks whether the investment is justified, the answer is in the report — visitor engagement shifts, language distribution, satisfaction signals — all drawn from a real deployment, in your institution, with your visitors. That's a different conversation than any vendor presentation can offer."
+    },
+    {
+      "type": "p",
+      "text": "Curators gain something they've rarely had: a direct record of visitor curiosity. The questions visitors are actually asking. The artworks holding attention longest. The connections being made across the collection. This is the kind of feedback that shapes interpretation strategy for years."
+    },
+    {
+      "type": "p",
+      "text": "And for visitors — particularly those who arrive in a language the museum hasn't historically served well — the pilot often marks the first time the collection has spoken to them in their own voice. That shift is measurable. It's also the kind of thing that gets noticed, and remembered."
+    },
+    {
+      "type": "h2",
+      "text": "Where Pilots Usually Get Difficult"
+    },
+    {
+      "type": "p",
+      "text": "A few situations are worth knowing about in advance — not as deterrents, but as things to plan for."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Source material has gaps. Some artworks have rich documentation; others have a label and a date. The guide is only as deep as the material it draws from. The remedy is straightforward: focus the pilot on a well-documented selection of works, and use the process to identify where richer interpretation would benefit the broader collection.",
+        "Early visitor adoption builds gradually. The first week is rarely the best data. A guide introduced with clear signage and a natural starting point builds faster than one quietly placed at the entrance. Uptake curves typically steepen through weeks two and three.",
+        "Staff onboarding takes a little time to settle. Most teams find their rhythm within the first two weeks of live deployment. The guide doesn't require their involvement to operate, but it benefits when they're confident directing visitors toward it."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Measure It: The Signals That Matter"
+    },
+    {
+      "type": "p",
+      "text": "Not all metrics carry equal weight. Here's how to frame the evaluation."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Visitor engagement depth is the primary signal. Not a single number, but a pattern: are conversations extending over the deployment period? Are visitors returning to artworks after a conversation? Are particular works generating sustained interest? The direction of these signals, observed consistently over six to eight weeks, tells you whether the guide is functioning as a genuine extension of the curatorial experience.",
+        "Language distribution tells you who your visitors actually are. A guide used across Arabic, French, Spanish, and English tells you things your ticket data never could — and builds the accessibility argument for funders and boards in concrete, observable terms.",
+        "Visitor satisfaction is a supporting signal. Track it through your existing satisfaction mechanisms in parallel with the pilot data. Consistent positive scores across the deployment confirm the experience is landing.",
+        "Staff observation matters. Are visitors self-sufficient with the guide? Are staff noticing more engaged questions — the kind that suggest someone has been deep in a conversation — rather than basic orientation queries?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "What not to measure: uptake rate in week five. Adoption builds over a deployment. A consistent upward trend is far more meaningful than the first-weekend number."
+    },
+    {
+      "type": "h2",
+      "text": "Defining Success Before You Start"
+    },
+    {
+      "type": "p",
+      "text": "The most useful step before a pilot begins is defining what success looks like — specifically, for this institution."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Engagement-first: the pilot succeeds if visitor conversations extend meaningfully and the engagement shift is observable. Operational burden stays minimal throughout.",
+        "Accessibility-first: the pilot succeeds if the guide is actively used in languages the museum currently can't fully serve, and visitor feedback from those groups is positive.",
+        "Institutional-first: the pilot succeeds if the director has a clear, evidenced recommendation to bring to the board — either to continue, to expand, or to conclude with a documented rationale. Ambiguity at the twelve-week mark is the failure state."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Getting specific about this before the pilot starts means the evaluation at week twelve is clean. You know what you were looking for. You know if you found it."
+    },
+    {
+      "type": "callout",
+      "text": "If you're building the internal case for a pilot, or want to walk through what a deployment at your museum would actually involve, we're happy to have that conversation."
+    },
+    {
+      "type": "cta_inline",
+      "text": "Start with a 90-day pilot. We handle the setup.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

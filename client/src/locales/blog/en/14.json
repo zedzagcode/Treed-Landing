@@ -1,0 +1,136 @@
+{
+  "title": "Beyond Language: What Museum Audio Guide Accessibility Really Requires",
+  "excerpt": "Multilingual support is one dimension of audio guide accessibility. It is not the whole picture. A look at what genuinely accessible guide design requires — physical, cognitive, and sensory — and why most systems address only the most visible part of the problem.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Accessibility in museum audio guides is most often discussed as a language question. Does the guide support the visitor’s language? Is the narration available in enough translations to serve an international audience? These are real and important considerations. They are also only one dimension of a problem that has several others — and the others tend to receive significantly less attention in both procurement conversations and vendor documentation."
+    },
+    {
+      "type": "p",
+      "text": "A visitor with low vision. A visitor with cognitive processing differences who finds numbered keypad entry confusing under pressure. An older visitor who has never used a touchscreen and finds the interface harder to navigate than the gallery itself. A visitor with limited hand mobility for whom holding and operating the standard handset is physically demanding. Each of these visitors arrives at the museum with the same intention as any other: to engage with the collection. Each encounters a different set of barriers depending on which guide system is in use."
+    },
+    {
+      "type": "p",
+      "text": "Genuinely accessible guide design requires thinking across these dimensions simultaneously. Language is the most measured and most discussed. It is not always the most limiting."
+    },
+    {
+      "type": "h2",
+      "text": "Physical Accessibility: The Hardware Question"
+    },
+    {
+      "type": "p",
+      "text": "The physical design of a guide handset shapes who can use it comfortably and who cannot. Weight, grip profile, button size, and activation method all determine whether the device is genuinely usable across the full range of visitors who will carry it."
+    },
+    {
+      "type": "p",
+      "text": "Devices that are heavy or awkwardly shaped become fatiguing over a ninety-minute visit, particularly for older visitors, those with joint conditions, or visitors with upper-limb differences. This is rarely flagged in product reviews because the reviewers are typically not the visitors for whom it matters most."
+    },
+    {
+      "type": "p",
+      "text": "Activation method has direct accessibility implications. Number entry — the standard keypad model — requires a visitor to locate small print on a label, read a two or three digit code accurately, and reproduce it correctly on the handset. For visitors with low vision, poor contrast sensitivity, or cognitive processing differences, this is a chain of small tasks that compounds into a significant barrier. A single miskey in the first thirty seconds of using the guide is enough to put some visitors off using it at all."
+    },
+    {
+      "type": "p",
+      "text": "NFC-based activation reduces this to a single gesture — bring the handset near the label — but introduces its own physical consideration: the tag must be positioned at a height accessible to visitors who use wheelchairs or mobility aids, and to children. In a well-designed deployment, this is planned for. In a hastily installed one, it is frequently an afterthought."
+    },
+    {
+      "type": "h2",
+      "text": "Cognitive Accessibility: Interaction Complexity"
+    },
+    {
+      "type": "p",
+      "text": "Cognitive accessibility covers a range of considerations that are easy to overlook because they are invisible until the moment of failure. A guide that seems simple to an experienced technology user may be genuinely confusing to a visitor encountering it for the first time, a visitor with processing differences, or a visitor who is already managing the sensory and navigational demands of a busy museum environment."
+    },
+    {
+      "type": "p",
+      "text": "The number of steps required to access content is the most direct variable. A guide that requires visitors to switch the device on, select a language, navigate a menu, locate a number, and type it correctly before hearing a single word of content has created six points at which a cognitively stressed visitor may lose confidence and give up. Every additional step between the visitor’s intention and the experience they came for is a potential exit."
+    },
+    {
+      "type": "p",
+      "text": "Interface consistency matters too. A guide whose interaction model changes between artworks — where some are activated by number, others by a different method, and the visual signage is inconsistent — creates cognitive overhead that accumulates across the visit. Visitors who are still figuring out how to use the guide at the fifth artwork are not engaging with the fifth artwork."
+    },
+    {
+      "type": "p",
+      "text": "The simplest interaction model is the most cognitively accessible. A single, consistent gesture — one that works identically for every object in the collection and requires no decision-making beyond pointing the device in the right direction — is accessible to the widest range of visitors. Complexity, however well-intentioned, tends to narrow that range."
+    },
+    {
+      "type": "h2",
+      "text": "Sensory Accessibility: Hearing, Vision, and the Audio-First Model"
+    },
+    {
+      "type": "p",
+      "text": "Audio guides have a structural advantage for visitors with low vision that is worth naming explicitly: the primary delivery medium does not require looking at a screen. A visitor who finds text labels illegible and would struggle to navigate a mobile app interface can use a well-designed audio guide without those barriers — as long as the activation gesture is simple and the audio quality is high."
+    },
+    {
+      "type": "p",
+      "text": "For visitors with hearing impairments, the standard audio guide model is largely inaccessible, and this is where most guide systems have their most significant gap. Content delivered as audio only — with no transcript, no visual summary, and no alternative format — excludes a meaningful portion of the visiting population without ceremony or acknowledgement. Adding transcript access, either through a companion screen or through the guide’s own interface, addresses this. Very few traditional audio guide systems make this straightforward."
+    },
+    {
+      "type": "p",
+      "text": "Conversational AI guides open a different possibility for sensory accessibility. Because the interaction is fundamentally language-based rather than audio-track-based, the same underlying knowledge can in principle be delivered through text or speech depending on the visitor’s preference. The architecture does not assume one sensory modality as the default in the way that a purely audio system does."
+    },
+    {
+      "type": "h2",
+      "text": "Age and Generational Accessibility"
+    },
+    {
+      "type": "p",
+      "text": "Age-related accessibility considerations cut in both directions. Older visitors — a significant and growing segment of museum audiences — may find smartphone-based guide systems genuinely difficult: small text, complex interfaces, unfamiliar gesture vocabularies, and the practical problem of needing reading glasses to operate a device that is also being used to display information."
+    },
+    {
+      "type": "p",
+      "text": "At the same time, younger visitors — including children visiting with schools or families — have different physical constraints. Handsets designed for an adult grip are unwieldy for smaller hands. Number labels placed at adult eye level are out of comfortable reading range for children. NFC tags at standard installation height may require a child to stretch or be lifted to activate."
+    },
+    {
+      "type": "p",
+      "text": "A guide system that is genuinely accessible across age ranges requires deliberate choices about handset ergonomics, installation heights, interface simplicity, and content adaptability. Most institutions think about one or two of these. Fewer think about all of them simultaneously."
+    },
+    {
+      "type": "h2",
+      "text": "The Accessibility Audit Most Institutions Haven’t Run"
+    },
+    {
+      "type": "p",
+      "text": "The most direct way to understand where a guide system’s accessibility gaps are is to observe the full range of visitors using it — including those who struggle, fail, and give up without telling anyone. This observation rarely happens systematically because it requires deliberate effort and because the visitors who have difficulty often attribute it to themselves rather than to the system."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Watch visitors at the activation moment. How long does it take? Are there hesitations? Are there visitors who attempt and give up? What are the physical characteristics of the visitors who struggle most?",
+        "Ask at the exit. Not just whether visitors used the guide, but whether there was a moment when they wanted to use it and couldn’t figure out how. Most visitor studies do not ask this question.",
+        "Test with older visitors and visitors with visual or motor differences before deployment, not after. Accessibility retrofitting is significantly more expensive than accessibility-by-design.",
+        "Check NFC tag heights and keypad label contrast with your accessibility team, not just your technology vendor. The two groups are applying different criteria to the same installation."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accessibility as Design, Not Compliance"
+    },
+    {
+      "type": "p",
+      "text": "The distinction between accessibility as a compliance requirement and accessibility as a design principle is consequential. A system designed to meet minimum standards will pass a checklist and still exclude a meaningful proportion of visitors. A system designed around the principle that every visitor should be able to use it without additional assistance will produce a materially better experience for the full range of people who actually walk through the door."
+    },
+    {
+      "type": "p",
+      "text": "For audio guides specifically, the highest-accessibility architecture is one that: requires the fewest steps to activate, uses audio as the primary delivery medium without requiring visitors to look at a screen, works consistently regardless of which language the visitor speaks, and is physically manageable for visitors across a wide range of ages, mobility levels, and hand sizes."
+    },
+    {
+      "type": "p",
+      "text": "Language support is part of this. It is not the whole of it. Institutions that have genuinely prioritised access — rather than the appearance of access — tend to find that the changes required are not dramatic in cost but significant in outcome. They are also the institutions whose visitors from outside the core demographic actually come back."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d is designed as a screen-free, audio-first conversational guide on a purpose-built ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " — with a single NFC activation gesture and full conversation in 12+ languages. No numbered keypad. No app to navigate. No screen between the visitor and the art."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See how the guide works in practice across different visitor profiles — in a real museum collection.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

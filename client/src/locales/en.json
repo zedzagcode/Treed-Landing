@@ -1,0 +1,2392 @@
+{
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "limited": "Limited",
+    "caution": "Caution"
+  },
+  "buttons": {
+    "exploreUseCases": "Explore Use Cases",
+    "discoverUseCases": "Discover Use Cases"
+  },
+  "nav": {
+    "home": "Home",
+    "ecosystem": "Ecosystem",
+    "visitorExperience": "Visitor Experience",
+    "sustainability": "Sustainability",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "bookDemo": "Book a Demo"
+  },
+  "mobileMenu": {
+    "headline": "Let’s give cultural exploration its voice.",
+    "ecosystem": {
+      "badge": "FLAGSHIP",
+      "explore": "Explore",
+      "back": "Back",
+      "handset": {
+        "title": "The Handset",
+        "desc": "Screen-free AI audio companion for museums."
+      },
+      "overview": {
+        "title": "Overview",
+        "desc": "The full Tree'd ecosystem"
+      },
+      "tree": {
+        "title": "The Tree",
+        "desc": "In-gallery charging station"
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "desc": "Live visitor analytics"
+      },
+      "useCases": {
+        "title": "Use Cases",
+        "desc": "Tree'd across every context"
+      }
+    }
+  },
+  "hero": {
+    "label": "Next-gen audio guides",
+    "subtitle": "Tree'd is an AI-powered audio guide system that doesn't just play prerecorded stories. Visitors have two-way conversations. They ask questions and get answers instantly, in their language.",
+    "explore": "Explore the System",
+    "futureTitle": "The future of",
+    "museumStorytelling": "AI museum audio guides"
+  },
+  "solutionLinks": {
+    "overview": "Overview",
+    "handset": "The Handset",
+    "tree": "The Tree",
+    "dashboard": "The Dashboard",
+    "useCases": "Use Cases"
+  },
+  "home": {
+    "hero": {
+      "unbound": "unbound.",
+      "curiosity": "Curiosity,",
+      "desc": "Tree'd turns any museum visit into a self-paced, immersive experience where our AI-powered audio guide responds in real time, in your language."
+    },
+    "ecosystem": {
+      "label": "The Ecosystem",
+      "title1": "A new standard in interactive museum guides,",
+      "title2": "designed for deeper cultural experiences.",
+      "explore": "Explore the Ecosystem",
+      "handset": {
+        "title": "The Handset",
+        "desc": "A screen-free, AI-powered companion. Just lift and ask—it answers naturally in any language.",
+        "view": "View Details"
+      },
+      "tree": {
+        "title": "The Tree",
+        "view": "View Details"
+      },
+      "dashboard": {
+        "title": "The Dashboard",
+        "view": "View Details"
+      }
+    },
+    "visitorExp": {
+      "label": "Visitor Experience",
+      "title": "Designed for curiosity.",
+      "ai": {
+        "title": "Conversational AI",
+        "desc": "Visitors converse with a guide trained on your collection, not a script. Two-way, in any of 12+ languages."
+      },
+      "multi": {
+        "title": "Multilingual Guide",
+        "desc": "Native-level dialogue in 12+ languages, removing all barriers."
+      },
+      "instant": {
+        "title": "Instant Journey",
+        "desc": "No app download. No account. No screen. Visitors pick up the Handset and start exploring."
+      },
+      "tap": {
+        "title": "Tap & Listen",
+        "desc": "Intuitive engagement. Simply tap the Handset to a sensor to connect."
+      },
+      "fullJourney": "Full Visitor Journey"
+    },
+    "cta": {
+      "title": "Start with a 90-day pilot.",
+      "desc": "Turn every visit into a conversation and experience the power of conversational AI in person. Let's build the future of museum storytelling together.",
+      "btn": "Book a Demo",
+      "btnSecondary": "Request Pricing"
+    },
+    "advantages": {
+      "label": "The Tree'd Advantage",
+      "title": "Why Museums",
+      "chooseUs": "Choose Us",
+      "desc": "We don't just provide hardware; we turn your collection into something visitors can interact with.",
+      "cta": "See the system in action",
+      "items": {
+        "edu": {
+          "title": "Educational Mission",
+          "desc": "Increases dwell time, number of exhibits visited, and total interaction and deepens visitor engagement across the entire tour.",
+          "cta": "Explore tracked metrics"
+        },
+        "finance": {
+          "title": "Financial Health",
+          "desc": "Adds a source of income through a revenue-sharing model — boosting earnings per visitor without added staff or tech overhead.",
+          "cta": "How revenue sharing works"
+        },
+        "reach": {
+          "title": "Reach & Satisfaction",
+          "desc": "Attracts broader audiences through multilingual tours and boosts key metrics such as NPS and visitor satisfaction.",
+          "cta": "Discover the visitor experience"
+        },
+        "tech": {
+          "title": "Responsible Tech",
+          "desc": "Hardware housed in biodegradable plastic with high-efficiency, low-energy technology designed for responsible operations.",
+          "cta": "Our Green Commitment"
+        }
+      }
+    },
+    "scroll": "Scroll",
+    "ourClients": "Early Partners"
+  },
+  "footer": {
+    "tagline": "Conversational audio guides for museums. Powered by AI to create more immersive experiences.",
+    "product": "Product",
+    "company": "Company",
+    "contactBlock": "Contact & Support",
+    "rights": "Tree'd History Guide by ZedZag B.V. — All rights reserved.",
+    "revenueSharing": "Revenue Model",
+    "blog": "Blog",
+    "careers": "Careers",
+    "overview": "Solution Overview",
+    "handset": "The Handset",
+    "tree": "The Tree Hub",
+    "dashboard": "Analytics Dashboard",
+    "visitorExperience": "Visitor Experience",
+    "useCases": "Use Cases",
+    "about": "About Us",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp Chat",
+    "bookDemo": "Book a Demo",
+    "sustainability": "Sustainability",
+    "faq": "FAQ",
+    "resources": "Resources",
+    "requestPricing": "Request Pricing",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "termsOfUse": "Terms of Use",
+    "cookieSettings": "Cookie Settings"
+  },
+  "visitorExperience": {
+    "hero": {
+      "title1": "Simply, a",
+      "title2": "better way",
+      "title3": "to explore museums.",
+      "desc": "Tree'd gives visitors the freedom to explore at their own pace, guided by their own curiosity. Instead of following a fixed script, they simply ask questions and hear meaningful answers.",
+      "exploreBtn": "Explore"
+    },
+    "steps": {
+      "label": "How it works",
+      "title": "Simple steps, no learning curve.",
+      "explore": "Explore the full journey",
+      "step1": {
+        "title": "Select your language",
+        "desc": "Start your journey by tapping your Handset on the NFC Language Panel to choose the language for the tour."
+      },
+      "step2": {
+        "title": "Choose an exhibit",
+        "desc": "Exhibits have an NFC chip nearby. Just tap it with the Handset, and you'll instantly hear the story behind the piece."
+      },
+      "step3": {
+        "title": "Start a conversation",
+        "desc": "Have a question? Just ask. The Handset listens, understands what you're asking, and responds with museum-approved knowledge."
+      }
+    },
+    "benefits": {
+      "title": "Designed for real curiosity.",
+      "subtitle": "Tree'd is an audio guide that adapts to visitors, not the other way around.",
+      "items": {
+        "affordable": "Affordable",
+        "noSetup": "No Setup",
+        "multilingual": "Multilingual",
+        "intuitive": "Intuitive",
+        "selfPaced": "Self-Paced",
+        "immersive": "Immersive",
+        "deeperLearning": "Deeper Learning",
+        "instantAnswers": "Instant Answers"
+      }
+    },
+    "comparison": {
+      "label": "Comparison",
+      "heading": "Tree'd vs Audio Guides, Tour Guides, and Apps",
+      "intro": "Audio guides can't answer questions. Live tours are not self-paced. Apps pull attention away from the art. Tree'd fixes all three."
+    },
+    "engagementDifference": {
+      "title1": "The Engagement",
+      "title2": "Gap",
+      "desc": "Traditional audio guides deliver fixed narration. Conversations change how visitors engage. When visitors can ask questions and receive answers in real time, they spend more time with each artwork, explore more pieces, and engage more deeply with the collection."
+    },
+    "cta": {
+      "label": "Museum Partnership",
+      "title1": "Empower Your",
+      "title2": "Institution",
+      "desc": "Give your visitors a reason to dive deep and truly connect with your collection. Join the next generation of guided tours.",
+      "btn": "Bring Tree'd to Your Museum",
+      "secondaryBtn": "Explore Ecosystem"
+    },
+    "visitorJourney": {
+      "title": "Dive Into Our Visitor Journey",
+      "nodes": {
+        "start": "START",
+        "tap": "TAP",
+        "play": "PLAY",
+        "ask": "ASK",
+        "answer": "ANSWER"
+      },
+      "steps": {
+        "step1": {
+          "num": "01",
+          "title": "TOUR START",
+          "desc": "Pick up your screen-free Handset. No apps, no downloads—just curiosity. You're ready to explore the museum at your own pace."
+        },
+        "step2": {
+          "num": "02",
+          "title": "NFC TAP",
+          "desc": "Found something interesting? Simply tap the Handset to the NFC tag near the exhibit that caught your attention. The story begins instantly in your ears."
+        },
+        "step3": {
+          "num": "03",
+          "title": "STORY PLAYING",
+          "desc": "Once activated, a short, museum-curated audio story begins playing through the Handset, giving the visitor essential context about the exhibit."
+        },
+        "step4": {
+          "num": "04",
+          "title": "ASK ANYTHING",
+          "desc": "Have a specific question? Just ask. Our AI understands your context and provides museum-approved answers in real-time."
+        },
+        "step5": {
+          "num": "05",
+          "title": "AI RESPONSE",
+          "desc": "The Handset responds naturally, deepening your connection to the art. Every visit becomes a unique, two-way conversation."
+        }
+      }
+    }
+  },
+  "handset": {
+    "hero": {
+      "label": "The Handset",
+      "title1": "A Conversational",
+      "title2": "Museum Audio Guide",
+      "desc": "An AI-powered museum audio guide device that lets visitors listen to curated stories and ask follow-up questions in real time, in their language.",
+      "cta": "Book A Demo"
+    },
+    "specs": {
+      "lang": {
+        "val": "12+",
+        "label": "Supported Languages"
+      },
+      "battery": {
+        "val": "6",
+        "unit": "hr",
+        "label": "Single Charge"
+      },
+      "latency": {
+        "val": "~2",
+        "unit": "s",
+        "label": "AI Latency"
+      }
+    },
+    "specsPage": {
+      "battery": {
+        "val": "All-day battery",
+        "label": "on a single charge"
+      }
+    },
+    "internal": {
+      "title": "Intelligence inside.",
+      "desc": "Powered by a custom conversational AI model, the Handset processes requests locally to ensure the fastest possible response time and complete visitor privacy.",
+      "dialogue": {
+        "title": "Dynamic Dialogue",
+        "desc": "Speak naturally to the guide. It understands context, follows your curiosity, and responds with human-like intelligence."
+      },
+      "presence": {
+        "title": "Focused Presence",
+        "desc": "Designed to keep your eyes on the art, not a phone. Pure audio immersion without digital distraction."
+      }
+    },
+    "interaction": {
+      "title": "Engineered for museums.",
+      "quote": "Familiar from the first touch",
+      "desc": "The Handset introduces a familiar yet strikingly modern form, inspired by classic telephones. Its screenless design removes distractions, creating an undisrupted connection between visitors and the art.",
+      "tap": {
+        "title": "Simple Tap to Start",
+        "desc": "Just tap an exhibit to begin. No apps, no QR codes, no friction."
+      },
+      "audio": {
+        "title": "Premium Audio Output",
+        "desc": "Silky smooth audio quality for a premium, focused visitor experience."
+      }
+    },
+    "capabilities": {
+      "title": "Effortless intelligence, built for all-day visits.",
+      "desc": "The Handset houses a multilingual conversational AI that answers every question in real time, in the visitor's language.",
+      "items": {
+        "battery": {
+          "title": "6+ Hours",
+          "desc": "Active use on a single charge."
+        },
+        "latency": {
+          "title": "~2s Latency",
+          "desc": "Near-instant AI conversation."
+        },
+        "lang": {
+          "title": "12+ Languages",
+          "desc": "Real-time multilingual support."
+        },
+        "privacy": {
+          "title": "Private",
+          "desc": "No data stored on device."
+        }
+      }
+    },
+    "formFactors": {
+      "label": "Form Factors",
+      "title": "One system. Any form.",
+      "subtitle": "The experience remains exceptional, the form adapts to your museum.",
+      "comingSoon": "Coming soon",
+      "designYourOwn": "Design Your Own",
+      "scrollHint": "Scroll to explore",
+      "cards": {
+        "handset": {
+          "title": "The Handset",
+          "desc": "Our flagship. Instantly familiar and intuitive to use."
+        },
+        "box": {
+          "title": "The Box",
+          "desc": "Compact and minimal. Built for AUX-first experiences."
+        },
+        "watch": {
+          "title": "The Watch",
+          "desc": "AUX-first with easier NFC scanning on the move."
+        },
+        "custom": {
+          "title": "The Custom",
+          "desc": "Customize the shape and color to suit your space, your visitors, your story."
+        }
+      }
+    },
+    "feature_highlights": {
+      "label": "Discover",
+      "title1": "Feature",
+      "title2": "Highlights",
+      "heading": "Feature Highlights",
+      "slides": [
+        {
+          "title": "Engineered for Precision",
+          "desc": "Built with tight tolerances and premium materials to ensure long-term durability and reliability for heavy museum usage."
+        },
+        {
+          "title": "Real-Time Intelligence",
+          "desc": "Optimized processing power delivers fast, natural conversations that allow visitors to ask follow-up questions without any delay.",
+          "link_text": "Explore Use Cases",
+          "link_href": "/use-cases"
+        },
+        {
+          "title": "Built for Global Audiences",
+          "desc": "Advanced multilingual support allows for natural dialogue across dozens of languages without the need for separate device versions."
+        },
+        {
+          "title": "Magnetic Docking System",
+          "desc": "Snaps seamlessly into the Tree through magnetic plugs for effortless charging and intuitive placement for both staff and visitors.",
+          "link_text": "Explore the Tree",
+          "link_href": "/tree"
+        },
+        {
+          "title": "Instant Content Sync",
+          "desc": "Push firmware updates, new points of interests or language, and content refinements remotely and sync every Handset in seconds without physical intervention."
+        },
+        {
+          "title": "Understand Visitor Behavior",
+          "desc": "Track detailed engagement metrics and exhibit performance through our comprehensive dashboard to gain deep insights into visitor interests.",
+          "link_text": "Discover the Dashboard",
+          "link_href": "/dashboard"
+        },
+        {
+          "title": "All-Day Battery Performance",
+          "desc": "High-capacity power engineered to support museum operating hours without interruption, ensuring every visitor gets a full experience."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bring Your Exhibits to Life",
+      "desc": "Ready to give your visitors an unforgettable, conversational journey? Let's discuss how the Handset fits your museum's story. 90-day pilots available.",
+      "btn": "Reserve Your Demo",
+      "btnSecondary": "Request Pricing"
+    },
+    "rotate_scrollytelling": {
+      "label": "Elegant.",
+      "highlight": "Sleek.",
+      "rest": "Intelligent."
+    },
+    "explodedView": {
+      "heading1": "Precision Engineering Under the Hood",
+      "heading2": "Intelligence Invisible",
+      "scrollHint": "Scroll to Explore Internals",
+      "para1": "Every component is placed with intent, maintaining the iconic silhouette while maximizing performance.",
+      "para2": "A complex ecosystem of hardware, housed in a form factor that feels natural and familiar.",
+      "components": {
+        "audio": {
+          "label": "High-Resolution Audio Output",
+          "sublabel": "Natural sound"
+        },
+        "nfc": {
+          "label": "NFC Reader",
+          "sublabel": "Tap to start instantly"
+        },
+        "battery": {
+          "label": "18650 Li-ion Battery",
+          "sublabel": "High capacity for long tours"
+        },
+        "haptic": {
+          "label": "Haptic Motor",
+          "sublabel": "Tactile feedback"
+        },
+        "core": {
+          "label": "Processor",
+          "sublabel": "Fast AI processing"
+        },
+        "mic": {
+          "label": "Digital Microphone",
+          "sublabel": "Speech-to-text"
+        }
+      }
+    }
+  },
+  "sustainability": {
+    "hero": {
+      "label": "Sustainability",
+      "title1": "Sustainable Museum Technology,",
+      "title2": "Built for Longevity",
+      "desc": "Tree'd is built from the ground up to minimize waste, maximize longevity, and respect our resources. We believe the future of technology shouldn't cost the earth."
+    },
+    "stats": {
+      "plastic": {
+        "val": "100%",
+        "title": "Biodegradable Plastic",
+        "desc": "Tree'd Handsets are 3D printed using biodegradable materials, reducing end-of-life waste. Modular components allow batteries and parts to be replaced, not discarded.",
+        "cta": "Discover The Handset"
+      },
+      "local": {
+        "val": "Local",
+        "title": "Infrastructure",
+        "desc": "All AI processing runs on The Tree, our on-site hub. No cloud queries. No external data transfer. Local processing reduces the carbon footprint of every visitor interaction.",
+        "cta": "Discover The Tree"
+      },
+      "ai": {
+        "val": "Smart",
+        "title": "Closed Universe AI",
+        "desc": "Efficient design ensures every response is relevant, reducing unnecessary computation and avoiding the energy waste of general-purpose models.",
+        "cta": "Discover The Ecosystem"
+      }
+    },
+    "deepDive": {
+      "label": "Responsible Tech",
+      "title": "Efficient by Design.",
+      "desc": "Local processing reduces energy consumption compared to constant cloud communication. Modular hardware extends product lifespan. Every component is designed to minimize waste while maintaining performance at scale.",
+      "localProcessing": {
+        "title": "Local Processing",
+        "desc": "Processing data locally significantly reduces the carbon footprint compared to constant cloud data transmission."
+      },
+      "longevity": {
+        "title": "Longevity & Repair",
+        "desc": "Modular components allow for easy repairs and battery replacements, keeping devices in use longer and out of landfills."
+      }
+    },
+    "responsible": {
+      "title": "Responsible Technology for Cultural Spaces",
+      "desc": "Tree'd is designed to operate within cultural spaces without adding digital or environmental noise. Screen-free interaction keeps attention on the collection. No disposable batteries reduce ongoing waste. Local processing eliminates constant cloud traffic. Modular hardware ensures devices can be repaired, reused, and kept in circulation longer."
+    },
+    "visitorExpLink": "See how this shapes the visitor experience",
+    "cta": {
+      "title": "Build a more sustainable visitor experience.",
+      "desc": "See how Tree'd is designed to avoid unnecessary processing and keep devices in use longer through efficient AI and modular hardware.",
+      "btn": "Book a Demo",
+      "btnSecondary": "Request Pricing"
+    }
+  },
+  "careers": {
+    "hero": {
+      "label": "Careers",
+      "title1": "No titles. No limits.",
+      "title2": "We go extraordinary.",
+      "desc": "We’re building AI audio guide systems for museums and looking for craft-obsessed individuals to join a small, high-impact team. No bureaucracy, just pure building.",
+      "playbook": "Our Playbook",
+      "pills": {
+        "remote": "Remote-First",
+        "impact": "High Impact",
+        "culture": "Culture-Driven",
+        "performance": "High Performance",
+        "flexibility": "Flexibility",
+        "fun": "Fun",
+        "growth": "Fast Growth",
+        "peers": "Talented Peers"
+      }
+    },
+    "valuesTitle": "Our Values",
+    "valuesDesc": "Tree'd builds AI audio guide systems for museums. Visitors tap exhibits, listen to curated stories, and ask questions to get answers instantly, in their language, without screens or apps.",
+    "valuesCta": "Who We Are",
+    "values": {
+      "respect": {
+        "title": "Respect Over Disruption",
+        "desc": "We design with deep respect for cultural spaces and the stories they hold. Tree'd exists to nurture the visitor–exhibit relationship, and never interrupt it."
+      },
+      "simple": {
+        "title": "Simple Yet Powerful",
+        "desc": "We believe the best ideas don't need to announce themselves. We build intuitive products that are understood in seconds, not explained in steps."
+      },
+      "curiosity": {
+        "title": "Curiosity Comes First",
+        "desc": "We believe questions are where the experience begins. Tree'd is built to reward curiosity, whether it comes from a visitor in a gallery or a designer on our team."
+      },
+      "intent": {
+        "title": "Build With Intent",
+        "desc": "Tree'd works in spaces where silence matters and distraction isn't an option. That's why we build with care. Every detail must serve the overall experience."
+      }
+    },
+    "process": {
+      "title": "Our Application Process",
+      "subtitle": "We don't do rigid job titles. If you're craft-obsessed and you build, we want to hear from you, always. We accept applications all year round to join our high-impact team.",
+      "note": "When applying, please mention the function or area you're most interested in (e.g., software, marketing, sales, design, operations.)",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Send your application",
+          "desc": "Tell us what excites you and what you've built. Add your CV and anything that proves your work."
+        },
+        {
+          "step": "02",
+          "title": "Quick conversation",
+          "desc": "A short call to understand how you think, communicate, and collaborate."
+        },
+        {
+          "step": "03",
+          "title": "Practical case",
+          "desc": "A real-world exercise designed to reflect the kind of work you would actually do. Clear scope, reasonable time."
+        },
+        {
+          "step": "04",
+          "title": "Join the team",
+          "titleHover": "Join the team ;)",
+          "desc": "Receive the offer. Most hires wrap in under 2 weeks."
+        }
+      ]
+    },
+    "positions": {
+      "title": "Apply Now",
+      "apply": "Send your Application"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Who We Are",
+      "title1": "Reimagining",
+      "title2": "Connection.",
+      "desc": "Tree'd builds AI audio guide systems for museums. Visitors tap exhibits, listen to curated stories, and ask questions to get answers instantly, in their language, without screens or apps.",
+      "stats": {
+        "countries": "countries",
+        "offices": "Offices",
+        "goal": "goal"
+      }
+    },
+    "careers": {
+      "label": "Careers",
+      "title1": "Build the Future of",
+      "title2": "CultureTech",
+      "desc": "If our mission, vision, and values resonate with you and you want to work at the intersection of culture, technology, and human experience, Tree'd might be the place for you. We're building the next generation of audio guides for museums and cultural institutions worldwide, and we're always looking for curious, driven people to grow with us.",
+      "cta": "Visit Careers",
+      "disciplinesLabel": "Open Disciplines",
+      "viewAll": "View all open roles",
+      "disciplines": [
+        "AI & Machine Learning",
+        "Embedded Hardware",
+        "Embedded Software",
+        "Product Design",
+        "Sales",
+        "Software Engineering"
+      ],
+      "marqueeItems": [
+        "Hybrid",
+        "Amsterdam",
+        "Cairo",
+        "Culture",
+        "Flexible Schedules"
+      ]
+    },
+    "whatWeDo": {
+      "eyebrow": "What We Do",
+      "heading": "We build the entire system ourselves, from electronics to software to physical design.",
+      "subheading": "Every layer is developed in-house, so the entire experience works as a single, coherent ecosystem.",
+      "cards": [
+        {
+          "title": "Electronics & Embedded Systems",
+          "body": "We design our own boards, select each component deliberately, and engineer efficient circuit boards built for reliability, performance, and continuous use in demanding environments."
+        },
+        {
+          "title": "Software & AI Infrastructure",
+          "body": "We develop the full software stack, from embedded firmware to on-device conversational AI, to the backend and dashboard, ensuring speed, stability, and seamless interaction."
+        },
+        {
+          "title": "Industrial Design & Manufacturing",
+          "body": "We design and produce our own housings with a focus on sustainability, durability, ergonomics, and aesthetics, ensuring each device is intuitive to use and built to withstand heavy daily use."
+        }
+      ]
+    },
+    "mission": {
+      "label": "Mission",
+      "title": "To build, develop, and implement intuitive, multilingual solutions that enable museums to offer more immersive, engaging experiences.",
+      "commitment": {
+        "title": "Our Commitment",
+        "desc": "Culture is not static, and museum experiences should not be either. Thus, we're committed to building systems that let visitors explore freely, engage more deeply, and ask as many questions as they desire, without barriers of language or format.",
+        "cta": "Discover the visitor experience"
+      },
+      "vision": {
+        "title": "Vision",
+        "desc": "To make culture and history exploration feel personal, everywhere.",
+        "cta": "See what we're building"
+      },
+      "values": {
+        "label": "Our Values",
+        "heading": "The principles that guide our craft.",
+        "curiosity": {
+          "title": "Curiosity Comes First",
+          "desc": "Questions are where the experience begins. Tree'd is built to reward curiosity."
+        },
+        "intent": {
+          "title": "Build with Intent",
+          "desc": "We work in spaces where silence matters. Every detail must serve the visitor experience."
+        },
+        "respect": {
+          "title": "Respect Over Disruption",
+          "desc": "We nurture the visitor-exhibit relationship and never interrupt it."
+        },
+        "simple": {
+          "title": "Simple Yet Powerful",
+          "desc": "The best ideas don't announce themselves. Intuitive products, understood in seconds."
+        }
+      }
+    },
+    "inspiration": {
+      "label": "HOVER TO EXPLORE",
+      "heading": {
+        "before": "What Inspires Us",
+        "highlight": "into what we build."
+      },
+      "paragraph": {
+        "line1": "These are what shape how we think, design, and build.",
+        "line2": {
+          "before": "They are",
+          "highlight": "what keeps us going."
+        }
+      },
+      "cards": [
+        {
+          "heading": "Museums",
+          "body": "Museums hold centuries of meaning. They shouldn’t be limited to static playback. They deserve tools that help visitors truly understand what they’re looking at."
+        },
+        {
+          "heading": "Curiosity",
+          "body": "Visitors learn through stories, but their curiosity goes far beyond them. Current tour solutions stop at the script. We build for a limitless layer of questions."
+        },
+        {
+          "heading": "Tech to Educate",
+          "body": "We’re inspired by building tech that exists to deepen understanding. Across art, history, and civilizations, it should help people learn, not distract them."
+        },
+        {
+          "heading": "Access for All",
+          "body": "No one should feel lost in a museum. We’re driven by making culture accessible, regardless of language, background, or prior knowledge."
+        }
+      ]
+    }
+  },
+  "booking": {
+    "title": "Book a Demo",
+    "subtitle": "Experience next-gen audio guides",
+    "description": "See how AI audio guides work in your museum in 30 minutes.",
+    "highlights": [
+      "Try the conversational guide live",
+      "See how it fits your exhibition setup",
+      "Get pricing and deployment details"
+    ],
+    "expectTitleStart": "What to expect in",
+    "expectTitleHighlight": "30 minutes",
+    "expectTitleEnd": "?",
+    "expectItems": [
+      {
+        "text": "Try a conversational audio guide and ask it questions in real time",
+        "inPersonOnly": true
+      },
+      {
+        "text": "See the Handset in action and how visitors start using it immediately",
+        "inPersonOnly": true,
+        "linkedWord": "Handset",
+        "linkedHref": "/handset"
+      },
+      {
+        "text": "Explore the analytics dashboard and how it supports decision-making",
+        "linkedWord": "analytics dashboard",
+        "linkedHref": "/dashboard"
+      },
+      {
+        "text": "Understand how Tree'd would be deployed in your specific space"
+      },
+      {
+        "text": "Review the commercial model, including revenue sharing and pricing options",
+        "linkedWord": "revenue sharing",
+        "linkedHref": "/revenue-sharing"
+      },
+      {
+        "text": "Walk away with a clear next step and a proposal tailored to your museum"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact Us",
+      "title1": "Let's",
+      "title2": "Connect.",
+      "desc": "Whether you're exploring Tree'd for your museum, have a technical question, or want to discuss a partnership, we're here to help. Most inquiries receive a response within one business day."
+    },
+    "info": {
+      "write": "Write to us",
+      "call": "Call us",
+      "whatsapp": "WhatsApp",
+      "copy": "Copy"
+    },
+    "form": {
+      "firstName": "First Name *",
+      "lastName": "Last Name",
+      "museum": "Museum Name *",
+      "email": "Email Address *",
+      "message": "Message *",
+      "submit": "Start the Conversation",
+      "success": "Message sent! We'll be in touch soon.",
+      "error": "Something went wrong. Please try again.",
+      "placeholders": {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "museum": "The National Gallery",
+        "email": "jane@museum.com",
+        "message": "How can we help?"
+      }
+    },
+    "newsletter": {
+      "title": "Stay Up-To-Date",
+      "desc": "Follow our journey",
+      "placeholder": "Enter your email",
+      "btn": "Subscribe"
+    },
+    "globe": {
+      "label": "Our Offices",
+      "title1": "& Cairo.",
+      "title2": "Amsterdam",
+      "openInMaps": "Open in Maps",
+      "ams": {
+        "title": "Headquarters",
+        "address": "Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands"
+      },
+      "cairo": {
+        "title": "Secondary Office · R&D",
+        "address": "District B, Cairo University Compound, Giza, Egypt"
+      }
+    }
+  },
+  "solution": {
+    "hero": {
+      "label": "The Ecosystem",
+      "title1": "The Next-Gen",
+      "title2": "Audio Guide.",
+      "desc": "Tree'd is a complete AI audio guide system: a screen-free Handset, an on-premise AI hub, and a real-time analytics dashboard, designed to deliver interactive, self-paced museum experiences.",
+      "boxes": {
+        "ai": {
+          "title": "Conversational AI",
+          "desc": "Turns your museum audio guide into a two-way experience. Ask questions, get answers in real time."
+        },
+        "multi": {
+          "title": "Multilingual Guide",
+          "desc": "Native-level multilingual audio guide experience in 12+ languages with sub-2s latency."
+        },
+        "local": {
+          "title": "Local Network",
+          "desc": "No personal data stored. Secure, private, and allows for responsible use of energy."
+        }
+      }
+    },
+    "usps": {
+      "ai": {
+        "title": "Conversational AI",
+        "desc": "Turns your museum audio guide into a two-way experience. Ask questions, get answers in real time."
+      },
+      "multi": {
+        "title": "Multilingual Guide",
+        "desc": "Native-level multilingual audio guide experience in 12+ languages with sub-2s latency."
+      },
+      "local": {
+        "title": "Local Network",
+        "desc": "No personal data stored. Secure, private, and allows for responsible use of energy."
+      }
+    },
+    "revenue": {
+      "label": "Financial Models",
+      "title": "Turn Every Visit into",
+      "subtitle": "Revenue",
+      "desc": "Tree'd is designed to be a self-sustaining asset for your museum. While we offer standard licensing for institutions with available budget, we specialize in a frictionless <strong>revenue-sharing model</strong>.",
+      "desc2": "If your budget is tight, we provide the hardware and infrastructure at a <strong>minimal upfront cost</strong>, sharing a portion of the visitor guide fees. This transforms our service into a net-positive revenue stream from day one.",
+      "cta": "How Revenue Sharing Works",
+      "models": [
+        {
+          "title": "Revenue Sharing",
+          "desc": "Minimal upfront cost. We grow when you grow."
+        },
+        {
+          "title": "Direct Licensing",
+          "desc": "Institutional licensing with fixed annual fees."
+        }
+      ]
+    },
+    "comparison": {
+      "label": "Comparison",
+      "title": "Why Tree'd stands apart.",
+      "desc": "See how our screen-free ecosystem compares to traditional methods and modern apps.",
+      "headers": {
+        "feature": "Feature",
+        "treed": "Tree'd",
+        "audio": "Audio Guides",
+        "guide": "Tour Guides",
+        "apps": "VR/AR/Apps"
+      },
+      "rows": {
+        "interactive": "Interactive, two-way interaction",
+        "followup": "Answers follow-up questions",
+        "selfpaced": "Self-paced exploration",
+        "route": "Choose your own route",
+        "dashboard": "Powerful dashboard & analytics",
+        "price": "Under €10",
+        "multi": "Multilingual system",
+        "scheduling": "No scheduling needed",
+        "eyesOn": "Eyes-on-artifact engagement",
+        "zeroLearning": "Zero tech learning curve",
+        "noOnboarding": "No sign-ups or onboarding"
+      }
+    },
+    "handset": {
+      "title": "The Handset",
+      "desc": "The visitor's companion. A screen-free, vintage-inspired audio device that lets visitors tap exhibits and ask follow-up questions in real time.",
+      "specs": {
+        "lang": {
+          "title": "12+ Languages",
+          "desc": "Native multilingual support instantly."
+        },
+        "battery": {
+          "title": "6hr Battery",
+          "desc": "Uninterrupted usage for all-day visits."
+        },
+        "latency": {
+          "title": "Lightning Fast",
+          "desc": "~2 second AI latency for natural conversation."
+        }
+      },
+      "cta": "Deep Dive"
+    },
+    "tree": {
+      "title": "The Tree",
+      "desc": "The dependable backbone of your museum audio guide system. It securely distributes audio tracks, AI knowledge, and firmware updates to every Handset.",
+      "specs": {
+        "charging": "Auto Charging",
+        "storage": "High-Density Storage",
+        "local": "Local Content",
+        "custom": "Custom Design"
+      },
+      "cta": "Deep Dive"
+    },
+    "dashboard": {
+      "title": "The Dashboard",
+      "desc": "Real-time visibility into visitor engagement, language mix, and popular artifacts through a powerful museum analytics dashboard.",
+      "specs": {
+        "trends": "Engagement Trends",
+        "mix": "Language Mix",
+        "health": "System Health",
+        "privacy": "Privacy-First Insights"
+      },
+      "cta": "Deep Dive"
+    },
+    "comparison_new": {
+      "text_block": {
+        "top": "Traditional audio guides are a one-way street.",
+        "bottom": "Tree'd is a conversation."
+      },
+      "why_different": {
+        "title": "Why Tree'd is different",
+        "subtitle": "A museum audio guide system designed for two-way exploration — without screens, apps, or scheduling."
+      },
+      "comparisons": [
+        {
+          "title": "Traditional Audio Guides",
+          "items": [
+            "Fixed recordings",
+            "One-way playback",
+            "No follow-up answers"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Real-time responses",
+            "Two-way conversation",
+            "Instant Q&A, museum-approved"
+          ]
+        },
+        {
+          "title": "Live Tours",
+          "items": [
+            "Scheduled",
+            "Group-paced",
+            "Limited availability"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Always available",
+            "Fully self-paced",
+            "Scales across languages"
+          ]
+        },
+        {
+          "title": "Mobile Apps",
+          "items": [
+            "Screen distraction",
+            "Downloads & setup",
+            "Device compatibility issues"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Screen-free experience",
+            "No downloads, no onboarding",
+            "Purpose-built museum hardware"
+          ]
+        }
+      ],
+      "cta": "See the full visitor journey →"
+    },
+    "conversational_guide": {
+      "scrollytelling": {
+        "label": "UNDERSTANDING",
+        "highlight": "CONVERSATIONAL",
+        "rest": "AUDIO GUIDES"
+      },
+      "static": {
+        "title": "What is a conversational audio guide?",
+        "para1": "A conversational museum guide is an audio guide that allows visitors to ask questions and receive answers in real time, instead of listening to fixed recordings.",
+        "para2": "Visitors explore at their own pace, ask follow-up questions, and receive responses in their language, based on curated museum content.",
+        "traditional": {
+          "label": "Traditional audio guide",
+          "items": [
+            "Fixed recordings",
+            "No follow-up",
+            "Same experience for everyone"
+          ]
+        },
+        "conversational": {
+          "label": "Conversational audio guide",
+          "items": [
+            "Real-time answers",
+            "Two-way interaction",
+            "Adapts to each visitor"
+          ]
+        },
+        "cta": "Explore the system behind it"
+      }
+    }
+  },
+  "revenueSharing": {
+    "hero": {
+      "label": "Revenue Model",
+      "title": "Turn every visit",
+      "subtitle": "into revenue.",
+      "desc": "A revenue-sharing model for our AI audio guides with minimal upfront cost, aligned with your museum’s growth.",
+      "cta": {
+        "primary": "Book a Demo",
+        "secondary": "Jump to Calculator"
+      }
+    },
+    "philosophy": {
+      "label": "The Foundation",
+      "title": "BUILT TO GROW TOGETHER",
+      "desc": "Revenue share is calculated using a dynamic equation. There is no flat percentage applied to all museums. We grow as you grow.",
+      "primary": {
+        "label": "Major Variable",
+        "title": "PRIMARY DRIVER",
+        "desc": "Annual Visitor Volume is our primary metric. Higher annual visitor numbers result in a progressively higher museum share."
+      },
+      "secondary": {
+        "label": "The Multipliers",
+        "title": "SECONDARY DRIVERS",
+        "items": [
+          "Number of Handsets deployed",
+          "Number of exhibits covered",
+          "Number of languages supported"
+        ]
+      }
+    },
+    "waived": {
+      "title": "WAIVED UPFRONT COSTS",
+      "desc": "We minimize financial barriers to innovation, subject to the size and scope of your project.",
+      "items": {
+        "hardware": {
+          "label": "Hardware",
+          "title": "Standard Handset fleet included",
+          "note": "Additional Handsets are charged for"
+        },
+        "software": {
+          "label": "Software",
+          "title": "No licensing fees",
+          "note": "Strategic partnership model"
+        },
+        "access": {
+          "label": "Access",
+          "title": "2 free users access",
+          "note": "Analytics dashboard included"
+        },
+        "infra": {
+          "label": "Infrastructure",
+          "title": "Implementation support",
+          "note": "Pilot projects available for evaluation"
+        }
+      }
+    },
+    "calculator": {
+      "title": "Estimate Your Audio Guide Revenue",
+      "subtitle": "",
+      "desc": "Use the calculator below to estimate potential revenue from AI audio guides based on your annual visitors and expected adoption rate.",
+      "labels": {
+        "annualVisitors": "Annual Visitors",
+        "adoptionRate": "Adoption Rate",
+        "adoptionTip": "The percentage of visitors who use the audio guide during their visit.",
+        "museumShare": "Museum Share",
+        "shareTip": "Your portion of the total revenue generated, determined by our dynamic scaling equation.",
+        "pricePerTour": "Price per tour",
+        "priceTip": "This is the price we'll agree upon to charge to visitors to use the Tree'd guided tour.",
+        "forecast": "Annual Museum Forecast",
+        "netEarnings": "Projected net earnings",
+        "totalRevenue": "Total Project Revenue",
+        "totalTours": "Estimated Annual Tours",
+        "getStarted": "Get Started with Tree'd",
+        "bookCall": "Book a Strategy Call",
+        "chart": {
+          "title": "Museum Revenue Forecast",
+          "subtitle": "Revenue scaling by Adoption Rate",
+          "legend": "Your projection"
+        }
+      }
+    }
+  },
+  "tree": {
+    "cta": {
+      "title1": "Curious to learn more about the ",
+      "magic": "magic",
+      "title2": " behind the scenes?",
+      "desc": "Our engineers are ready to walk you through the full architectural stack.",
+      "btn": "Connect with an Expert"
+    },
+    "hero": {
+      "label": "Backbone Architecture",
+      "title": "The Tree.",
+      "desc": "The local processing engine behind your museum audio guide system. It charges, syncs, and delivers AI knowledge across every device, so your team never has to.",
+      "explore": "Explore",
+      "bullets": {
+        "ai": "AI processed entirely on-site",
+        "infra": "Fully self-contained infrastructure",
+        "runs": "Runs itself, start to finish"
+      }
+    },
+    "infrastructure": {
+      "label": "Infrastructure",
+      "title": "Modern infrastructure for a modern guide.",
+      "desc": "The Tree creates a dependable foundation by handling all computation and file transfers locally, keeping the system extremely fast and independent of external services.",
+      "points": {
+        "stable": "Fast, stable, and independent of external cloud services.",
+        "simple": "Simplifies the start and end of every museum day.",
+        "updates": "Automatic updates and charging without manual checks."
+      },
+      "clean": {
+        "title": "Engineered for reliability at scale.",
+        "desc": "Visitor devices fully charged, synced, and prepared for the day ahead."
+      },
+      "quote": {
+        "label": "Core",
+        "heading": "Engineered for reliability at scale so that everything works, all the time.",
+        "headingPrefix": "Engineered for reliability at scale so that everything works,",
+        "headingUnderlined": "all the time."
+      }
+    },
+    "operational": {
+      "label": "System Operation",
+      "title1": "Operational Harmony,",
+      "title2": "Processed Locally.",
+      "desc": "The Tree manages the complexity of your museum audio guide system so your staff can focus on what matters: the visitors.",
+      "engine": {
+        "title": "Autonomous On-Site Processing & Distribution",
+        "desc": "A lightning-fast onsite hub that handles all AI processing and securely distributes content updates to every Handset. Completely independent from external servers with zero latency.",
+        "tags": {
+          "compute": "On-Premise compute",
+          "sync": "Instant Sync"
+        }
+      },
+      "power": {
+        "title": "Intelligent Fleet Power",
+        "desc": "Adaptive charging that prioritizes Handsets based on battery level and usage patterns. Never start a museum day with depleted devices.",
+        "status": "Fast Charging Active"
+      },
+      "presentation": {
+        "title": "Integrated Display & Organization",
+        "desc": "Devices are stored, charged, and presented as part of the museum environment: always organized, accessible, and ready."
+      },
+      "sync": {
+        "title": "Silent Auto-Sync",
+        "desc": "All activity is processed on-site and surfaced in the Analytics Dashboard, giving your team full visibility without relying on external systems."
+      }
+    },
+    "tailored": {
+      "title": "Tailored designs to your museum.",
+      "desc": "Every museum has its own character—and the Tree is built to respect that. We customize its form, finish, and materials to blend seamlessly with your galleries.",
+      "items": {
+        "custom": {
+          "title": "Custom Design Integration",
+          "desc": "Minimal acrylic, sculptural metal, or fully bespoke builds tailored to your space."
+        },
+        "last": {
+          "title": "Built for Daily Use",
+          "desc": "Durable materials designed to maintain appearance and performance under constant use."
+        },
+        "scale": {
+          "title": "Scalable System Design",
+          "desc": "Configured for deployments from 20 to 200+ devices, adapting to your museum size."
+        },
+        "collab": {
+          "title": "Artist Collaboration",
+          "desc": "Optional collaborations with local artists to reflect the identity of your institution."
+        }
+      }
+    },
+    "automate": {
+      "headline": "Everything runs locally. Nothing to manage.",
+      "intro": "The Tree runs the system in the background — keeping every device ready, every interaction instant, and everything in sync.",
+      "outcome1": {
+        "title": "Every device is ready before doors open",
+        "pills": [
+          "Adaptive charging",
+          "Automated overnight sync",
+          "Fleet-wide readiness checks"
+        ]
+      },
+      "outcome2": {
+        "title": "Instant performance, fully independent of external systems",
+        "pills": [
+          "On-premise processing",
+          "Local file distribution",
+          "Offline-first architecture"
+        ]
+      },
+      "outcome3": {
+        "title": "Fully automated charging, syncing, and system management",
+        "pills": [
+          "Silent auto-sync",
+          "Intelligent fleet power",
+          "Background system updates"
+        ]
+      }
+    },
+    "connectivity": {
+      "label": "Connectivity",
+      "title": "Secure, dependable, offline-first.",
+      "onsite": {
+        "title": "On-site Local Network",
+        "desc": "Runs uninterrupted even if internet goes down."
+      },
+      "encrypted": {
+        "title": "Encrypted Channels",
+        "desc": "All communication is authenticated and safeguarded."
+      },
+      "autonomous": {
+        "title": "Zero External Dependencies",
+        "desc": "No cloud. No external servers. Built as a fully on-premise museum audio guide system."
+      },
+      "cta": {
+        "desc": "Curious to learn more about how The Tree does it all behind the scenes?",
+        "btn": "Talk To An Expert"
+      }
+    },
+    "optionalLabel": "Optional"
+  },
+  "dashboard": {
+    "cta": {
+      "label": "Book a Live Demo",
+      "headline": "See what your museum actually looks like in {{numbers}}",
+      "subheadline": "Walk through the dashboard, explore real scenarios, and understand what changes once you can see how visitors truly behave.",
+      "numbersWord": "numbers",
+      "primary": "Book a Live Demo",
+      "secondary": "Dashboard Virtual Walkthrough"
+    },
+    "hero": {
+      "label": "Real-Time Analytics",
+      "title": "Understand your visitors, clearly",
+      "subtitle": "Visualizing Curiosity.",
+      "desc": "Track engagement, language mix, and popular artifacts in real time — all processed on-site, fully private."
+    },
+    "trust": {
+      "title1": "Privacy-first.",
+      "title2": "Built for trust.",
+      "desc": "All insights are generated from on-site usage data. No personal data is stored on the Handset, and your museum stays in control of what's collected and how it's used."
+    },
+    "metrics": {
+      "label": "Metrics",
+      "title": "Consolidated insight.",
+      "desc": "The Dashboard brings together every signal Tree'd collects into a single, organized view. These metrics are presented clearly and always anonymously, giving museums a practical understanding of how visitors explore, learn, and move through their spaces.",
+      "behavior": {
+        "title": "Visitor Behavior",
+        "items": [
+          "Popular paths through the museum",
+          "Heatmap of gallery movement",
+          "Dwell time per visit and per artifact",
+          "Popularity of specific themes and collections"
+        ]
+      },
+      "interaction": {
+        "title": "Listening & Interaction",
+        "items": [
+          "Audio track completion rates",
+          "Follow-up questions asked to AI",
+          "Most frequent themes of follow-up questions",
+          "Number of exhibit scans per visitor"
+        ]
+      },
+      "language": {
+        "title": "Language & Origin",
+        "items": [
+          "Breakdown of visitor language selection",
+          "Shift in language trends over time",
+          "Artifact popularity filtered by language group"
+        ]
+      },
+      "system": {
+        "title": "System Health",
+        "items": [
+          "Active Handsets in the museum",
+          "Battery health and cycles",
+          "Charge time and docking status",
+          "Signal stability across galleries"
+        ]
+      }
+    },
+    "visuals": {
+      "label": "See It in Practice",
+      "title": "What the data looks like.",
+      "engagement": {
+        "title": "Active Engagement",
+        "desc": "Real-time mapping of visitor interest and dwell time across every gallery."
+      },
+      "mix": {
+        "title": "Language Mix",
+        "desc": "Visualizing the global reach of your museum through real-time language metrics."
+      },
+      "popularity": {
+        "title": "Popular Artifacts",
+        "desc": "Identify exactly which pieces spark the most conversation and curiosity."
+      },
+      "reach": {
+        "title": "Visitor Reach",
+        "desc": "Track how your exhibitions connect with audiences across different demographics."
+      }
+    },
+    "gallery": {
+      "label": "Feature Gallery",
+      "title": "Every Piece of Art Tells a Story",
+      "scrollHint": "Scroll to explore",
+      "expandTip": "Click to expand",
+      "cards": {
+        "inviteUsers": "Invite Users",
+        "completionRates": "Completion Rates",
+        "artifacts": "Artifacts",
+        "home": "Home",
+        "languageMix": "Language Mix",
+        "analytics": "Analytics",
+        "status": "Status"
+      }
+    },
+    "scrollytelling": {
+      "title": "Insights that drive better experiences.",
+      "labels": {
+        "insights": "Powerful insights",
+        "interface": "User-friendly interface",
+        "team": "Actionable for your team",
+        "glance": "All at a glance"
+      }
+    },
+    "privacy": {
+      "label": "Privacy",
+      "headline1": "Privacy is not a setting.",
+      "headline2": "It is the architecture.",
+      "pills": [
+        "No voice recordings",
+        "No visitor profiles",
+        "On-premise processing",
+        "GDPR-Compliant"
+      ],
+      "statements": [
+        {
+          "title": "No voice recordings, ever.",
+          "body": "Conversations with the guide are processed in real time and discarded immediately. Nothing is stored on the Handset. Nothing leaves the museum."
+        },
+        {
+          "title": "No visitor profiles, ever.",
+          "body": "The dashboard shows you patterns across your audience — never data tied to an individual. You learn what your visitors do, not who they are."
+        },
+        {
+          "title": "On-premise, by design.",
+          "body": "All data is processed locally on The Tree, your on-site AI hub. It never touches an external server. You control what is collected, how it is used, and who can see it."
+        },
+        {
+          "title": "GDPR-compliant, by architecture.",
+          "body": "Most tools comply with GDPR through consent banners and data agreements. Tree'd complies because the data never exists in a form that requires consent in the first place."
+        }
+      ]
+    },
+    "actions": {
+      "title1a": "Translate",
+      "title1b": "Metrics",
+      "title2": "into Actions.",
+      "desc": "Here's what each metrics category actually tells you and how to utilize it,",
+      "descHighlight": "from data to decisions.",
+      "hoverHint": "Hover to explore",
+      "exampleDecisions": "Example Decisions",
+      "cards": [
+        {
+          "category": "Visitor Behavior",
+          "action": "Know which spaces are working and which aren't — then adapt.",
+          "body": "See where visitors slow down, what themes they keep returning to, and which galleries lose them. Now you have a reason to rearrange.",
+          "decisions": [
+            "Rearrange underperforming galleries",
+            "Adjust exhibit placement",
+            "Redesign visitor flow"
+          ]
+        },
+        {
+          "category": "Listening & Interaction",
+          "action": "See what visitors actually engage with.",
+          "body": "See which audio stories get finished, which ones are skipped, and what visitors ask next. You'll quickly spot what holds attention and what needs improvement.",
+          "decisions": [
+            "Rewrite weak stories",
+            "Add depth where curiosity is high",
+            "Remove content that gets skipped"
+          ]
+        },
+        {
+          "category": "Language & Origin",
+          "action": "Turn assumptions into clear audience insight.",
+          "body": "See which languages visitors use, how that changes over time, and which groups engage with which exhibits.",
+          "decisions": [
+            "Adjust signage languages",
+            "Allocate multilingual staff",
+            "Target content by visitor group"
+          ]
+        },
+        {
+          "category": "System Health",
+          "action": "Your staff manages visitors. Not hardware.",
+          "body": "Battery levels, docking status, signal stability: all visible before the doors open. No surprises on the floor.",
+          "decisions": [
+            "Identify devices that need charging",
+            "Decide the number of devices required",
+            "Ensure full system readiness"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "hero": {
+      "title1": "Frequently asked",
+      "title2": "questions",
+      "desc": "Clear answers about Tree'd, the ecosystem, and how deployments work for museums."
+    },
+    "categories": [
+      {
+        "category": "Visitor Experience",
+        "items": [
+          {
+            "q": "What is an AI museum audio guide?",
+            "a": "An AI museum audio guide is a conversational system that lets visitors explore exhibitions at their own pace, listen to curated stories, and ask follow-up questions in real time. Instead of playing fixed recordings, it responds dynamically based on visitor curiosity—making the [visitor experience](/visitor-experience) more personal, interactive, and engaging."
+          },
+          {
+            "q": "How does Tree'd work for visitors?",
+            "a": "Visitors simply pick up a [Handset](/handset), select their language by tapping a panel, and start exploring. When they see an exhibit with a Tree'd sensor, they tap it to hear the story. They can then ask the Handset any follow-up questions naturally."
+          },
+          {
+            "q": "Which languages are supported?",
+            "a": "Tree'd currently supports 12+ major languages with native-level AI fluency, including English, Dutch, French, German, Spanish, Italian, and more. We are constantly adding new languages."
+          },
+          {
+            "q": "Do visitors need to download an app?",
+            "a": "No. Tree'd is a physical, screen-free system. There are no apps to download, no accounts to create, and no personal devices required."
+          },
+          {
+            "q": "Is the system accessible for all ages?",
+            "a": "Yes. The [visitor experience](/visitor-experience) is intentionally simple—just tap and talk. It's intuitive for children, seniors, and everyone in between."
+          }
+        ]
+      },
+      {
+        "category": "Hardware & The Handset",
+        "items": [
+          {
+            "q": "How long does a Handset battery last?",
+            "a": "Up to 6 hours of active use, with fast-charging that brings the device back to 50% in about an hour, allowing [the Handset](/handset) to comfortably cover a full museum day."
+          },
+          {
+            "q": "How many Handsets can a single Tree support?",
+            "a": "This depends on your configuration. [Trees](/tree) are modular and sized to your required Handset count."
+          },
+          {
+            "q": "Does Tree'd require a special team to operate?",
+            "a": "No. Tree'd was designed so museums can run the system without additional technical staff."
+          },
+          {
+            "q": "Can Tree'd work in high-traffic museums?",
+            "a": "Yes. Charging capacity, syncing behavior, and local processing are engineered for continuous, [large-volume use](/use-cases)."
+          }
+        ]
+      },
+      {
+        "category": "Technology & AI",
+        "items": [
+          {
+            "q": "Does Tree'd require a stable internet connection?",
+            "a": "Only for initial setup and periodic cloud updates. Day-to-day usage runs entirely on your local network, so outages don't affect visitor experience."
+          },
+          {
+            "q": "Where does the AI model run?",
+            "a": "Locally. The [Tree](/tree) hosts your museum's knowledge set, language models, and updates — nothing depends on external servers during use. This allows the system to use less energy and deliver faster answers using [conversational AI](/solution)."
+          },
+          {
+            "q": "Can we control what the AI says?",
+            "a": "Yes. All AI knowledge is museum-approved and curated. The model stays within your defined content boundaries and NEVER looks up information from the internet or external sources."
+          },
+          {
+            "q": "Can Tree'd answer questions specific to our collection?",
+            "a": "Yes. We build a [custom knowledge base](/solution) for each museum, covering your artworks, themes, and context."
+          },
+          {
+            "q": "How accurate are the AI answers?",
+            "a": "100% accurate. Answers follow museum-approved content, ensuring they stay factual, appropriate, and aligned with your curatorial standards. This leaves 0% chance of AI hallucinations."
+          }
+        ]
+      },
+      {
+        "category": "Installation & Deployment",
+        "items": [
+          {
+            "q": "What does installation look like?",
+            "a": "[The Tree](/tree) connects to power and your local network. Handsets are then paired to the network and will not require further setup. Most museums are fully operational within hours."
+          },
+          {
+            "q": "Do you offer pilots?",
+            "a": "Yes. We offer [pilot programs](/booking) depending on the region and availability."
+          },
+          {
+            "q": "Can the aesthetic of the Hub (The Tree) be customized for our building or exhibition?",
+            "a": "Yes. [The Tree's](/tree) physical design, materials, and finish can be tailored to your museum or created in collaboration with a local artist."
+          }
+        ]
+      },
+      {
+        "category": "Pricing & Licensing",
+        "items": [
+          {
+            "q": "Do you offer revenue-sharing or subscription models?",
+            "a": "Yes. Tree'd offers flexible commercial models, including [revenue sharing](/revenue-sharing) and straightforward subscriptions. Revenue-sharing percentages vary based on your museum's annual visitor volume. For museums that prefer predictable budgeting, we also offer a clear subscription model that covers hardware, software, multimedia, and the entire Tree'd ecosystem."
+          },
+          {
+            "q": "Is Tree'd compliant with privacy regulations?",
+            "a": "Yes. Privacy-by-design is at the heart of our architecture. We never collect personal data from visitors, don't store voice recordings, and process all [analytics](/dashboard) anonymously on-site. This makes Tree'd a safe and compliant choice for museums evaluating AI visitor technologies."
+          }
+        ]
+      }
+    ]
+  },
+  "homeFaq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "q": "What is an AI museum audio guide?",
+        "a": "An AI museum audio guide is a conversational system that lets visitors explore exhibitions at their own pace, listen to curated stories, and ask follow-up questions in real time. Instead of playing fixed recordings, it responds dynamically based on visitor curiosity—making the experience more personal, interactive, and engaging."
+      },
+      {
+        "q": "How does an AI museum audio guide work?",
+        "a": "Visitors start by selecting their language, then tap a Handset on an exhibit to hear its story. After listening, they can ask questions naturally, and the AI responds instantly using museum-approved content. The entire experience is seamless, self-paced, and requires no setup."
+      },
+      {
+        "q": "What is the difference between AI and traditional audio guides?",
+        "a": "Traditional audio guides play pre-recorded, one-way content. AI audio guides create two-way conversations. Visitors can ask questions, explore topics in more depth, and control how much they learn—turning a passive tour into an interactive experience."
+      },
+      {
+        "q": "Do museum audio guides support multiple languages?",
+        "a": "Yes. AI museum audio guides support multiple languages simultaneously, allowing each visitor to experience the museum in their preferred language. This expands accessibility and ensures a consistent experience for international audiences."
+      },
+      {
+        "q": "Do visitors need to download an app to use it?",
+        "a": "No. The system is completely screen-free and requires no downloads or setup. Visitors simply pick up the device, choose their language, and start exploring immediately."
+      }
+    ],
+    "cta": "View All FAQ"
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Content Hub",
+      "headlinePart1": "Everything you need to know about",
+      "headlinePart2": "museum audio guides",
+      "subtitle": "Honest comparisons, pricing guides, and practical resources for museum directors evaluating AI audio guide systems."
+    },
+    "filters": {
+      "all": "All",
+      "news": "News",
+      "ai_audio_guides": "AI Audio Guides",
+      "museum_operations": "Museum Operations",
+      "visitor_experience": "Visitor Experience",
+      "treed_perspective": "Tree'd Perspective",
+      "pricing": "Pricing",
+      "comparisons": "Comparisons"
+    },
+    "tags": {
+      "ai_audio_guides": "AI Audio Guides",
+      "museum_operations": "Museum Operations",
+      "visitor_experience": "Visitor Experience",
+      "treed_perspective": "Tree'd Perspective",
+      "pricing": "Pricing",
+      "comparisons": "Comparisons",
+      "news": "News"
+    },
+    "sections": {
+      "featured": "Featured",
+      "browseByCategory": "Browse by category",
+      "allArticles": "All Articles"
+    },
+    "featured": {
+      "badge": "Featured",
+      "readArticle": "Read article"
+    },
+    "categoryCards": {
+      "viewAll": "View all",
+      "articleCount_one": "{{count}} article",
+      "articleCount_other": "{{count}} articles",
+      "descriptors": {
+        "ai_audio_guides": "Technology, formats, and capabilities",
+        "museum_operations": "Procurement, decision-making, and deployment",
+        "visitor_experience": "Engagement, satisfaction, and access",
+        "treed_perspective": "Insights and perspective from inside the product",
+        "pricing": "Costs, models, and budget planning",
+        "comparisons": "Head-to-head evaluations for decision-makers",
+        "news": "Partnerships, deployments, and company milestones"
+      }
+    },
+    "faqCard": {
+      "title": "FAQ",
+      "description": "Answers to common questions about Tree'd system, deployment, and usage"
+    },
+    "grid": {
+      "read": "Read",
+      "minRead": "{{count}} min read",
+      "minShort": "{{count}} min",
+      "noArticles": "No articles in this category yet."
+    },
+    "cta": {
+      "eyebrow": "90-Day Pilot",
+      "headline": "Ready to see Tree'd in action?",
+      "subtitle": "Start with a 90-day pilot. Low risk, full proof.",
+      "button": "Book a 30-minute walkthrough",
+      "buttonSecondary": "Request Pricing",
+      "buttonMobile": "Book a demo"
+    },
+    "articlePage": {
+      "backToBlog": "All Resources",
+      "publishedOn": "Published",
+      "minRead": "{{count}} min read",
+      "relatedArticles": "Related Articles",
+      "shareLabel": "Share",
+      "ctaEyebrow": "90-Day Pilot",
+      "ctaHeadline": "See Tree'd in action",
+      "ctaSubtitle": "Start with a risk-free 90-day pilot. We handle the setup.",
+      "ctaPrimary": "Book a 30-minute walkthrough",
+      "ctaSecondary": "View all resources",
+      "notFound": "Article not found.",
+      "browseAll": "Browse all resources",
+      "ctaPrimaryMobile": "Book a demo"
+    },
+    "categoryPage": {
+      "allResources": "All Resources",
+      "count_one": "{{count}} article",
+      "count_other": "{{count}} articles",
+      "seoTitle": "{{categoryName}} — Museum Audio Guide Resources | Tree'd",
+      "seoDescription": "{{descriptor}} Practical resources for museum directors evaluating audio guide systems.",
+      "noArticles": "No articles in this category yet.",
+      "browseAll": "Browse all resources",
+      "featuredSection": "Top Articles",
+      "sortLatest": "Latest",
+      "ctaHeadline": "Ready to see Tree'd in action?",
+      "ctaSubtitle": "Start with a 90-day pilot. Low risk, full proof.",
+      "ctaPrimary": "Book a 30-minute walkthrough",
+      "ctaSecondary": "View all resources"
+    },
+    "categoryContent": {
+      "ai_audio_guides": {
+        "heroTitle": "AI Museum Audio Guides: Technology, Formats & How They Work",
+        "heroIntro": "From conversational AI Handsets to prerecorded wand guides — not all audio guide technology is the same. These resources help museum directors understand the formats, evaluate the differences, and choose with confidence.",
+        "highlights": [
+          "Conversational AI vs. prerecorded formats",
+          "How AI guides respond to visitor questions in real time",
+          "Choosing the right technology for your institution"
+        ]
+      },
+      "museum_operations": {
+        "heroTitle": "Museum Audio Guide Operations: Procurement, Deployment & Board Approval",
+        "heroIntro": "Practical resources for museum directors at every stage of the audio guide decision — from first evaluation to board sign-off to go-live. Built around the questions that matter in real procurement.",
+        "highlights": [
+          "Frameworks for comparing and evaluating systems",
+          "How to build the business case for your board",
+          "Pilot planning and deployment guidance"
+        ]
+      },
+      "visitor_experience": {
+        "heroTitle": "How Museum Audio Guides Shape the Visitor Experience",
+        "heroIntro": "The format you deploy changes how visitors explore, engage, and return. These resources focus on the visitor side of audio guide decisions — what works, what the data shows, and how to measure it.",
+        "highlights": [
+          "Engagement and dwell time across different guide formats",
+          "Multilingual access and accessibility considerations",
+          "Measuring visitor satisfaction and outcomes"
+        ]
+      },
+      "treed_perspective": {
+        "heroTitle": "Tree'd Perspective: Insights from Building AI Museum Guides",
+        "heroIntro": "Honest perspective from the team building Tree'd — what we've learned from real museum deployments, why we make the product decisions we do, and what we think about the broader museum technology landscape.",
+        "highlights": [
+          "Lessons from real museum deployments",
+          "Why we design Tree'd the way we do",
+          "Our honest take on the museum tech market"
+        ]
+      },
+      "pricing": {
+        "heroTitle": "Museum Audio Guide Pricing: Total Costs, Models & Budget Planning",
+        "heroIntro": "Clear pricing information without vendor spin. These resources break down what museum audio guide systems actually cost — hardware, software, setup, and ongoing fees — across every major format.",
+        "highlights": [
+          "Total cost of ownership across all major formats",
+          "Licensing and deployment model breakdowns",
+          "How to build a realistic audio guide budget"
+        ]
+      },
+      "comparisons": {
+        "heroTitle": "Museum Audio Guide Comparisons: Head-to-Head Evaluations",
+        "heroIntro": "Direct comparisons between formats, systems, and approaches. Designed to help museum directors cut through vendor claims and evaluate options based on what matters to their institution.",
+        "highlights": [
+          "AI guides vs. traditional audio guides compared directly",
+          "Dedicated Handsets, mobile apps, and QR codes side-by-side",
+          "System-by-system evaluations for 2025"
+        ]
+      },
+      "news": {
+        "heroTitle": "Tree'd News: Partnerships, Deployments & Company Milestones",
+        "heroIntro": "The latest announcements from Tree'd — new museum partnerships, live deployments, and company milestones as we grow across Europe and the Middle East.",
+        "highlights": [
+          "New museum partnerships and live deployments",
+          "Company milestones and product announcements",
+          "Updates from Tree'd's expansion across Europe and MENA"
+        ]
+      }
+    },
+    "articles": {
+      "1": {
+        "title": "What Is an AI Museum Audio Guide?",
+        "excerpt": "Most visitors think an audio guide plays a script. An AI guide answers the question they didn't plan to ask. What that means for museums, explained clearly."
+      },
+      "2": {
+        "title": "What Is a Conversational Audio Guide?",
+        "excerpt": "A conversational guide doesn't play a script. It listens, responds, and adapts. Here's what that actually means for your museum floor."
+      },
+      "3": {
+        "title": "How Much Does a Museum Audio Guide Cost?",
+        "excerpt": "There is no fixed number — and understanding why is more useful than any price list. A comprehensive look at the cost drivers that actually determine what a museum audio guide system will cost your institution."
+      },
+      "4": {
+        "title": "AI Audio Guide vs Traditional Audio Guide: What's Actually Different",
+        "excerpt": "The handset looks similar. The experience is nothing alike. A direct, honest comparison of what AI guides do differently — and where traditional guides still hold their ground."
+      },
+      "5": {
+        "title": "Museum Audio Guide vs Mobile App: Which Is Right for Your Institution?",
+        "excerpt": "Apps promise flexibility. Dedicated guides promise reliability. This comparison helps directors decide which model fits their visitor profile, budget, and operational constraints."
+      },
+      "6": {
+        "title": "Multilingual Visitors, One Museum: How Audio Guides Handle Language Access",
+        "excerpt": "Most museums offer their guide in three or four languages and call it multilingual. Their international visitors experience something different. A look at how language access actually works across every major guide format — and what it takes to serve visitors in the language they actually think in."
+      },
+      "7": {
+        "title": "NFC Tags vs Number Entry in Museum Audio Guides: What the Activation Choice Actually Means for Visitors",
+        "excerpt": "Number entry and NFC tapping are two ways to trigger the same content — but they produce different visitor experiences. An honest comparison of both activation methods, what each requires to work well, and why the choice matters more than most guide procurement processes acknowledge."
+      },
+      "8": {
+        "title": "Why Better Audio Guide Content Won’t Fix Visitor Engagement",
+        "excerpt": "When visitor engagement is low, the instinct is to improve the content — better scripts, richer production, more languages. It rarely works. The constraint isn’t the content. It’s the architecture. A perspective from inside the problem."
+      },
+      "9": {
+        "title": "Why Museum Visitors Stop Using Audio Guides — And What Actually Keeps Them Engaged",
+        "excerpt": "Most visitors pick up the guide, use it for a few stops, and put it down. The problem isn’t the content. It’s the format. A look at why disengagement happens — and what changes when visitors can finally ask questions."
+      },
+      "10": {
+        "title": "The Screen Problem in Museum Galleries: Why the Best Guide Keeps Eyes on the Art",
+        "excerpt": "Asking visitors to use their smartphones as museum guides means competing for attention with every notification, app, and distraction on the same device. A look at what screen-based engagement costs in a gallery context — and why it matters which direction the handset points."
+      },
+      "11": {
+        "title": "The Questions Visitors Never Get to Ask (And What Happens When They Can)",
+        "excerpt": "For decades, museums have designed interpretation around what curators assume visitors want to know. Conversational guides reveal what visitors actually ask. The gap between those two things is one of the most important things the museum sector hasn’t been looking at."
+      },
+      "12": {
+        "title": "The 90-Day Museum Audio Guide Pilot: What to Expect and How to Measure It",
+        "excerpt": "A 90-day pilot removes the guesswork. This guide walks through what to track, what to expect, and how to present results to your leadership team."
+      },
+      "13": {
+        "title": "How Museum Directors Should Evaluate Audio Guides in 2026",
+        "excerpt": "Most audio guide evaluations ask the wrong questions. A framework focused on the 7 decisions that separate guides visitors actually use from ones that quietly underperform."
+      },
+      "14": {
+        "title": "Beyond Language: What Museum Audio Guide Accessibility Really Requires",
+        "excerpt": "Multilingual support is one dimension of audio guide accessibility. It is not the whole picture. A look at what genuinely accessible guide design requires — physical, cognitive, and sensory — and why most systems address only the most visible part of the problem."
+      },
+      "15": {
+        "title": "Subscription, Licence, or Per-Visit: How Museum Audio Guide Pricing Models Actually Work",
+        "excerpt": "The price a vendor quotes and the price a museum pays over five years are rarely the same number. A clear-eyed guide to how audio guide pricing models are structured, what each one means in practice, and which questions to ask before the contract is signed."
+      },
+      "16": {
+        "title": "Tree'd Signs Museum Partnership with Fayoum Art Center",
+        "excerpt": "Tree'd announces its first commercial museum partnership in Egypt — signing with Fayoum Art Center, home to MENA’s first caricature museum, just one month after entering the market commercially."
+      }
+    }
+  },
+  "requestPricing": {
+    "hero": {
+      "label": "Request Pricing",
+      "headline": "Get a tailored quote in <0>1 business day</0>.",
+      "subheadline": "Tell us about your museum, exhibition, and rollout needs. We will prepare a tailored quotation based on your scope."
+    },
+    "support": {
+      "headline": "Prefer to talk it through first?",
+      "body": "Get a quick walkthrough of the system, rollout options, and what shapes your quotation.",
+      "ctaPrimary": "Book a Consultation",
+      "ctaSecondary": "Call us"
+    },
+    "form": {
+      "headline": "Tell us about your project",
+      "intro": "Takes less than 2 minutes. We'll use your inputs to prepare a tailored quotation.",
+      "steps": {
+        "1": {
+          "title": "About you"
+        },
+        "2": {
+          "title": "Your museum"
+        },
+        "3": {
+          "title": "Project scope"
+        },
+        "4": {
+          "title": "Final details"
+        }
+      },
+      "navigation": {
+        "continue": "Continue",
+        "back": "Back",
+        "submit": "Request My Quote"
+      },
+      "step1": {
+        "firstName": "First name",
+        "lastName": "Last name",
+        "email": "Work email",
+        "phone": "Phone number",
+        "organization": "Organization name",
+        "jobTitle": "Job title"
+      },
+      "step2": {
+        "country": "Country",
+        "countryPlaceholder": "Select a country",
+        "city": "City",
+        "cityPlaceholder": "Enter your city",
+        "usage": {
+          "label": "Where will you use Tree'd?",
+          "helper": "Select all that apply",
+          "permanent": "Permanent exhibitions",
+          "temporary": "Temporary exhibitions",
+          "special": "Special exhibitions or events",
+          "other": "Other",
+          "otherPlaceholder": "Please tell us more about your use case"
+        },
+        "visitors": {
+          "label": "Estimated annual visitors",
+          "placeholder": "Select a range",
+          "under50k": "Under 50,000",
+          "50to200k": "50,000–200,000",
+          "200to500k": "200,000–500,000",
+          "500kplus": "500,000+"
+        },
+        "currentSolution": {
+          "label": "Current guided tours solution(s)",
+          "helper": "Select all that apply",
+          "none": "None",
+          "audioGuides": "Traditional audio guides",
+          "mobileApp": "Mobile app guide",
+          "liveGuides": "Live tour guides",
+          "other": "Other",
+          "otherPlaceholder": "Please tell us more about what you're currently using."
+        }
+      },
+      "step3": {
+        "placeholder": "Select an option",
+        "numGuides": {
+          "label": "Number of audio guides needed",
+          "10to20": "10–20",
+          "21to50": "21–50",
+          "51to100": "51–100",
+          "100plus": "100+"
+        },
+        "numArtifacts": {
+          "label": "Number of artifacts or stops covered",
+          "10to25": "10–25",
+          "26to50": "26–50",
+          "51to100": "51–100",
+          "100plus": "100+"
+        },
+        "numLanguages": {
+          "label": "Number of languages required"
+        },
+        "timeline": {
+          "label": "Ideal launch timeline",
+          "3months": "Within 3 months",
+          "6months": "Within 6 months",
+          "1year": "Within 1 year",
+          "exploring": "Just exploring"
+        }
+      },
+      "step4": {
+        "commercialModel": {
+          "label": "Preferred commercial model",
+          "directLicensing": "Direct licensing",
+          "revenueSharing": "Revenue sharing",
+          "notSure": "Not sure yet",
+          "helperPrefix": "Want to understand revenue sharing first?",
+          "helperLink": "View explainer page"
+        },
+        "additionalInfo": {
+          "label": "Anything else you would like to share?",
+          "placeholder": "Share anything that helps us better understand your project. Rollout plans, constraints, visitor profile, special requirements…"
+        }
+      }
+    },
+    "success": {
+      "title": "Thank you for sharing your details.",
+      "body": "Our team will review everything carefully and get back to you within 1 business day with a tailored quotation.",
+      "callText": "If your request is urgent, you can",
+      "callLink": "call us directly",
+      "callPeriod": ".",
+      "blogText": "In the meantime, you can also learn more about recent industry trends in culture tech, museum innovation, and audio guides on our",
+      "blogLink": "blog",
+      "blogPeriod": "."
+    },
+    "errors": {
+      "required": "This field is required",
+      "emailInvalid": "Please enter a valid email address",
+      "selectAtLeastOne": "Please select at least one option"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "AI Audio Guide for Museums | Conversational | Tree'd",
+      "description": "AI museum audio guide that lets visitors explore freely, ask questions, and get answers in real time. Start with a 90-day pilot."
+    },
+    "solution": {
+      "title": "How Tree'd Works | AI Audio Guide System for Museums",
+      "description": "Discover Tree'd's AI audio guide ecosystem: conversational AI, multilingual tours, local networks, and a revenue model built for museums."
+    },
+    "handset": {
+      "title": "Museum Audio Guide Device | Conversational AI | Tree'd",
+      "description": "Meet the Tree'd Handset: a screen-free, conversational AI audio guide designed for museums. Tap, listen, and ask questions in real time."
+    },
+    "tree": {
+      "title": "On-Premise AI for Museum Audio Guides | The Tree | Tree'd",
+      "description": "The Tree is Tree'd's on-premise AI backbone for museums. It charges, syncs, and distributes content locally, secure, fast, and fully autonomous."
+    },
+    "dashboard": {
+      "title": "Museum Analytics Dashboard | Visitor Insights | Tree'd",
+      "description": "Monitor visitor engagement in real time with Tree'd’s museum dashboard: language mix, popular artifacts, and privacy-first insights designed for museums."
+    },
+    "visitorExperience": {
+      "title": "AI Museum Audio Guide System | Visitor Experience | Tree'd",
+      "description": "Tree'd transforms the museum visitor experience with self-paced, conversational AI audio guides. Visitors explore freely, ask questions, and learn deeply."
+    },
+    "sustainability": {
+      "title": "Sustainable Museum Tech | On-Premise AI Guides | Tree'd",
+      "description": "Tree'd designs sustainable museum technology with biodegradable materials, local processing, and circular hardware built to reduce waste and energy use."
+    },
+    "useCases": {
+      "title": "Conversational Museum Audio Guide Use Cases | Tree'd",
+      "description": "Discover how Tree'd conversational AI guide transforms visitor experiences in high-traffic museums, art galleries, science museums, and temporary exhibitions."
+    },
+    "about": {
+      "title": "About Tree'd | AI Audio Guides for Museums",
+      "description": "Learn about Tree'd, a CultureTech company reimagining museum experiences through conversational AI, screen-free hardware, and human-centered design."
+    },
+    "contact": {
+      "title": "Contact Tree'd | Talk to Our Museum Technology Team",
+      "description": "Get in touch with Tree'd to discuss museum audio guides, visitor experience, or technical questions. Our team is ready to help."
+    },
+    "revenueSharing": {
+      "title": "Museum Revenue Share Model | Revenue Estimation | Tree'd",
+      "description": "Forecast new museum revenue with Tree'd’s revenue-sharing model. Dynamic museum share based on visitor volume, deployment scope, and adoption."
+    },
+    "booking": {
+      "title": "Book a Museum Audio Guide Demo | Start a Pilot with Tree'd",
+      "description": "Book a 30-minute demo to see Tree'd’s conversational, screen-free museum audio guides in action. In-person demos in NL, BE, PT, and EG, or online worldwide."
+    },
+    "careers": {
+      "title": "Careers at Tree'd | Build AI Audio Guides for Museums",
+      "description": "Join Tree'd to build conversational, screen-free museum audio guides. We’re looking for craft-obsessed builders for a small, high-impact CultureTech team."
+    },
+    "faq": {
+      "title": "Museum Audio Guide FAQ | Pricing & Installation | Tree'd",
+      "description": "Answers to common questions about Tree'd’s ecosystem, deployment, privacy, and revenue-sharing model for museums."
+    },
+    "notFound": {
+      "title": "Page Not Found | Tree'd",
+      "description": "The page you’re looking for doesn’t exist. Explore Tree'd AI-powered museum audio guides."
+    },
+    "blog": {
+      "title": "Museum Audio Guide Resources, Comparisons, and Insights | Tree'd",
+      "description": "Explore practical resources on museum audio guides, AI audio guide systems, pricing, visitor experience, and operational decision-making."
+    },
+    "requestPricing": {
+      "title": "Request Museum Pricing | Get a Quote in 24 Hours | Tree'd",
+      "description": "Request pricing for Tree'd's AI museum audio guide system. Receive a customised quote within 24 hours."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy — Tree'd History Guide",
+      "description": "ZedZag B.V.'s Privacy Policy explaining how we collect, use, and protect personal data submitted through the Tree'd History Guide website."
+    },
+    "cookiePolicy": {
+      "title": "Cookie Policy — Tree'd History Guide",
+      "description": "Learn about the cookies used on the Tree'd History Guide website, including Google Analytics and Google Maps cookies, and how to manage your preferences."
+    },
+    "termsOfUse": {
+      "title": "Terms of Use — Tree'd History Guide",
+      "description": "The terms and conditions governing use of the Tree'd History Guide website, operated by ZedZag B.V. (KvK 76255220, Amsterdam, Netherlands)."
+    }
+  },
+  "useCases": {
+    "hero": {
+      "eyebrow": "Use Cases",
+      "preText": "BUILT FOR AN OPTIMIZED",
+      "rotatingWords": [
+        "MUSEUM",
+        "CURATOR",
+        "VISITOR",
+        "EDUCATOR",
+        "TEAM"
+      ],
+      "experienceText": "EXPERIENCE",
+      "postText": "AT EVERY INTERACTION",
+      "subtext": "A system designed for every role, every context, and every moment inside the museum.",
+      "ctaPrimary": "Book a Demo",
+      "ctaSecondary": "Request Pricing"
+    },
+    "cases": {
+      "eyebrow": "USE CASES",
+      "title": "Built for every kind of museum.",
+      "items": [
+        {
+          "number": "01",
+          "title": "High-Traffic Museums",
+          "problem": "Large crowds. Dozens of languages. Not enough staff to give every visitor the experience they came for.",
+          "solution": "Visitors navigate at their own pace and access content in their language instantly — without relying on staff.",
+          "outcome": "Smoother flow. Consistent quality. Every visitor, every time.",
+          "shortTitle": "High-Traffic",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "02",
+          "title": "Art Museums",
+          "problem": "Wall labels say what something is. They rarely explain why it matters — or address what visitors actually want to know.",
+          "solution": "Visitors converse freely with the guide about specific works and go as deep as their curiosity takes them.",
+          "outcome": "More time per artwork. A deeper, more personal connection to the collection.",
+          "shortTitle": "Art",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "03",
+          "title": "Science & Educational Museums",
+          "problem": "A child and a researcher need fundamentally different explanations. Static content can't adapt to either.",
+          "solution": "The guide responds to each visitor's questions at their level — not the demographic assumed.",
+          "outcome": "Stronger learning outcomes across every age group and knowledge level.",
+          "shortTitle": "Science & Ed.",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "04",
+          "title": "Smaller & Private Museums",
+          "problem": "Limited staff and budget make multilingual or guided experiences feel out of reach.",
+          "solution": "A plug-and-play system that delivers professional, multilingual experiences without additional staffing.",
+          "outcome": "A world-class visitor experience. Without the operational complexity.",
+          "shortTitle": "Private",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "05",
+          "title": "Temporary Exhibitions",
+          "problem": "Exhibition content changes constantly. Traditional audio guides can't keep up without significant cost and effort.",
+          "solution": "Content updates remotely and instantly — no new hardware, no reinstallation, no downtime.",
+          "outcome": "Full flexibility on content and utilization. Always up-to-date.",
+          "shortTitle": "Temporary",
+          "typeSuffix": "Exhibition"
+        }
+      ],
+      "panelLabels": {
+        "challenges": "Common Challenges",
+        "solution": "What Tree'd Does",
+        "result": "The Result"
+      }
+    },
+    "transformation": {
+      "eyebrow": "WHAT ACTUALLY CHANGES",
+      "title": "The difference your visitors feel.",
+      "before": {
+        "label": "Before",
+        "lines": [
+          "Visitors read a label.",
+          "Questions go unanswered.",
+          "Staff are stretched thin.",
+          "The exhibition speaks for itself.",
+          "The visit fades."
+        ]
+      },
+      "after": {
+        "label": "With Tree'd",
+        "lines": [
+          "Visitors have a conversation.",
+          "Curiosity has no ceiling.",
+          "The guide is always there.",
+          "Every detail has a story.",
+          "The visit is remembered."
+        ]
+      },
+      "closing": "Visitors who once spent seconds with an artwork now spend minutes.",
+      "ctaLabel": "VISITOR EXPERIENCE",
+      "ctaText": "See it from the visitor’s side",
+      "ctaSubtext": "Discover how the experience feels for the people walking through your museum."
+    },
+    "impact": {
+      "eyebrow": "WHAT CHANGES",
+      "title": "Measurable outcomes. Real value.",
+      "items": [
+        {
+          "title": "New Revenue Per Visitor",
+          "description": "Bundle Tree'd into your ticket price or offer it as a premium add-on. Either model generates measurable additional revenue per visitor — with no increase in operational complexity."
+        },
+        {
+          "title": "Consistently High Satisfaction",
+          "description": "Experiences feel personal, intuitive, and complete — regardless of visitor background or language."
+        },
+        {
+          "title": "More Time Per Exhibit",
+          "description": "Visitors who once spent seconds with an artwork now spend minutes — because they have reasons to stay."
+        },
+        {
+          "title": "More of the Collection Explored",
+          "description": "Visitors move past the highlights and discover the full depth of what the museum holds."
+        },
+        {
+          "title": "Lower Operational Load",
+          "description": "No additional staff. No complex setup. Minimal ongoing effort. More impact, less friction."
+        }
+      ]
+    },
+    "fit": {
+      "eyebrow": "SOUND FAMILIAR?",
+      "title": "The challenges modern museums can't ignore.",
+      "cta": "Book a Consultation",
+      "items": [
+        {
+          "number": "01",
+          "title": "Increase Revenue per Visitor",
+          "description": "Bundle Tree'd into your ticket price or offer it as a premium add-on. Either way, it creates measurable incremental revenue without adding operational complexity."
+        },
+        {
+          "number": "02",
+          "title": "Deliver a New Kind of Experience",
+          "description": "Move beyond static labels and traditional guides. Offer a dynamic, personal experience that feels genuinely modern and worth talking about."
+        },
+        {
+          "number": "03",
+          "title": "Expand Language Coverage",
+          "description": "Let every visitor access content in their language, immediately. No staffing constraints, no operational overhead."
+        },
+        {
+          "number": "04",
+          "title": "Adapt to Every Age Group",
+          "description": "From children to experts, each visitor engages at their own depth. One system. Every level of curiosity."
+        },
+        {
+          "number": "05",
+          "title": "Go Beyond Surface-Level Learning",
+          "description": "Turn passive viewing into active understanding. Layer stories and context that labels simply cannot carry."
+        },
+        {
+          "number": "06",
+          "title": "Keep Up with Changing Exhibitions",
+          "description": "Update, edit, or launch new content in minutes. No reprints, no hardware swaps, no delays."
+        },
+        {
+          "number": "07",
+          "title": "Increase Visitor Engagement",
+          "description": "Transform visitors from observers into participants. Interactive, guided exploration holds attention far longer."
+        },
+        {
+          "number": "08",
+          "title": "Unlock More of Your Collection",
+          "description": "Guide visitors beyond the obvious highlights. Surface overlooked pieces and deeper paths through your space."
+        },
+        {
+          "number": "09",
+          "title": "Understand Visitor Behavior",
+          "description": "See what people actually explore. Track engagement, popular routes, and drop-offs to continuously improve the experience."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "START HERE",
+      "title": "See how it fits your museum.",
+      "subtitle": "Get a tailored walkthrough built around your space, visitors, and goals.",
+      "primary": "Book a Demo",
+      "secondary": "Request Pricing"
+    }
+  },
+  "privacyPolicy": {
+    "pageTitle": "Privacy Policy",
+    "lastUpdated": "Last updated: 29 April 2026",
+    "intro": "ZedZag B.V. (\"ZedZag\", \"we\", \"us\", or \"our\") is committed to protecting your personal data. This Privacy Policy explains what information we collect through the Tree'd History Guide website (treed.co), why we collect it, and your rights under the EU General Data Protection Regulation (GDPR). For information about the cookies we use, please also see our Cookie Policy.",
+    "s1Title": "1. Who We Are",
+    "s1Body": "ZedZag B.V. is incorporated under Dutch law (KvK registration number 76255220), VAT (BTW) identification number: NL860563443B02, with its registered office at Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands. For the purposes of the GDPR, ZedZag B.V. is the data controller for personal data collected through this Website. If you have any questions about how we handle your data, please contact us at hello@treed.co.",
+    "s2Title": "2. What Data We Collect",
+    "s2Intro": "We collect the following categories of personal data:",
+    "s2Sub1": "Contact form (Contact page)",
+    "s2Sub1Items": [
+      "First name and last name",
+      "Professional email address",
+      "Museum or organisation name",
+      "Message content"
+    ],
+    "s2Sub2": "Pricing enquiry form (Request Pricing page)",
+    "s2Sub2Items": [
+      "First name and last name",
+      "Professional email address",
+      "Phone number (optional)",
+      "Organisation name and job title",
+      "Country and city",
+      "Details about your museum project: visitor numbers, number of handsets, number of artefacts, languages required, preferred launch timeline, and preferred commercial model",
+      "Any additional information you choose to provide"
+    ],
+    "s2Sub3": "Technical and analytics data (collected automatically)",
+    "s2Sub3Items": [
+      "IP address (anonymised where technically possible)",
+      "Browser type and version",
+      "Pages visited and time spent on each page",
+      "Referring website",
+      "Device type and operating system",
+      "Google Analytics identifiers (see Section 5 and our Cookie Policy)"
+    ],
+    "s3Title": "3. Why We Collect It and Our Legal Basis",
+    "s3Sub1": "Responding to contact enquiries",
+    "s3Sub1Body": "We process the data you submit through the Contact form in order to respond to your message. Our legal basis is legitimate interest (Article 6(1)(f) GDPR): ZedZag has a legitimate interest in engaging with museum professionals who reach out to us, and this interest is not overridden by your rights.",
+    "s3Sub2": "Processing pricing requests",
+    "s3Sub2Body": "We process the data you submit through the Request Pricing form to prepare a tailored pricing proposal and to follow up with you about your museum's requirements. Our legal basis is the performance of a contract or the taking of steps at your request prior to entering into a contract (Article 6(1)(b) GDPR), as a pricing request constitutes a pre-contractual step. Where Article 6(1)(b) does not apply, we rely on legitimate interest (Article 6(1)(f) GDPR).",
+    "s3Sub3": "Website analytics",
+    "s3Sub3Body": "We use Google Analytics 4 to understand how visitors use our Website and to improve its content and performance. Our legal basis for analytics cookies and associated data collection is consent (Article 6(1)(a) GDPR). We rely on consent for analytics cookies and associated data collection; all other processing described in this section is based on legitimate interest unless stated otherwise. We will ask for your consent before placing analytics cookies on your device via our cookie banner. You may withdraw your consent at any time through the \"Cookie Settings\" option on our Website. We have configured Google Analytics 4 in a privacy-friendly manner: we have accepted Google's Data Processing Amendment, IP addresses are anonymised by default within GA4 before any data is stored, and we have disabled data sharing with Google for their own advertising or product improvement purposes. For more details on which cookies are used and how to manage them, see our Cookie Policy.",
+    "s4Title": "4. How Long We Keep Your Data",
+    "s4Items": [
+      "Contact form and pricing request data: up to 24 months from the date of your enquiry, or until commercial discussions are concluded — and no longer than 24 months from last contact, unless retention is required otherwise by law.",
+      "Google Analytics data: in accordance with Google’s standard retention settings (up to 14 months for user-level and event-level data).",
+      "Server logs: 30 days."
+    ],
+    "s5Title": "5. Who We Share Your Data With",
+    "s5Intro": "We do not sell your personal data. We may share it with:",
+    "s5Items": [
+      "Members of our team responsible for sales and customer enquiries, using cloud collaboration tools (e.g., Google Workspace) that act as data processors.",
+      "Google LLC, for Google Analytics 4 (analytics) and Google Maps (embedded map in our footer). Google may process data on servers in the United States. Google LLC participates in the EU–U.S. Data Privacy Framework, which provides an adequate level of protection. For more information, see Google’s Privacy Policy at policies.google.com/privacy.",
+      "Professional advisors (lawyers, accountants) where necessary for legal or financial compliance.",
+      "Regulatory authorities where required by applicable law.",
+      "We have entered into appropriate data processing agreements with our service providers where required by GDPR. Google LLC acts as a data processor for analytics data; we have executed Google's standard data processing terms to ensure adequate protection."
+    ],
+    "s6Title": "6. International Data Transfers",
+    "s6Body": "Google Analytics 4 may transfer data to Google servers in the United States. Google LLC participates in the EU–U.S. Data Privacy Framework (and equivalent UK framework), which the European Commission has recognised as providing an adequate level of data protection. We do not transfer your form submission data outside the European Economic Area.",
+    "s7Title": "7. Your Rights Under GDPR",
+    "s7Intro": "As a data subject in the EU or UK, you have the following rights:",
+    "s7Items": [
+      "Right of access: you can request a copy of the personal data we hold about you.",
+      "Right to rectification: you can ask us to correct inaccurate or incomplete data.",
+      "Right to erasure: you can ask us to delete your data where there is no longer a lawful basis for us to retain it.",
+      "Right to restriction: you can ask us to restrict processing of your data in certain circumstances.",
+      "Right to data portability: you can request your data in a structured, machine-readable format.",
+      "Right to object: you can object to processing based on legitimate interest.",
+      "Right to withdraw consent: where we rely on consent as the legal basis for processing, you can withdraw it at any time without affecting the lawfulness of prior processing."
+    ],
+    "s7Exercise": "To exercise any of these rights, please contact us at hello@treed.co. We may ask you to verify your identity before fulfilling your request, in order to protect your data from unauthorised access. You can withdraw your consent for analytics and third-party cookies at any time through the \"Cookie Settings\" option available on our Website — withdrawing consent is as easy as giving it. We will respond to data subject requests within 30 days. You also have the right to lodge a complaint with the Autoriteit Persoonsgegevens (AP), the Dutch Data Protection Authority, at www.autoriteitpersoonsgegevens.nl.",
+    "s8Title": "8. Security",
+    "s8Body": "We implement appropriate technical and organisational measures to protect your personal data against unauthorised access, accidental loss, alteration, disclosure or destruction. Where data is transmitted over the internet, we use encrypted connections (HTTPS).",
+    "s9Title": "9. Changes to This Policy",
+    "s9Body": "We may update this Privacy Policy from time to time. We will post the revised version on this page with an updated “last updated” date. We encourage you to review this page periodically.",
+    "s10Title": "10. Contact Us",
+    "s10Body": "For any questions about this Privacy Policy or your personal data, please contact us at hello@treed.co, or write to us at: ZedZag B.V., Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands.",
+    "s3Sub4": "Embedded third-party services (Google Maps)",
+    "s3Sub4Body": "Our Website embeds Google Maps to display our office location. This service is only loaded after you have provided your consent to third-party cookies via our cookie banner. Our legal basis is consent (Article 6(1)(a) GDPR).",
+    "cookiePolicyLinkLabel": "Cookie Policy",
+    "introPre": "ZedZag B.V. (\"ZedZag\", \"we\", \"us\", or \"our\") is committed to protecting your personal data. This Privacy Policy explains what information we collect through the Tree'd History Guide website (treed.co), why we collect it, and your rights under the EU General Data Protection Regulation (GDPR). For information about the cookies we use, please also see our Cookie Policy",
+    "introPost": "."
+  },
+  "cookiePolicy": {
+    "pageTitle": "Cookie Policy",
+    "lastUpdated": "Last updated: 29 April 2026",
+    "intro": "This Cookie Policy explains what cookies are, which cookies the Tree’d History Guide website (treed.co) uses, and how you can manage them. This Website is operated by ZedZag B.V., Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands.",
+    "s1Title": "1. What Are Cookies",
+    "s1Body": "Cookies are small text files placed on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work, or work more efficiently, and to provide information to the site operator. Cookies are not programs — they cannot carry viruses or access information on your device beyond what was placed there by the website.",
+    "s2Title": "2. Cookies We Use",
+    "s2Intro": "We use the following categories of cookies:",
+    "s2Cat1Title": "Strictly Necessary Cookies",
+    "s2Cat1Body": "These cookies are essential for the Website to function and cannot be disabled. They enable core functionality such as security and session management. They do not store any personally identifiable information.",
+    "s2Cat2Title": "Analytics Cookies — Google Analytics 4",
+    "s2Cat2Body": "We use Google Analytics 4 (GA4) to understand how visitors interact with our Website. GA4 places the following cookies on your device:",
+    "s2Cat2Items": [
+      "_ga — Used to distinguish unique users by assigning a randomly generated number as a client identifier. Duration: 2 years.",
+      "_ga_NFC69M5MYC — Used to persist session state. Duration: 1 year."
+    ],
+    "s2Cat2Note": "Google acts as a data processor on our behalf for analytics data, processing it according to our instructions. Google Analytics may transfer data to Google's servers in the United States. Google LLC participates in the EU–U.S. Data Privacy Framework. For more information, see the Google Analytics privacy overview at support.google.com/analytics/answer/6004245.",
+    "s2Cat3Title": "Third-Party Cookies — Google Maps",
+    "s2Cat3Body": "Our website embeds a Google Maps map in the footer section to display our office location. Google Maps is only loaded after you have provided consent to third-party cookies through our cookie banner. When the map loads, Google may set cookies on your device subject to Google's own Cookie Policy at policies.google.com/technologies/cookies. We have no control over those cookies.",
+    "s3Title": "4. How to Manage Cookies",
+    "s3Intro": "You can control and manage cookies in several ways:",
+    "s3Sub1": "Browser settings",
+    "s3Sub1Body": "Most browsers allow you to view, manage, delete, and block cookies. Here is how to access cookie settings in common browsers:",
+    "s3BrowserItems": [
+      "Google Chrome: Settings → Privacy and security → Cookies and other site data",
+      "Mozilla Firefox: Settings → Privacy & Security → Cookies and Site Data",
+      "Apple Safari: Preferences → Privacy",
+      "Microsoft Edge: Settings → Cookies and site permissions",
+      "Opera: Settings → Advanced → Privacy & security → Site settings → Cookies"
+    ],
+    "s3Warning": "Please note that blocking or deleting cookies may affect your experience on some websites. Disabling analytics or third-party cookies will not prevent you from using the Tree’d website.",
+    "s4Title": "5. Changes to This Policy",
+    "s4Body": "We may update this Cookie Policy when we change the cookies we use or when applicable law requires us to do so. Please check this page periodically. The date at the top of this page shows when it was last revised.",
+    "s5Title": "6. Contact",
+    "s5Body": "If you have any questions about our use of cookies, please contact us at hello@treed.co or write to ZedZag B.V., Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands.",
+    "s2bTitle": "3. Consent and Cookie Preferences",
+    "s2bBody": "We will request your consent before placing non-essential cookies — including analytics and third-party cookies — on your device, where required by applicable EU law (ePrivacy Directive and GDPR). You can accept or reject these cookies through our cookie consent banner, which appears on your first visit. Non-essential cookies are not placed on your device until you have provided your consent. You may withdraw or change your consent at any time through the \"Cookie Settings\" option available on our Website, or by adjusting your browser settings as described in Section 4 below. Withdrawing consent is as easy as giving it. Strictly necessary cookies do not require your consent and cannot be disabled, as they are essential for the Website to function.",
+    "cookieTable": [
+      {
+        "name": "_ga",
+        "provider": "Google",
+        "purpose": "Statistics — distinguishes unique users by assigning a randomly generated client identifier",
+        "duration": "2 years",
+        "type": "Analytics"
+      },
+      {
+        "name": "_ga_NFC69M5MYC",
+        "provider": "Google",
+        "purpose": "Statistics — persists session state for Google Analytics",
+        "duration": "1 year",
+        "type": "Analytics"
+      },
+      {
+        "name": "NID / SID",
+        "provider": "Google",
+        "purpose": "Map functionality and user preferences for Google Maps",
+        "duration": "Session / 6 months",
+        "type": "Third-Party"
+      }
+    ],
+    "cookieTableHeaders": {
+      "name": "Cookie Name",
+      "provider": "Provider",
+      "purpose": "Purpose",
+      "duration": "Duration",
+      "type": "Type"
+    },
+    "s2bRejectNote": "Users have the right to refuse all non-essential cookies. Choosing \"Reject All\" will not limit your access to the core features of this Website. The option to reject cookies is presented with equal visual prominence to the option to accept them."
+  },
+  "termsOfUse": {
+    "pageTitle": "Terms of Use",
+    "lastUpdated": "Last updated: 29 April 2026",
+    "intro": "Please read these Terms of Use carefully before using the Tree'd History Guide website at treed.co (Website). By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website. Use of this Website is also governed by our Privacy Policy and Cookie Policy, which explain how we collect, use, and store your data and how cookies are used.",
+    "s1Title": "1. Who We Are",
+    "s1Body": "This Website is operated by ZedZag B.V. (\"ZedZag\", \"we\", \"us\", or \"our\"), a private limited company incorporated under Dutch law, with KvK registration number 76255220 and VAT (BTW) identification number NL860563443B02, having its registered office at Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands. Tree'd History Guide is a product of ZedZag B.V.",
+    "s2Title": "2. Use of the Website",
+    "s2Intro": "The Website provides information about Tree'd History Guide and related services offered by ZedZag B.V. You may use this Website for lawful purposes only. You must not:",
+    "s2Items": [
+      "Use the Website in any way that violates applicable local, national, or international law or regulation.",
+      "Use the Website to transmit any unsolicited or unauthorised advertising or promotional material.",
+      "Attempt to gain unauthorised access to any part of the Website, its underlying systems, or any server, computer, or database connected to the Website.",
+      "Reproduce, duplicate, copy, sell, resell, or exploit any part of the Website or its content for commercial purposes without our prior written consent.",
+      "Engage in any conduct that restricts or inhibits anyone’s use or enjoyment of the Website, or that may damage, disable, overburden, or impair the Website.",
+      "Introduce viruses, trojans, worms, logic bombs, or any other malicious or technologically harmful material.",
+      "Attempt to extract data, scrape content, reverse engineer any part of the Website, or systematically access the Website for commercial or competitive intelligence purposes, without our prior written consent."
+    ],
+    "s3Title": "3. Intellectual Property",
+    "s3Body": "All content on this Website — including but not limited to text, images, graphics, logos, the Tree’d brand and name, product descriptions, software, audiovisual materials, and design elements — is owned by or licensed to ZedZag B.V. and is protected by applicable intellectual property laws, including copyright and trademark law. Nothing in these Terms transfers any intellectual property rights to you. You may view, download, and print pages from the Website for your own personal, non-commercial use, provided you do not modify the content and retain all copyright and other proprietary notices.",
+    "s4Title": "4. Accuracy of Information",
+    "s4Body": "We aim to keep the information on this Website accurate and up to date. However, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the Website or the information, products, or services described on it. Any reliance you place on such information is strictly at your own risk.",
+    "s5Title": "5. Limitation of Liability",
+    "s5Body": "TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ZEDZAG B.V. SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH: (A) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE WEBSITE; (B) ANY CONTENT OBTAINED FROM THE WEBSITE; OR (C) UNAUTHORISED ACCESS TO OR ALTERATION OF YOUR DATA. THIS LIMITATION APPLIES WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY. Nothing in these Terms excludes or limits our liability where it would be unlawful to do so, including liability for gross negligence or wilful misconduct. To the extent permitted by law, ZedZag B.V.'s total liability for any claim arising out of the use of this Website shall not exceed EUR 1,000 (one thousand euros).",
+    "s6Title": "6. Links to Third-Party Websites",
+    "s6Body": "The Website may contain links to third-party websites or services that are not owned or controlled by ZedZag B.V. We have no control over, and accept no responsibility for, the content, privacy policies, or practices of any third-party websites. We encourage you to review the terms and privacy policies of any third-party websites you visit.",
+    "s7Title": "7. Availability",
+    "s7Body": "We do not guarantee that the Website will be available at all times or that access will be uninterrupted. We may suspend, withdraw, or restrict the availability of all or any part of the Website for business, operational, or technical reasons without notice.",
+    "s8Title": "8. Suspension and Termination",
+    "s8Body": "We reserve the right to suspend or terminate your access to the Website, where reasonably necessary, if you breach these Terms of Use or if we have reasonable grounds to believe your conduct is harmful to ZedZag B.V., other users, or third parties. We may also suspend or restrict access for operational, security, or legal reasons. Where possible, we will provide reasonable notice before suspension or termination. Suspension or termination does not affect any rights or remedies we may have under applicable law.",
+    "s9Title": "9. Indemnity",
+    "s9Body": "You agree, to the extent permitted by applicable law, to indemnify, defend, and hold harmless ZedZag B.V. and its directors, employees, and agents from and against any claims, liabilities, damages, losses, costs, and expenses (including reasonable legal fees) arising out of or in connection with: (a) your use of or access to the Website; (b) your breach of these Terms of Use; or (c) any content you submit through the Website. If you are a consumer residing in the EU, this indemnity applies only to damages or claims resulting directly from your own negligent or intentional acts. This indemnity obligation survives termination of your access to the Website.",
+    "s9bTitle": "10. Force Majeure",
+    "s9bBody": "We shall not be liable for any failure or delay in the performance of our obligations under these Terms caused by events beyond our reasonable control, including but not limited to: technical failures, internet outages, power failures, failures of third-party suppliers or infrastructure providers, strikes or industrial action, acts of government or regulatory authority, natural disasters, pandemic, civil unrest, or any other cause beyond our reasonable control. In such circumstances, our obligations will be suspended for the duration of the event.",
+    "s11Title": "11. Changes to These Terms",
+    "s11Body": "We may revise these Terms of Use at any time by updating this page. The revised terms will take effect from the date they are posted. By continuing to use the Website after changes are posted, you accept the revised terms. We encourage you to check this page periodically.",
+    "s12Title": "12. Governing Law and Jurisdiction",
+    "s12Body": "These Terms of Use and any dispute or claim arising out of or in connection with them shall be governed by and construed in accordance with the laws of the Netherlands. Any disputes shall be submitted to the exclusive jurisdiction of the competent courts in Amsterdam, Netherlands.",
+    "s12bTitle": "13. Dispute Resolution",
+    "s12bBody": "In the event of a dispute arising out of or in connection with these Terms of Use, the parties agree to first attempt to resolve the matter through good-faith negotiations. Either party may initiate the process by giving written notice to the other party describing the dispute. The parties will have a period of 30 days from receipt of such notice to negotiate an amicable settlement before either party may commence legal proceedings. This obligation does not apply where a party requires urgent interim relief from a court.",
+    "s14Title": "14. Contact",
+    "s14Body": "If you have any questions about these Terms of Use, please contact us at hello@treed.co or write to ZedZag B.V., Plantage Kerklaan 21, 1018 SZ Amsterdam, Netherlands.",
+    "introPart1": "Please read these Terms of Use carefully before using the Tree'd History Guide website at treed.co (Website). By accessing or using the Website, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Website. Use of this Website is also governed by our",
+    "introPart2": "and",
+    "introPart3": ", which explain how we collect, use, and store your data and how cookies are used.",
+    "introPre": "Please read these Terms of Use carefully before using the Tree'd History Guide website at treed.co (\"Website\"). By accessing or using the Website, you agree to be bound by these Terms. If you do not agree, please do not use the Website. Use of this Website is also governed by our Privacy Policy",
+    "introBetween": "and Cookie Policy",
+    "introPost": ", which explain how we collect, use, and store your data and how cookies are used."
+  },
+  "cookieBanner": {
+    "title": "We use cookies",
+    "body": "We use 1 partner (Google) to understand how visitors use our site so we can keep improving it. We also use cookies to show our office location on a map. Non-essential cookies are only placed with your consent.",
+    "accept": "Accept All",
+    "reject": "Reject All",
+    "note": "You can change your preferences at any time via Cookie Settings in the footer."
+  },
+  "notFoundPage": {
+    "headingStart": "This page",
+    "headingHighlight": "wandered off.",
+    "desc": "We couldn't find the page you were looking for. Let's take you back to the main experience.",
+    "cta": "Return home"
+  },
+  "bookingPage": {
+    "inPersonOnlyLabel": "in-person only"
+  }
+}

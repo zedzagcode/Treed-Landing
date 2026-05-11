@@ -1,0 +1,140 @@
+{
+  "title": "The Screen Problem in Museum Galleries: Why the Best Guide Keeps Eyes on the Art",
+  "excerpt": "Asking visitors to use their smartphones as museum guides means competing for attention with every notification, app, and distraction on the same device. A look at what screen-based engagement costs in a gallery context — and why it matters which direction the handset points.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Walk through any major gallery on a busy Saturday and the scene is consistent. Visitors move through the space with phones raised. Some are photographing the art. Some are reading the Wikipedia entry for the artist. Some are checking messages. A few are using the museum’s own app. From a distance, all of these behaviours look identical: a visitor, a screen, their attention somewhere other than the object in front of them."
+    },
+    {
+      "type": "p",
+      "text": "Museums have understood the phone-in-gallery problem for years. Some have posted signs. Some have experimented with phone-free zones. Most have quietly accepted it as a feature of contemporary visiting behaviour, something to accommodate rather than challenge."
+    },
+    {
+      "type": "p",
+      "text": "The irony is that the most common direction the museum technology sector has moved in response is toward smartphone-based guides — apps, mobile web experiences, QR codes that send visitors to their own devices. The medium identified as the source of distraction has become the delivery vehicle for the museum’s interpretive content. The results have been, at best, mixed."
+    },
+    {
+      "type": "h2",
+      "text": "What Screens Do to Attention in a Gallery Context"
+    },
+    {
+      "type": "p",
+      "text": "The research on smartphone distraction is extensive and largely consistent. Devices designed around continuous partial attention — built specifically to generate notification-driven interruptions and make switching between applications frictionless — are not neutral tools that become whatever their current application asks them to be. They carry their behavioural architecture with them into every context, including the gallery."
+    },
+    {
+      "type": "p",
+      "text": "A visitor using a museum app on their own phone is using the same device that received a message from a colleague thirty seconds ago and will receive another one in five minutes. The cognitive cost of staying in the museum context, rather than switching to the notification that just appeared in the status bar, is real — even when the visitor doesn’t switch. The awareness that the switch is available is itself a form of distraction."
+    },
+    {
+      "type": "p",
+      "text": "There is also the orientation problem. A screen held in front of the face redirects gaze away from the artwork and toward the device. Museum interpretation delivered via smartphone is, by design, competing with the object it is meant to illuminate. The visitor looks at the screen to understand the painting. The painting waits."
+    },
+    {
+      "type": "h2",
+      "text": "The BYOD Guide Paradox"
+    },
+    {
+      "type": "p",
+      "text": "Bring-your-own-device guide systems were developed in response to a genuine operational problem: dedicated handsets are expensive to procure, maintain, and distribute. If visitors already carry a capable device in their pocket, why not use it? The cost logic is sound. The visitor experience logic is more complicated."
+    },
+    {
+      "type": "p",
+      "text": "A museum that asks visitors to use their phones as guides is asking them to use the same object that most competes with the museum for their attention, inside the space where that attention matters most. It is the equivalent of asking visitors to read a wine list at a restaurant on the same device they use to scroll news and reply to emails — technically functional, but fighting a current the whole time."
+    },
+    {
+      "type": "p",
+      "text": "There is also the adoption gap. Even well-designed mobile guide apps require a visitor to download or open them, orient themselves within the interface, and maintain the intention to use them throughout a visit during which many other things compete for their attention. Usage tends to be highest at the start of the visit and lowest at the end — precisely the inverse of how engagement with a collection typically builds."
+    },
+    {
+      "type": "p",
+      "text": "The museums that have measured this honestly find that BYOD guide adoption is lower than anticipated, and completion rates lower still. The friction is not technological. It is attentional. The device is simply doing too many other things."
+    },
+    {
+      "type": "h2",
+      "text": "What a Screen-Free Guide Changes"
+    },
+    {
+      "type": "p",
+      "text": "A dedicated handset — a device that does one thing and has no other applications, no notifications, no social feeds — changes the attentional context of the visit in a way that feels obvious in retrospect but is rarely discussed explicitly in guide procurement."
+    },
+    {
+      "type": "p",
+      "text": "The visitor’s phone stays in their pocket. Their hands hold something that exists only in relation to the collection. There is no notification to decline. No message to check later. No temptation to switch contexts, because there is no other context available on the device they are holding. The museum has, quietly and without instruction, created a moment of digital focus that is increasingly rare."
+    },
+    {
+      "type": "p",
+      "text": "This is not incidental. The quality of attention a visitor brings to an artwork shapes everything that follows — what they notice, what they remember, whether they form the questions that make a guide useful. A visitor whose attention is already fragmented by their smartphone environment brings different attention to a painting than one whose only digital interaction for the next ninety minutes is through a device pointed at the art, not away from it."
+    },
+    {
+      "type": "callout",
+      "text": "The museum’s job is to create conditions for genuine encounter with its collection. A guide that competes with the collection for the visitor’s gaze has already compromised that encounter before a word of content is heard."
+    },
+    {
+      "type": "h2",
+      "text": "The Audio Advantage in a Screen-Heavy World"
+    },
+    {
+      "type": "p",
+      "text": "There is a specific reason that audio — rather than text, video, or interactive visual content — is still the right medium for in-gallery interpretation. Audio can be absorbed while looking at something else. The visitor’s eyes remain on the artwork while their ears receive context. The two streams of information — visual and auditory — reinforce rather than compete with each other."
+    },
+    {
+      "type": "p",
+      "text": "This is the original insight behind the audio guide format, and it remains valid. A visitor listening to interpretation while standing in front of a painting is having a fundamentally different experience from one who looks at their phone to read the same content. The screen version requires the visitor to look away. The audio version does not."
+    },
+    {
+      "type": "p",
+      "text": "What audio guides have historically failed to provide is responsiveness — the ability to follow the visitor’s specific curiosity rather than deliver a pre-prepared track. Conversational audio, delivered through a dedicated screen-free handset, combines the attentional advantage of audio with the responsiveness of a live guide. The visitor’s eyes stay on the art. Their questions get answered. Their phone stays in their pocket."
+    },
+    {
+      "type": "h2",
+      "text": "The Design Decision Most Systems Don’t Make Explicitly"
+    },
+    {
+      "type": "p",
+      "text": "Most museum guide systems do not have a stated position on the screen question. It is treated as a feature choice rather than a philosophical one: some systems are screen-based, some are audio-only, some are hybrid. The implications for visitor attention are rarely surfaced in procurement documentation."
+    },
+    {
+      "type": "p",
+      "text": "This is a mistake — not because there is a single right answer for every institution, but because the question is too consequential to leave implicit. A museum that deploys a screen-based guide has made a decision about where it wants visitor attention during the visit. A museum that deploys an audio-first, screen-free guide has made a different decision. Both are design choices. Both have outcomes."
+    },
+    {
+      "type": "p",
+      "text": "The institutions that think most carefully about this question tend to arrive at similar conclusions: in a world where screens are everywhere and attention is the scarcest resource, a guide that asks visitors to put their phones away and pick up something that keeps their eyes on the art is not a retrograde choice. It is, quietly, a radical one."
+    },
+    {
+      "type": "h2",
+      "text": "What This Means for Institutions Evaluating Guide Systems"
+    },
+    {
+      "type": "p",
+      "text": "The screen question is worth adding to every guide evaluation checklist — not as a dealbreaker in either direction, but as a frame for understanding what each system is actually asking of your visitors’ attention."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Does the guide require visitors to use their own smartphones? If so, what is the realistic adoption rate among visitors who arrived with no intention of taking their phone out? What does the usage data show past the first ten minutes of a visit?",
+        "If the guide uses a dedicated handset, does it have a screen? What is displayed on it, and does that display compete with or complement what visitors are looking at?",
+        "How does the system handle the moment when a visitor’s phone notification arrives mid-visit? Does the guide architecture acknowledge this attentional reality, or assume it doesn’t exist?",
+        "What does the activation gesture look like? Does it require visitors to look at the device, or does it allow them to keep their gaze on the artwork while the guide responds?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "None of these questions has a universal answer. A museum’s visitor profile, its collection type, its operational constraints, and its institutional values all shape which trade-offs are acceptable. But leaving the screen question out of the evaluation entirely means accepting its consequences without having chosen them."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d is a screen-free conversational guide. Visitors pick up the ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": ", hold it near the artwork, and converse. Their phone stays in their pocket. Their eyes stay on the art. The guide stays in the room with them."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See what a screen-free conversational guide looks like in a real museum collection.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

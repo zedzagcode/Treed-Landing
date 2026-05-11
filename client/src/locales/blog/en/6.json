@@ -1,0 +1,157 @@
+{
+  "title": "Multilingual Visitors, One Museum: How Audio Guides Handle Language Access",
+  "excerpt": "Most museums offer their guide in three or four languages and call it multilingual. Their international visitors experience something different. A look at how language access actually works across every major guide format — and what it takes to serve visitors in the language they actually think in.",
+  "body": [
+    {
+      "type": "p",
+      "text": "A visitor arrives from Tokyo. Another from São Paulo. Another from Cairo. They walk through the same galleries, stand in front of the same works, and carry the same curiosity. What they do not share is a language — and depending on which audio guide system the museum has deployed, their experiences may diverge sharply from the moment they reach the entrance desk."
+    },
+    {
+      "type": "p",
+      "text": "Language access is one of the most consequential decisions a museum makes about its visitor experience. It is also one of the most consistently underweighted in audio guide procurement. The focus tends to fall on content quality, hardware reliability, and cost. The question of which visitors are genuinely served — and which receive a compromised version of the experience because of the language they speak — rarely receives the same rigour."
+    },
+    {
+      "type": "callout",
+      "text": "Offering a guide ‘in 12 languages’ and offering a guide that genuinely converses with visitors in 12 languages are not the same thing. The distinction matters more than most vendor conversations acknowledge."
+    },
+    {
+      "type": "h2",
+      "text": "The Standard Model: Pre-Recorded Language Tracks"
+    },
+    {
+      "type": "p",
+      "text": "Most museum audio guides handle language through parallel recordings. The same script is translated into a set of target languages, narrated by a native speaker in a recording studio, and loaded onto the guide system as a separate audio track. A visitor selects their language at the start of the visit and receives that version for the duration."
+    },
+    {
+      "type": "p",
+      "text": "This model works — within clear limits. The content the visitor receives is accurate, professionally narrated, and curated by the museum’s team. For visitors whose language is one of the supported options and whose questions happen to align with what was pre-recorded, the experience is entirely functional."
+    },
+    {
+      "type": "p",
+      "text": "The limits become apparent quickly. First, the language selection is binary: a language is either supported or it isn’t. A visitor whose language is not on the list receives no guide in their language, regardless of how internationally the museum presents itself. Second, translation quality varies. Scripts written in one language carry idioms, references, and cadences that do not always survive translation intact. The visitor in a second-choice language often receives content that feels slightly off — technically correct but culturally thin. Third, and most significantly: the visitor cannot follow up. Whatever question they formed while listening has nowhere to go."
+    },
+    {
+      "type": "h2",
+      "text": "Which Languages Get Covered — and Which Do Not"
+    },
+    {
+      "type": "p",
+      "text": "In practice, the number of languages a traditional guide system supports is a function of budget rather than visitor need. Recording a new language track involves translation, narration, studio time, editing, and quality review. For institutions covering 40 to 80 artworks, that investment is significant — and it repeats with every content update."
+    },
+    {
+      "type": "p",
+      "text": "The result is a familiar pattern: English, French, German, Spanish, and perhaps Mandarin or Japanese for the most internationally visited institutions. Arabic, Portuguese, Dutch, Korean, Italian, Russian — commonly requested, often absent. Visitors who speak these languages as their primary language arrive at a world-class institution and find themselves navigating it in their second or third language, or not using the guide at all."
+    },
+    {
+      "type": "p",
+      "text": "For institutions that present themselves as internationally accessible, this is not a minor operational gap. It is a material failure to serve a portion of their audience — and it is often invisible to the institution because those visitors rarely complain. They adapt, or they disengage, or they simply note, privately, that they were not quite catered for."
+    },
+    {
+      "type": "h2",
+      "text": "Mobile Apps and the Language Question"
+    },
+    {
+      "type": "p",
+      "text": "Mobile app-based guide systems handle language in broadly the same way as traditional audio guides, with some additional flexibility. Content can in principle be produced in a wider range of languages, and updates can be rolled out without re-pressing physical devices. The structural constraint is the same, however: languages must be pre-produced, visitor questions cannot be answered in real time, and the depth of the experience is bounded by whatever was created in each language."
+    },
+    {
+      "type": "p",
+      "text": "Apps introduce an additional language-access complication that is rarely discussed openly. Interface language and content language are separate problems. A visitor whose language is supported for audio content may still find menus, navigation prompts, and error messages displayed in a language they do not read comfortably. The experience of a visitor using the app in a supported but secondary language is frequently less fluid than the experience of a native English speaker — an asymmetry that compounds across every moment of friction in the visit."
+    },
+    {
+      "type": "h2",
+      "text": "What Genuine Multilingual Access Requires"
+    },
+    {
+      "type": "p",
+      "text": "Genuine multilingual access means more than content availability in multiple languages. It means a visitor who speaks Swahili, or Hindi, or Polish can engage with the museum’s collection at the same depth as a visitor who speaks English. Not a summarised version. Not a subset of the artworks covered. Not a translated script that loses something in its passage from one language to another."
+    },
+    {
+      "type": "p",
+      "text": "It also means that when that visitor has a question — as visitors always do — they can ask it in their language and receive a real answer. Not a prompt to refer to the next exhibit. Not silence. An answer, in the language they think in, about the thing they are actually looking at."
+    },
+    {
+      "type": "p",
+      "text": "This is not achievable through pre-recorded tracks, regardless of how many languages the system covers. It requires a guide that converses — that listens, processes, and responds in real time — in the visitor’s own language."
+    },
+    {
+      "type": "h2",
+      "text": "Conversational AI and the Language Shift"
+    },
+    {
+      "type": "p",
+      "text": "Conversational AI audio guides handle language differently in a way that changes the nature of the access question. Rather than maintaining a library of pre-recorded tracks, the guide holds the conversation in whatever language the visitor speaks. A visitor asks in Arabic. The guide responds in Arabic. A visitor begins in English and switches mid-visit to Spanish. The guide follows."
+    },
+    {
+      "type": "p",
+      "text": "This is not a parallel-track system with more languages. It is a different architecture entirely. The knowledge base — the collection information the guide draws from — is language-neutral. The guide does not store separate Arabic and Japanese versions of the same content. It generates responses in whatever language is needed, drawing from the same curated source material."
+    },
+    {
+      "type": "p",
+      "text": "The practical implication is that the language barrier for deployment is structural rather than cost-based. Adding a new language to a conversational guide does not require commissioning new narration or re-staging a recording session. The same base knowledge serves every language the system supports. For institutions with genuinely diverse visitor profiles, this changes the calculus of multilingual access significantly."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d History Guide converses with visitors in 12 or more languages from day one of deployment — on a dedicated ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " that requires no download, no app, and no language selection at the entrance. The visitor simply speaks, and the guide responds."
+    },
+    {
+      "type": "h2",
+      "text": "The Inclusion Dimension"
+    },
+    {
+      "type": "p",
+      "text": "Language access sits at the intersection of visitor experience and institutional inclusion policy. Museums that have made commitments to accessibility — to serving all communities, to representing diverse perspectives, to being genuinely welcoming rather than nominally open — often find a gap when they examine their guide systems honestly."
+    },
+    {
+      "type": "p",
+      "text": "Visitors from communities whose languages are not covered in the guide receive a materially different experience from those whose languages are. That difference is not always loud or visible. It rarely shows up in feedback forms, because visitors who feel like an afterthought tend not to describe themselves that way in writing. It shows up in return visit rates, in word-of-mouth, in the communities that do and do not think of a given institution as ‘for them’."
+    },
+    {
+      "type": "p",
+      "text": "For museums actively working to broaden their reach — to welcome audiences who have historically found them less accessible — the guide system is one of the most practical levers available. A visitor who can engage with the collection in their own language, at depth, for the full duration of their visit, has a fundamentally different relationship with the institution than one who navigated it in their second language."
+    },
+    {
+      "type": "h2",
+      "text": "What to Ask When Evaluating for Language Access"
+    },
+    {
+      "type": "p",
+      "text": "When assessing any guide system’s multilingual capability, the questions that matter most are rarely the ones vendors lead with."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Which languages are supported — and to what depth? A system that supports 20 languages but covers only the top 10 artworks in languages other than English is not genuinely multilingual.",
+        "Are those languages delivered through pre-recorded tracks or live conversation? The format determines whether visitors can ask questions — and whether the experience is the same in every language.",
+        "What does it cost to add a new language? For pre-recorded systems, this is a production cost. For conversational systems, it is a configuration question. The answer tells you whether the language coverage can grow with your audience.",
+        "How are languages selected or detected? Systems that require visitors to choose a language at the entrance create friction and miss visitors who speak a language not listed. Systems that detect language from spoken input remove that step entirely.",
+        "What happens when a visitor’s question falls outside the pre-prepared content, in a non-primary language? The honest answer to this question reveals more about a system’s actual multilingual capability than any feature comparison sheet."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Real Standard for Multilingual Access"
+    },
+    {
+      "type": "p",
+      "text": "The question worth asking is not ‘how many languages does the guide support?’ It is: would a visitor whose first language is Mandarin, or Arabic, or Hindi have the same quality of experience as an English-speaking visitor? Not an approximation of it. Not a translated version of it. The same experience — the same depth, the same responsiveness, the same ability to follow a thread of curiosity wherever it leads."
+    },
+    {
+      "type": "p",
+      "text": "Most current guide systems, evaluated against that standard, come up short. Not because the institutions deploying them don’t care about language access. Because the format they’ve deployed was not designed to meet that standard."
+    },
+    {
+      "type": "p",
+      "text": "The standard is achievable. It just requires a guide that listens — in every language."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See how Tree’d handles multilingual access in a real museum collection — and what it means for your international visitors.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

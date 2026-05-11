@@ -1,0 +1,262 @@
+{
+  "title": "What Is a Conversational Audio Guide?",
+  "excerpt": "A conversational guide doesn't play a script. It listens, responds, and adapts. Here's what that actually means for your museum floor.",
+  "body": [
+    {
+      "type": "p",
+      "text": "A visitor stops in front of a painting. Something about it pulls her in — the posture of the figure, the strange light in the corner, the date on the plaque that doesn't quite add up. She wants to know more."
+    },
+    {
+      "type": "p",
+      "text": "With a traditional audio guide, she presses a number and waits. A pre-recorded voice tells her what the museum decided she should know. If her question isn't covered, she moves on. Slightly unsatisfied. Slightly less curious than she was a moment ago."
+    },
+    {
+      "type": "p",
+      "text": "That moment — the gap between a visitor's genuine question and the silence where an answer should be — is the problem a conversational audio guide is designed to solve."
+    },
+    {
+      "type": "h2",
+      "text": "The Short Answer"
+    },
+    {
+      "type": "p",
+      "text": "A conversational audio guide is a museum guide that visitors can actually speak with."
+    },
+    {
+      "type": "p",
+      "text": "Instead of playing a fixed recording when a visitor arrives at an artwork, a conversational guide responds to what that specific visitor wants to know. They can ask anything. About the technique, the period, the artist's life, why the subject's eyes follow you across the room, what happened to the painting after it was created. The guide answers — then follows the conversation wherever it leads."
+    },
+    {
+      "type": "p",
+      "text": "It isn't a script. It's a dialogue."
+    },
+    {
+      "type": "h2",
+      "text": "How It Differs from a Traditional Audio Guide"
+    },
+    {
+      "type": "p",
+      "text": "Traditional audio guides have been museum staples for decades. Press a number, hear a track, move on. At their best, they deliver curated expert commentary in a polished format. At their worst, they feel like a museum talking at a visitor rather than with one."
+    },
+    {
+      "type": "p",
+      "text": "The limitations are structural, not incidental:"
+    },
+    {
+      "type": "h3",
+      "text": "Fixed content"
+    },
+    {
+      "type": "p",
+      "text": "Every visitor hears the same recording. A ten-year-old, a retired art historian, and a first-time museum visitor all receive the same two-minute track — regardless of what they actually want to know."
+    },
+    {
+      "type": "h3",
+      "text": "No follow-up"
+    },
+    {
+      "type": "p",
+      "text": "If something in the recording sparks a question, there's nowhere to take it. Curiosity appears, and is immediately left unanswered."
+    },
+    {
+      "type": "h3",
+      "text": "One language per track"
+    },
+    {
+      "type": "p",
+      "text": "Most audio guides offer content in several languages, but only by recording separate versions. Nuance, personality, and depth are often lost in translation."
+    },
+    {
+      "type": "h3",
+      "text": "Passive engagement"
+    },
+    {
+      "type": "p",
+      "text": "Listening is not the same as exploring. Traditional audio guides turn visitors into an audience. A conversational guide turns them into participants."
+    },
+    {
+      "type": "p",
+      "text": "The result, in traditional audio guide experiences, is measured in seconds. Visitors spend a few seconds at an artwork before moving on. Not because the art isn't interesting — but because nothing happened to make them stay."
+    },
+    {
+      "type": "h2",
+      "text": "What Makes a Guide \"Conversational\"?"
+    },
+    {
+      "type": "p",
+      "text": "The word conversational is doing real work here. It doesn't mean a chatbot, a touchscreen menu, or a list of FAQs with a voice layer. A genuinely conversational guide has a few defining qualities:"
+    },
+    {
+      "type": "h3",
+      "text": "It listens before it speaks"
+    },
+    {
+      "type": "p",
+      "text": "A conversational audio guide responds to what the visitor actually says — not to a button press or a keyword trigger. The visitor can phrase their question naturally, the way they'd ask a knowledgeable friend, and the guide understands."
+    },
+    {
+      "type": "h3",
+      "text": "It goes where the visitor's curiosity leads"
+    },
+    {
+      "type": "p",
+      "text": "Great museum conversations aren't linear. A question about a painting's technique can turn into a discussion of the artist's relationship, which opens up a whole era of history, which circles back to why a particular colour appears in three pieces from the same year. A conversational guide follows that thread. It doesn't reset after every exchange."
+    },
+    {
+      "type": "h3",
+      "text": "It speaks the visitor's language — literally"
+    },
+    {
+      "type": "p",
+      "text": "A conversational audio guide doesn't just offer content in multiple languages. It holds the entire dialogue in whatever language the visitor speaks. Ask in French, receive an answer in French. Switch mid-conversation if you're travelling with someone who speaks something different. Tree'd's guide converses in 12+ languages — not as parallel tracks, but as a single fluent experience."
+    },
+    {
+      "type": "h3",
+      "text": "It gives visitors permission to be curious"
+    },
+    {
+      "type": "p",
+      "text": "This is perhaps the most underrated quality. Many visitors don't linger longer because they feel they're supposed to move on — to see everything, to keep up with the group, to not look like they don't understand. A guide that answers questions privately, at their own pace, removes that pressure. Visitors who once spent seconds with an artwork now spend minutes. Not because the guide is better. Because curiosity, finally, has somewhere to go."
+    },
+    {
+      "type": "h2",
+      "text": "What a Conversational Audio Guide Is Not"
+    },
+    {
+      "type": "p",
+      "text": "Given how often the term gets stretched, it's worth being precise."
+    },
+    {
+      "type": "h3",
+      "text": "It's not an app"
+    },
+    {
+      "type": "p_linked",
+      "textBefore": "A conversational audio guide doesn't require visitors to download anything, create an account, or stare at a screen. The device — a ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " in the case of Tree'd — is purpose-built for the museum. No distractions. No battery anxiety. Eyes on the art."
+    },
+    {
+      "type": "h3",
+      "text": "It's not a chatbot"
+    },
+    {
+      "type": "p",
+      "text": "General-purpose chatbots are designed for broad utility. A museum conversational guide is trained on the specific collection, the specific context, the specific knowledge that makes that institution worth visiting. It knows this museum, these works, these stories."
+    },
+    {
+      "type": "h3",
+      "text": "It's not a kiosk"
+    },
+    {
+      "type": "p",
+      "text": "Conversational guides are mobile and personal. They travel with the visitor through the galleries, adapting to wherever they stop, whatever they notice."
+    },
+    {
+      "type": "h3",
+      "text": "It's not just a better audio guide"
+    },
+    {
+      "type": "p",
+      "text": "It's a different category. Audio guides deliver content. Conversational guides create dialogue. The distinction changes everything about the visitor experience."
+    },
+    {
+      "type": "h2",
+      "text": "Why It Matters for Museums"
+    },
+    {
+      "type": "p",
+      "text": "Visitor engagement is one of the defining challenges of the modern museum. Attendance pressure, digital competition, the expectation of personalised experiences — all of it points to the same underlying question: how do you make someone feel that being here, in this building, in front of this object, is worth their time?"
+    },
+    {
+      "type": "p",
+      "text": "A conversational audio guide changes the equation in a few concrete ways:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Depth of engagement. When visitors can converse freely about what they're seeing, they engage more deeply. They notice more. They remember more. A piece of art that would have been a quick glance becomes the highlight of their visit.",
+        "Inclusion. Multilingual conversation — not just multilingual tracks — means every visitor, regardless of language or prior knowledge, can access the same depth of experience. A conversational guide doesn't flatten content for accessibility; it elevates it.",
+        "No new infrastructure. A well-designed conversational guide integrates into a museum without requiring digital overhauls, app ecosystems, or visitor behaviour change. Visitors pick up the Handset and converse — the technology is invisible.",
+        "Data that means something. Traditional audio guides tell you which tracks were played. A conversational guide tells you what visitors actually wanted to know — which questions appeared most, which artworks prompted the deepest conversations, where curiosity concentrated. That's not analytics. That's insight."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Gap Between What Museums Offer and What Visitors Want"
+    },
+    {
+      "type": "p",
+      "text": "There's a well-documented tension at the heart of the museum audio guide. Curators and directors know their collections with extraordinary depth. Visitors arrive curious, sometimes nervous, often carrying more questions than they expect. The traditional guide sits in the middle — and frequently fails both sides."
+    },
+    {
+      "type": "p",
+      "text": "It can't carry the full weight of curatorial knowledge. And it can't respond to what individual visitors actually bring."
+    },
+    {
+      "type": "p",
+      "text": "A conversational guide changes that relationship. It becomes the channel through which deep institutional knowledge meets individual human curiosity. The museum's expertise doesn't sit behind glass — it joins the conversation."
+    },
+    {
+      "type": "h2",
+      "text": "What to Look for in a Conversational Audio Guide"
+    },
+    {
+      "type": "p",
+      "text": "If you're evaluating options for your museum, a few things separate a genuine conversational guide from a product that uses the word loosely:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Real two-way dialogue, not branching menus or keyword matching",
+        "Multilingual conversation — not just multilingual content libraries",
+        "No app required — the lower the friction for visitors, the higher the engagement",
+        "Collection-specific training — the guide should know your museum, not just general art history",
+        "Local data processing — visitor conversations should stay within your premises, not be transmitted to external servers",
+        "A clear pilot pathway — any guide worth considering should be willing to deploy, demonstrate results, and let the data make the case"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Quiet Revolution Happening in Galleries Right Now"
+    },
+    {
+      "type": "p",
+      "text": "Conversational audio guides are not a future technology. They're already deployed — in Cairo, in Fayoum, in Amman — and the pattern is consistent wherever they go: visitors who once moved through galleries in minutes begin staying for the full duration of their visit. Visitors who said they \"don't really do museums\" leave wanting to come back. Visitors who came for a single famous work find themselves deep in conversation about something they hadn't planned to see."
+    },
+    {
+      "type": "p",
+      "text": "The artwork hasn't changed. The collection is the same. What changed is that visitors were given something they almost never get in a museum: someone to talk to."
+    },
+    {
+      "type": "h2",
+      "text": "A Final Thought"
+    },
+    {
+      "type": "p",
+      "text": "The most natural thing in the world, when you encounter something beautiful or puzzling or unexpectedly moving, is to want to talk about it. To ask a question. To share the moment with someone who understands."
+    },
+    {
+      "type": "p",
+      "text": "Museums are full of those moments. For too long, the audio guide has been the least conversational thing in the room."
+    },
+    {
+      "type": "p",
+      "text": "That's changing."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree'd History Guide is a ",
+      "linkText": "conversational audio guide",
+      "href": "/solution",
+      "textAfter": " built for museums — deployed on a custom Handset, requiring no app, and conversing with visitors in 12+ languages."
+    },
+    {
+      "type": "cta_inline",
+      "text": "If you're curious about what it looks like inside a real collection, start with a 90-day pilot.",
+      "href": "/booking",
+      "label": "Start a 90-Day Pilot"
+    }
+  ]
+}

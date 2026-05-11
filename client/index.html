@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#c8df52" />
+    <title>AI Museum Audio Guide | Conversational, Real-Time & Multilingual</title>
+    
+    <meta name="description" content="AI museum audio guide that lets visitors explore freely, ask questions, and get answers in real time. Start with a 90-day pilot." />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="AI Museum Audio Guide | Conversational, Real-Time & Multilingual" />
+    <meta property="og:description" content="AI museum audio guide that lets visitors explore freely, ask questions, and get answers in real time. Start with a 90-day pilot." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://treed.co/" />
+    <meta property="og:site_name" content="Tree'd" />
+    <meta property="og:image" content="https://treed.co/social-share.png" />
+    <meta property="og:image:alt" content="Tree'd – The Next-Gen Audio Guide, Powered by Conversational AI" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@treedguide" />
+    <meta name="twitter:title" content="AI Museum Audio Guide | Conversational, Real-Time & Multilingual" />
+    <meta name="twitter:description" content="AI museum audio guide that lets visitors explore freely, ask questions, and get answers in real time. Start with a 90-day pilot." />
+    <meta name="twitter:image" content="https://treed.co/social-share.png" />
+    
+    <link rel="canonical" href="https://treed.co/" />
+    <link rel="alternate" hreflang="en" href="https://treed.co/?lng=en" />
+    <link rel="alternate" hreflang="nl" href="https://treed.co/?lng=nl" />
+    <link rel="alternate" hreflang="fr" href="https://treed.co/?lng=fr" />
+    <link rel="alternate" hreflang="x-default" href="https://treed.co/" />
+
+    <link rel="shortcut icon" href="/favicon-light.png" />
+    <link rel="icon" type="image/png" href="/favicon-light.png" />
+    <link rel="icon" type="image/png" href="/favicon.png" media="(prefers-color-scheme: dark)" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+
+    <!-- Google Analytics 4 — script-blocking approach.
+         The GA4 script is NEVER loaded unless the user explicitly accepts cookies.
+         Zero data sent to Google on reject or no-choice. -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+
+      function _loadGA4() {
+        if (document.querySelector('script[src*="googletagmanager.com/gtag"]')) return;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NFC69M5MYC';
+        document.head.appendChild(s);
+        s.onload = function() {
+          gtag('js', new Date());
+          gtag('consent', 'update', { 'analytics_storage': 'granted', 'ad_storage': 'denied' });
+          gtag('config', 'G-NFC69M5MYC');
+        };
+      }
+
+      // Only load GA4 if user has already given consent in a previous session
+      try {
+        if (localStorage.getItem('treed_cookie_consent') === 'accepted') {
+          _loadGA4();
+        }
+      } catch(e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    
+  <script type="module" src="/src/main.tsx"></script>  </body>
+</html>

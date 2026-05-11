@@ -1,0 +1,245 @@
+{
+  "title": "Museum Audio Guide vs Mobile App: Which Is Right for Your Institution?",
+  "excerpt": "Apps promise flexibility. Dedicated guides promise reliability. This comparison helps directors decide which model fits their visitor profile, budget, and operational constraints.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Most museum directors framing this decision are asking: should we buy more handsets, or should we build an app? It feels like a practical question. It is also a slightly misleading one."
+    },
+    {
+      "type": "p",
+      "text": "The traditional audio guide and the mobile app represent two different philosophies of visitor engagement — neither of which, in its standard form, fully solves what museums are actually trying to do. Understanding both honestly is the first step toward making a decision you won’t need to revisit in three years."
+    },
+    {
+      "type": "callout",
+      "text": "The short answer: Audio guides win on reliability and zero friction. Mobile apps win on flexibility and rich media. Neither wins on visitor engagement depth. If that’s your primary goal, this article ends with a third option worth understanding."
+    },
+    {
+      "type": "h2",
+      "text": "What a Traditional Audio Guide Actually Delivers"
+    },
+    {
+      "type": "p",
+      "text": "The audio guide’s track record is built on genuine strengths. Visitors pick up a device at the entrance, press a number at each artwork, and receive curated narration. No download required. No battery anxiety. No screen pulling eyes away from the collection."
+    },
+    {
+      "type": "p",
+      "text": "For institutions with international audiences, multilingual content is available without requiring visitors to configure anything. For older demographics or first-time museum visitors, the simplicity is a feature, not a limitation. And once recorded, the content is controlled entirely by the curatorial team — every word approved, every track quality-checked."
+    },
+    {
+      "type": "p",
+      "text": "The limitations are structural rather than incidental. Content is fixed at the point of recording. A visitor with prior knowledge hears the same introductory script as a first-timer. A visitor with a specific question gets no answer. A visitor who wants to follow a particular thread — the technique, the provenance, the story behind the commission — finds that the track ends and the moment passes."
+    },
+    {
+      "type": "p",
+      "text": "There is also the operational weight: charging, cleaning, distributing, collecting, repairing. For large institutions, that’s a permanent line in the staffing budget. For smaller ones, it can become disproportionate to the benefit."
+    },
+    {
+      "type": "h2",
+      "text": "What a Mobile App Actually Delivers"
+    },
+    {
+      "type": "p",
+      "text": "The mobile app’s promise is flexibility. Rich media, interactive maps, personalised tours, content that can be updated between exhibitions without reprinting anything or re-recording a single track. The appeal is real, particularly for institutions that want to offer different entry points for different visitor types."
+    },
+    {
+      "type": "p",
+      "text": "The gap between promise and practice tends to appear on the museum floor. Adoption is the first challenge. Even a well-designed app requires a visitor to take out their phone, find the app, open it, and orient themselves — steps that compound into a friction threshold that a meaningful portion of visitors never cross. Download-required apps carry an additional barrier that web-based alternatives have reduced, but not eliminated."
+    },
+    {
+      "type": "p",
+      "text": "The second challenge is attention. A visitor on their phone is a visitor on their phone. Notifications arrive. Other apps are one tap away. The museum competes for focus within a device built to fragment it. Engagement tends to be higher on entry and lower the deeper visitors move into the exhibition."
+    },
+    {
+      "type": "p",
+      "text": "And despite the technological flexibility, most museum mobile apps still deliver content in a fundamentally passive format: tap a number, read or listen, move on. The medium is richer. The interaction model is largely unchanged."
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side: Audio Guide vs Mobile App"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Traditional Audio Guide",
+        "Mobile App"
+      ],
+      "rows": [
+        [
+          "Hardware required",
+          "Yes — museum-managed devices",
+          "No — visitors use own smartphones"
+        ],
+        [
+          "Visitor setup friction",
+          "None — device handed to visitor",
+          "Low to moderate — depends on app type"
+        ],
+        [
+          "Content format",
+          "Audio narration",
+          "Audio, video, images, AR, maps"
+        ],
+        [
+          "Content updates",
+          "Requires re-recording",
+          "Can be updated remotely in real time"
+        ],
+        [
+          "Follow-up questions",
+          "Not possible",
+          "Not possible in standard formats"
+        ],
+        [
+          "Language support",
+          "Pre-recorded per language",
+          "Multilingual content, varies by build"
+        ],
+        [
+          "Visitor attention",
+          "Device-focused, eyes on art",
+          "Screen-based, competes with distractions"
+        ],
+        [
+          "Operational overhead",
+          "High — charging, cleaning, maintenance",
+          "Low — software-managed post-launch"
+        ],
+        [
+          "Engagement model",
+          "Passive listening",
+          "Passive consumption with richer media"
+        ],
+        [
+          "Visitor data collected",
+          "Track play counts only",
+          "Pathways, time on content, drop-off points"
+        ],
+        [
+          "Offline functionality",
+          "Full offline",
+          "Partial — depends on design"
+        ],
+        [
+          "BYOD required",
+          "No",
+          "Yes"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Question Both Formats Leave Unanswered"
+    },
+    {
+      "type": "p",
+      "text": "Look at the table carefully and a pattern emerges. Both formats deliver content to visitors. Neither allows visitors to converse with the guide."
+    },
+    {
+      "type": "p",
+      "text": "A visitor standing in front of a 200-year-old portrait can listen to what the museum has prepared. They cannot ask why the background was left unfinished. They cannot ask about the relationship between the subject and the painter. They cannot follow a thread of curiosity wherever it leads, because the guide does not listen — it only plays."
+    },
+    {
+      "type": "p",
+      "text": "That is not a gap in execution. It is a gap in the category. Neither format was designed to answer questions in real time. They were designed to broadcast prepared content efficiently. Which they do — within the limits of that model."
+    },
+    {
+      "type": "p",
+      "text": "The measurable consequence is familiar to most directors: visitors who once spent seconds with an artwork leave seconds later. Not because the content wasn’t good. Because the conversation they wanted to have had nowhere to go."
+    },
+    {
+      "type": "h2",
+      "text": "A Third Model: The Conversational AI Handset"
+    },
+    {
+      "type": "p",
+      "text": "In recent years, a different category has emerged: a dedicated handset that doesn’t play scripts. It converses."
+    },
+    {
+      "type": "p",
+      "text": "A visitor picks up the device — no download, no registration, no phone required. They speak naturally. The guide answers — in their language, about this specific artwork, in as much or as little depth as they want. They follow up. The conversation continues. When they’re ready to move on, they move on."
+    },
+    {
+      "type": "p",
+      "text": "The guide is trained on the museum’s own collection: the artworks, their provenance, their historical context, the curatorial thinking behind their display. It doesn’t speculate. It doesn’t generate content beyond what it’s been taught. The curatorial team shapes its scope and can review and update it as the collection evolves."
+    },
+    {
+      "type": "p",
+      "text": "It operates in 12 or more languages — not by switching between pre-recorded tracks, but by holding the full conversation in whatever language the visitor speaks. The visitor who arrives asking in Arabic receives an answer in Arabic. The one who switches mid-visit to French is followed there too."
+    },
+    {
+      "type": "p",
+      "text": "Visitors who once spent seconds with an artwork now spend minutes. Not because the content is longer — because the curiosity finally has somewhere to go."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d History Guide is a conversational audio guide built for museums — deployed on a custom ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": ", requiring no app or download, and conversing with visitors in 12+ languages from day one."
+    },
+    {
+      "type": "h2",
+      "text": "How to Decide: A Framework for Directors"
+    },
+    {
+      "type": "p",
+      "text": "The right format depends on what you’re actually trying to achieve. Here are the questions that matter most:"
+    },
+    {
+      "type": "h3",
+      "text": "What is your primary goal?"
+    },
+    {
+      "type": "p",
+      "text": "If the goal is providing consistent, curated narration at low operational cost, a traditional audio guide remains a defensible choice — particularly for institutions with limited staff capacity to manage technology. If the goal is offering richer, more immersive content with multimedia layers, a mobile app may suit certain audience profiles. If the goal is deeper visitor engagement — longer time with artworks, more questions answered, higher satisfaction — neither format was built for that. A conversational guide was."
+    },
+    {
+      "type": "h3",
+      "text": "What is your visitor profile?"
+    },
+    {
+      "type": "p",
+      "text": "Institutions with significant international visitor numbers, older demographics, or school groups tend to benefit most from dedicated handsets — where no prior setup is required and the guide is in visitors’ hands from the moment they enter. Apps work better where visitors are likely to arrive already familiar with digital self-service, and where the institution can invest in adoption incentives at the entrance."
+    },
+    {
+      "type": "h3",
+      "text": "What is your operational capacity?"
+    },
+    {
+      "type": "p",
+      "text": "Audio guide operations require ongoing staffing. App development requires budget and technical resource, then ongoing maintenance as operating systems and device standards evolve. Conversational AI handsets require a different kind of investment: data preparation at the start, then software-driven management rather than physical logistics. None of these is free — but they carry very different kinds of cost over time."
+    },
+    {
+      "type": "h3",
+      "text": "What do you want to learn from your visitors?"
+    },
+    {
+      "type": "p",
+      "text": "Traditional audio guides tell you which tracks were played. Apps tell you which pages were opened. A conversational guide tells you what visitors actually wanted to know — which artworks generated the most questions, what language those conversations happened in, which parts of the collection drew the deepest engagement. That is not just engagement data. It is a new category of curatorial intelligence."
+    },
+    {
+      "type": "h2",
+      "text": "The Honest Summary"
+    },
+    {
+      "type": "p",
+      "text": "Traditional audio guides do what they were designed to do, reliably. Mobile apps offer flexibility that dedicated hardware cannot match. If your decision sits between those two options alone, the comparison table above should guide you."
+    },
+    {
+      "type": "p",
+      "text": "But if the underlying question is how to create visits that visitors remember — experiences that generate depth, not just satisfaction scores — both formats are reaching the limit of what their architecture was built to deliver."
+    },
+    {
+      "type": "p",
+      "text": "The question isn’t really audio guide or mobile app. It’s whether you want a guide that broadcasts, or a guide that listens back."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See what a conversational guide looks like inside a real collection — with a 90-day pilot, full deployment, and a joint report at the end.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

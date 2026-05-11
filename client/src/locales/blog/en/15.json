@@ -1,0 +1,185 @@
+{
+  "title": "Subscription, Licence, or Per-Visit: How Museum Audio Guide Pricing Models Actually Work",
+  "excerpt": "The price a vendor quotes and the price a museum pays over five years are rarely the same number. A clear-eyed guide to how audio guide pricing models are structured, what each one means in practice, and which questions to ask before the contract is signed.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Museum audio guide procurement conversations tend to converge on a single question early: how much does it cost? It is the right question to ask. It is also the wrong question to stop at."
+    },
+    {
+      "type": "p",
+      "text": "The number a vendor presents in an initial proposal reflects a pricing model. That model determines how costs behave over time: whether they are fixed or variable, whether they scale with visitors or remain flat, whether they compress into year one or accumulate across the contract term. Two systems with similar initial quotes can have total costs over five years that differ by a factor of two or more. Understanding the model is more useful than memorising the figure."
+    },
+    {
+      "type": "callout",
+      "text": "The most important cost question in audio guide procurement is not ‘how much?’ It is ‘how does the cost behave over time, and what changes it?’ The answer reveals more about the true commitment than any line-item comparison."
+    },
+    {
+      "type": "h2",
+      "text": "The Three Main Pricing Models"
+    },
+    {
+      "type": "p",
+      "text": "Most museum audio guide pricing structures fall into one of three categories, with variations and hybrids within each. Understanding the mechanics of each is the first step to evaluating proposals accurately."
+    },
+    {
+      "type": "h3",
+      "text": "Perpetual Licence"
+    },
+    {
+      "type": "p",
+      "text": "A perpetual licence grants the institution the right to use the software indefinitely in exchange for a large upfront payment. Ongoing costs are typically limited to an annual maintenance or support fee — usually a percentage of the original licence value — which covers updates, bug fixes, and technical support."
+    },
+    {
+      "type": "p",
+      "text": "The appeal is predictability. After the initial investment, the cost structure is stable and the institution owns the right to use the software without further approval or negotiation. For institutions with long planning cycles and limited appetite for recurring budget commitments, this model has genuine advantages."
+    },
+    {
+      "type": "p",
+      "text": "The limitation is front-loading. The upfront cost is high, capital budget must be available at deployment, and the institution is effectively betting on the software remaining suitable for its needs over a multi-year horizon. If the system proves inadequate, the switching cost includes writing off the sunk investment. Perpetual licences also tend to limit how frequently the vendor innovates — there is less incentive to improve a product already paid for."
+    },
+    {
+      "type": "h3",
+      "text": "Annual Subscription (SaaS)"
+    },
+    {
+      "type": "p",
+      "text": "Annual subscription models spread cost over time in exchange for ongoing access to the software and, typically, continuous updates. The institution pays a recurring fee — monthly or annually — for as long as it uses the system. There is no large upfront payment and no ownership of the software itself."
+    },
+    {
+      "type": "p",
+      "text": "SaaS models are now the dominant structure in museum technology precisely because they shift cost from capital to operational budgets — a meaningful difference for institutions where capital and operational funding come from different sources and have different approval processes."
+    },
+    {
+      "type": "p",
+      "text": "The risk in subscription models is long-term accumulation. A system that costs a given amount annually compounds significantly over five or ten years. Institutions that do not model multi-year costs at procurement often find renewal conversations uncomfortable when the total spend is made visible. There is also the exit consideration: a subscription creates an ongoing dependency that requires active decision-making to end, whereas a perpetual licence, once paid, requires no further financial commitment to continue using."
+    },
+    {
+      "type": "h3",
+      "text": "Per-Visit or Per-Use Pricing"
+    },
+    {
+      "type": "p",
+      "text": "Per-visit models charge based on actual usage — typically a fee per guide session activated, per unique visitor served, or per defined usage event. The appeal for institutions with variable attendance is significant: costs are proportional to actual use rather than fixed against an anticipated volume."
+    },
+    {
+      "type": "p",
+      "text": "In practice, per-visit pricing is often more expensive than it appears at moderate to high visitor volumes. The per-unit cost looks modest in isolation; multiplied by annual visitor numbers, it frequently exceeds what a fixed subscription would have cost. Institutions with peak-period surges — summer crowds, school season, blockbuster exhibitions — can find their costs spiking precisely when the museum is already operating at maximum capacity."
+    },
+    {
+      "type": "p",
+      "text": "Per-visit models also create a structural tension with visitor engagement goals. A museum that pays more when more visitors use the guide is not necessarily incentivised to maximise adoption. This is rarely explicit, but the dynamic is worth acknowledging."
+    },
+    {
+      "type": "h2",
+      "text": "What the Model Doesn’t Tell You: Hidden Cost Categories"
+    },
+    {
+      "type": "p",
+      "text": "The pricing model covers software. It does not cover everything else. Several cost categories sit outside the standard model presentation and reliably appear as surprises later in the deployment."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Setup and onboarding fees. Most vendors charge separately for initial deployment — knowledge base preparation, system configuration, on-site installation, and staff training. These are one-time costs but are frequently not included in the headline quote and can be significant, particularly for AI-based systems where knowledge base preparation requires substantial input from curatorial staff.",
+        "Content update costs. For traditional audio guides, updating content means returning to the recording studio. This is a production cost that recurs every time the collection changes. For AI guides, updates involve revising the knowledge base — a different kind of cost but not a zero one. Neither tends to appear in the initial pricing model.",
+        "Hardware refresh cycles. Handsets have operational lifespans. The cost of replacing them at the end of that lifespan is often absent from year-one proposals but is a real commitment that will arrive at some point in the contract term.",
+        "Language expansion. Adding a new language to a traditional audio guide means commissioning new narration. For conversational AI guides, the process is different but not free. Any proposal that presents a language count without clarifying the cost of changing it is leaving important information out.",
+        "Data and connectivity infrastructure. Systems that process visitor interactions in the cloud carry compute costs that may be usage-dependent. Locally deployed systems require on-premises infrastructure. Neither is captured in a simple per-licence or per-visit figure."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Comparing Models Over Time"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Perpetual Licence",
+        "Annual Subscription",
+        "Per-Visit"
+      ],
+      "rows": [
+        [
+          "Budget type",
+          "Capital",
+          "Operational",
+          "Operational (variable)"
+        ],
+        [
+          "Year 1 cost",
+          "High",
+          "Low to moderate",
+          "Depends on volume"
+        ],
+        [
+          "5-year total",
+          "Moderate (licence + maintenance)",
+          "Higher (compounds annually)",
+          "High if volume grows"
+        ],
+        [
+          "Cost predictability",
+          "High after year 1",
+          "High per year",
+          "Low — scales with attendance"
+        ],
+        [
+          "Switching cost",
+          "Sunk licence investment",
+          "Exit at renewal",
+          "Exit at any point"
+        ],
+        [
+          "Vendor update incentive",
+          "Low post-sale",
+          "High — ongoing relationship",
+          "Moderate"
+        ],
+        [
+          "Best for",
+          "Stable institutions, capital budget available",
+          "Most institutions, operational budgets",
+          "Very low-volume or pilot contexts"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Questions Worth Asking Before the Contract"
+    },
+    {
+      "type": "p",
+      "text": "Beyond the model category, specific questions determine whether the pricing structure will work for your institution over the full contract term."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "What is the total cost over three and five years, including all setup fees, content updates, hardware refresh, and support? Ask the vendor to model this explicitly. If they decline, ask why.",
+        "What triggers a price increase? Are annual subscription fees fixed or subject to uplift? Is there a cap? An uncapped subscription with annual escalation is a different commitment from a fixed-rate one.",
+        "What is the exit process and what costs are associated with it? What happens to the content and data you have generated within the system if you leave?",
+        "How are content updates priced, and what constitutes an update that triggers additional cost versus a routine maintenance activity covered by the standard fee?",
+        "If the system processes visitor data, where does that processing happen and what are the associated infrastructure costs? Are those costs included in the quoted price or additional?"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Right Model Depends on the Right Questions"
+    },
+    {
+      "type": "p",
+      "text": "There is no universally superior pricing model — there is a model that fits a given institution’s budget structure, risk tolerance, and operational expectations, and others that do not. A large national museum with capital budget availability and a long planning horizon may find a perpetual licence genuinely appropriate. A mid-sized regional institution with operational-only budget and a preference for flexibility will likely find subscription more workable. A very small institution running a limited seasonal programme might find per-visit pricing the only viable entry point."
+    },
+    {
+      "type": "p",
+      "text": "What matters is not which model sounds most appealing in a vendor presentation, but which model the institution has evaluated honestly against its own financial profile and operational expectations over the full duration of the commitment. The contract that seemed like the best deal at signing is usually the one that was modelled most carefully before it was signed."
+    },
+    {
+      "type": "cta_inline",
+      "text": "Tree’d offers a 90-day pilot with transparent pricing before any long-term commitment. If you’re building a business case or comparing proposals, start with a conversation.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Home -->
+  <url>
+    <loc>https://treed.co/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Solution -->
+  <url>
+    <loc>https://treed.co/solution</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/solution?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/solution?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/solution?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/solution"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Handset -->
+  <url>
+    <loc>https://treed.co/handset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/handset?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/handset?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/handset?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/handset"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Tree -->
+  <url>
+    <loc>https://treed.co/tree</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/tree?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/tree?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/tree?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/tree"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Dashboard -->
+  <url>
+    <loc>https://treed.co/dashboard</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/dashboard?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/dashboard?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/dashboard?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/dashboard"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Visitor Experience -->
+  <url>
+    <loc>https://treed.co/visitor-experience</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/visitor-experience?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/visitor-experience?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/visitor-experience?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/visitor-experience"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sustainability -->
+  <url>
+    <loc>https://treed.co/sustainability</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/sustainability?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/sustainability?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/sustainability?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/sustainability"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://treed.co/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/about?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/about?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/about?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/about"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://treed.co/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/contact?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/contact?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/contact?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/contact"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Careers -->
+  <url>
+    <loc>https://treed.co/careers</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/careers?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/careers?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/careers?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/careers"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Booking -->
+  <url>
+    <loc>https://treed.co/booking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/booking?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/booking?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/booking?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/booking"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Revenue Sharing -->
+  <url>
+    <loc>https://treed.co/revenue-sharing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/revenue-sharing?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/revenue-sharing?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/revenue-sharing?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/revenue-sharing"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://treed.co/faq</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/faq?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/faq?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/faq?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/faq"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Use Cases -->
+  <url>
+    <loc>https://treed.co/use-cases</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/use-cases?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/use-cases?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/use-cases?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/use-cases"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Request Pricing -->
+  <url>
+    <loc>https://treed.co/request-pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/request-pricing?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/request-pricing?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/request-pricing?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/request-pricing"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Hub -->
+  <url>
+    <loc>https://treed.co/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/blog?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/blog?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://treed.co/blog/treed-signs-first-museum-partnership-fayoum-art-center</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/treed-signs-first-museum-partnership-fayoum-art-center?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/treed-signs-first-museum-partnership-fayoum-art-center"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/what-is-an-ai-museum-audio-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/what-is-an-ai-museum-audio-guide?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/what-is-an-ai-museum-audio-guide"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/what-is-a-conversational-audio-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/what-is-a-conversational-audio-guide?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/what-is-a-conversational-audio-guide"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/how-much-does-a-museum-audio-guide-cost</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/how-much-does-a-museum-audio-guide-cost?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/how-much-does-a-museum-audio-guide-cost"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/ai-audio-guide-vs-traditional-audio-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/ai-audio-guide-vs-traditional-audio-guide?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/ai-audio-guide-vs-traditional-audio-guide"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/museum-audio-guide-vs-mobile-app</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/museum-audio-guide-vs-mobile-app?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/museum-audio-guide-vs-mobile-app"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/multilingual-museum-audio-guide-language-access</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/multilingual-museum-audio-guide-language-access?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/multilingual-museum-audio-guide-language-access"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/nfc-tags-vs-number-entry-museum-audio-guides</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/nfc-tags-vs-number-entry-museum-audio-guides?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/nfc-tags-vs-number-entry-museum-audio-guides"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/why-better-audio-guide-content-wont-fix-visitor-engagement</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/why-better-audio-guide-content-wont-fix-visitor-engagement?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/why-better-audio-guide-content-wont-fix-visitor-engagement"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/why-museum-visitors-stop-using-audio-guides</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/why-museum-visitors-stop-using-audio-guides?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/why-museum-visitors-stop-using-audio-guides"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/screen-problem-museum-galleries-eyes-on-the-art</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/screen-problem-museum-galleries-eyes-on-the-art?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/screen-problem-museum-galleries-eyes-on-the-art"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/the-questions-visitors-never-get-to-ask</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/the-questions-visitors-never-get-to-ask?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/the-questions-visitors-never-get-to-ask"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/90-day-museum-audio-guide-pilot</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/90-day-museum-audio-guide-pilot?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/90-day-museum-audio-guide-pilot"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/how-museum-directors-should-evaluate-audio-guides-2026</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/how-museum-directors-should-evaluate-audio-guides-2026?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/how-museum-directors-should-evaluate-audio-guides-2026"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/museum-audio-guide-accessibility-beyond-language</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/museum-audio-guide-accessibility-beyond-language?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/museum-audio-guide-accessibility-beyond-language"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/blog/museum-audio-guide-pricing-models</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/blog/museum-audio-guide-pricing-models?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/blog/museum-audio-guide-pricing-models"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://treed.co/privacy-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/privacy-policy?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/privacy-policy?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/privacy-policy?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/privacy-policy"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/cookie-policy?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/cookie-policy?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/cookie-policy?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/cookie-policy"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://treed.co/terms-of-use</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://treed.co/terms-of-use?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://treed.co/terms-of-use?lng=nl"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://treed.co/terms-of-use?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://treed.co/terms-of-use"/>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>

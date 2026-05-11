@@ -1,0 +1,172 @@
+{
+  "title": "Tree’d Signs First Museum Partnership with Fayoum Art Center",
+  "excerpt": "Tree’d announces its first commercial museum partnership in Egypt — signing with Fayoum Art Center, home to MENA’s first caricature museum, just one month after entering the market commercially.",
+  "body": [
+    {
+      "type": "callout",
+      "text": "Cairo, Egypt — 25 February 2026"
+    },
+    {
+      "type": "p_rich",
+      "segments": [
+        {
+          "text": "Tree’d, a Dutch culture-tech company building AI-powered conversational audio guide systems for museums, has signed its first commercial museum partnership with "
+        },
+        {
+          "text": "Fayoum Art Center",
+          "href": "https://fayoumartcenter.com/",
+          "external": true
+        },
+        {
+          "text": ", part of the "
+        },
+        {
+          "text": "Abla Art Foundation",
+          "href": "http://ablaartfoundation.org/",
+          "external": true
+        },
+        {
+          "text": ". The deployment will take place at the Caricature Museum — the first museum of its kind in the Middle East and North Africa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The agreement marks the first live museum installation in Egypt for Tree’d, following months of research and development. The partnership was signed just one month after the company entered the market commercially — a signal of both product maturity and a clear, immediate demand from museums to deliver more engaging, visitor-centric experiences."
+    },
+    {
+      "type": "h2",
+      "text": "From Pilot to Partnership"
+    },
+    {
+      "type": "p",
+      "text": "The partnership follows a successful pilot project at Art Cairo, held in late January at the Grand Egyptian Museum. During the exhibition, Tree’d powered an immersive audio experience at the Abla Art Foundation booth, enabling visitors to engage with artworks through conversational audio. The pilot validated visitor adoption in a high-traffic cultural setting and directly informed the decision to proceed with long-term museum deployment."
+    },
+    {
+      "type": "p",
+      "text": "By adopting the system early, Fayoum Art Center positions itself as one of the leading cultural institutions in the region to embrace modern innovation in visitor experience. The deployment reflects a strategic focus on improving how visitors engage with the collection — through interaction, immersion, and dialogue rather than passive exploration."
+    },
+    {
+      "type": "image_carousel",
+      "images": [
+        {
+          "src": "/blog/treed-art-cairo-2026-01.jpg",
+          "alt": "Tree'd at Art Cairo 2026 — Abla Art Foundation booth",
+          "caption": "Live pilot: Tree'd audio devices in action at the Abla Art Foundation booth, Art Cairo 2026."
+        },
+        {
+          "src": "/blog/treed-art-cairo-2026-02.jpg",
+          "alt": "Visitors engaging with Tree'd Handsets at Art Cairo 2026",
+          "caption": "Visitors exploring the Abla Art Foundation collection using Tree'd conversational audio guides."
+        },
+        {
+          "src": "/blog/treed-art-cairo-2026-03.jpg",
+          "alt": "Tree'd Handset display at the Abla Art Foundation booth, Art Cairo 2026",
+          "caption": "The Tree'd Handset on display at the Abla Art Foundation booth during Art Cairo 2026."
+        },
+        {
+          "src": "/blog/treed-art-cairo-2026-04.jpg",
+          "alt": "Art Cairo 2026 — Tree'd pilot at the Grand Egyptian Museum",
+          "caption": "Art Cairo 2026 at the Grand Egyptian Museum — where Tree'd ran its first live public pilot."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The Partnership in Their Own Words"
+    },
+    {
+      "type": "quote",
+      "text": "Caricature has always been a conversation with society. It speaks truth through image, but the image becomes richer when visitors can ask what it means — when they can push further, question it, engage with it directly. Tree’d gives our visitors that opportunity. It turns the museum into a genuine dialogue, which is exactly what caricature has always demanded.",
+      "attribution": "Mohamed Abla, Founder, Fayoum Art Center"
+    },
+    {
+      "type": "quote",
+      "text": "We are an agile institution. We do not adopt technology because it is new — we adopt it when it genuinely serves visitors better than what came before. Tree’d gave us exactly that. When something works this well for the visitor experience, the decision is straightforward.",
+      "attribution": "Ibrahim Abla, Managing Director, Fayoum Art Center"
+    },
+    {
+      "type": "h2",
+      "text": "How Tree’d Works at the Caricature Museum"
+    },
+    {
+      "type": "p_rich",
+      "segments": [
+        {
+          "text": "The Tree’d audio guide system enables visitors to explore exhibitions at their own pace, in their preferred language. Visitors tap NFC points placed near exhibits to access curated audio content and can ask spoken follow-up questions about the artwork — which the "
+        },
+        {
+          "text": "handset",
+          "href": "/handset"
+        },
+        {
+          "text": " answers instantly and in any language, using conversational AI trained on museum-approved knowledge. The system also includes an "
+        },
+        {
+          "text": "analytics dashboard",
+          "href": "/dashboard"
+        },
+        {
+          "text": " that provides museums with insight into visitor engagement and usage patterns."
+        }
+      ]
+    },
+    {
+      "type": "image_caption",
+      "src": "/blog/treed-fayoum-signing-day-2026.jpg",
+      "alt": "Mohammad Noor Al-Zoubi and Ibrahim Abla on signing day at Fayoum Art Center",
+      "caption": "Mohammad Noor Al-Zoubi (left, Co-Founder & Managing Director, Tree’d) and Ibrahim Abla (right, Managing Director, Fayoum Art Center) on signing day at the Caricature Museum, Fayoum, Egypt."
+    },
+    {
+      "type": "h2",
+      "text": "Tree’d on the Significance of the Partnership"
+    },
+    {
+      "type": "quote",
+      "text": "While most industries have advanced through AI-driven interaction, museum interpretation has remained largely stuck in static playback. That solution limits how deeply visitors can explore. This partnership reflects a shift toward experiences that respond to curiosity rather than stopping it.",
+      "attribution": "Bahaa Rayah, Founder and CEO, Tree’d",
+      "linkedInUrl": "https://www.linkedin.com/in/bahaarayah/"
+    },
+    {
+      "type": "quote",
+      "text": "Signing a first deal within a short period of going live is a testament to the maturity of our product and the immediate need to improve the museum visitor experience, which is still served by decades-old technology.",
+      "attribution": "Mohammad Noor Al-Zoubi, Co-Founder and Managing Director, Tree’d",
+      "linkedInUrl": "https://www.linkedin.com/in/zoubi/"
+    },
+    {
+      "type": "p",
+      "text": "The installation at Fayoum Art Center is scheduled to go live in June 2026. Discussions with additional museums in Egypt and Europe are ongoing."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h2",
+      "text": "About Tree’d"
+    },
+    {
+      "type": "p_linked",
+      "textBefore": "Tree’d is a Dutch culture-tech company offering conversational, ",
+      "linkText": "AI-powered audio guide systems",
+      "href": "/solution",
+      "textAfter": " for museums and cultural institutions. The platform enables visitors to explore at their own pace, ask questions, and receive instant, multilingual responses — without screens, apps, or complex onboarding. Tree’d is headquartered in Amsterdam and operates across Europe and the Middle East."
+    },
+    {
+      "type": "h2",
+      "text": "About Fayoum Art Center"
+    },
+    {
+      "type": "p_rich",
+      "segments": [
+        {
+          "text": "Fayoum Art Center",
+          "href": "https://fayoumartcenter.com/",
+          "external": true
+        },
+        {
+          "text": " is a multidisciplinary cultural institution located in Fayoum, Egypt, and home to MENA’s first caricature museum. The center is committed to preserving, exhibiting, and advancing caricature as a form of artistic, social, and cultural expression — while continuously exploring new ways to improve how visitors engage with art and ideas."
+        }
+      ]
+    }
+  ]
+}

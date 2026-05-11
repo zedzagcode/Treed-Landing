@@ -1,0 +1,147 @@
+{
+  "title": "Why Better Audio Guide Content Won’t Fix Visitor Engagement",
+  "excerpt": "When visitor engagement is low, the instinct is to improve the content — better scripts, richer production, more languages. It rarely works. The constraint isn’t the content. It’s the architecture. A perspective from inside the problem.",
+  "body": [
+    {
+      "type": "p",
+      "text": "When a museum audio guide underperforms — when adoption is lower than expected, when visitors pocket the device after the third artwork, when exit surveys show the guide was ‘fine’ but not much more — the instinct is consistent across institutions. Commission better content."
+    },
+    {
+      "type": "p",
+      "text": "More compelling scripts. Higher production values. A broader range of artworks covered. Additional language tracks. Maybe a celebrity narrator. The underlying logic is reasonable: if the content were more engaging, visitors would engage more. The problem is that it rarely works — not because the content isn’t better, but because content quality was never the limiting factor."
+    },
+    {
+      "type": "h2",
+      "text": "The Industry’s Default Response"
+    },
+    {
+      "type": "p",
+      "text": "The museum audio guide sector has spent decades improving in one direction: making the broadcast richer. Early guides were basic narration — a curator reading a script into a microphone. Over time, production quality improved significantly. Scripts became more literary. Narration became more expressive. Sound design entered the picture. Some guides incorporated ambient sound, reconstructed historical audio, dramatised dialogue."
+    },
+    {
+      "type": "p",
+      "text": "The result is a category of genuinely impressive content. Some museum audio guides are, by any reasonable measure, excellent — well-researched, beautifully produced, and carefully calibrated for a general audience. And visitor engagement, measured by adoption rates and depth of use, has not moved proportionally. In many institutions, it has barely moved at all."
+    },
+    {
+      "type": "p",
+      "text": "This is not a failure of production. It is a signal that the industry has been optimising the wrong variable."
+    },
+    {
+      "type": "h2",
+      "text": "What Broadcast Does Well — and What It Cannot"
+    },
+    {
+      "type": "p",
+      "text": "To understand the constraint, it helps to be precise about what the broadcast model is actually good at. It is very good at delivering a consistent, authoritative account of a selected set of artworks to a large number of visitors simultaneously. It is reliable, scalable, and controllable. Once produced, the content reaches every visitor identically — which is both its strength and the source of its ceiling."
+    },
+    {
+      "type": "p",
+      "text": "The ceiling appears the moment a visitor wants something other than what was prepared. This happens constantly. A visitor notices a detail the script doesn’t mention. Another has seen the artist’s work before and wants a different conversation than the introductory account the guide offers. A third has a question — a real, specific question about the thing they are looking at — and the guide cannot answer it. It plays to completion and falls silent."
+    },
+    {
+      "type": "p",
+      "text": "No improvement to the content will fix this. A better script still ends when the track ends. A richer narration still cannot respond to an unscripted question. More languages still deliver the same one-way experience in more directions. The broadcast architecture has a hard limit, and that limit is not a content problem — it is a structural one."
+    },
+    {
+      "type": "h2",
+      "text": "Why the Wrong Solution Persists"
+    },
+    {
+      "type": "p",
+      "text": "If improving content doesn’t move the needle, why does the sector keep reaching for it? Partly because it is the natural response when you believe you have a content problem. If visitors aren’t engaging, the obvious inference is that the content isn’t good enough. The alternative — that the content could be excellent and the problem still persist — is harder to accept when you’ve invested significantly in the content you have."
+    },
+    {
+      "type": "p",
+      "text": "There is also path dependency at play. Institutions with existing audio guide infrastructure — recording processes, vendor relationships, curatorial workflows built around content production — have strong incentives to continue in the same direction. The decision to change architecture is not just a technology decision. It disrupts established processes, requires new vendor relationships, and demands a different kind of curatorial investment. These are real friction costs, and they are part of why the sector has moved slowly toward a structural rethink."
+    },
+    {
+      "type": "p",
+      "text": "And frankly, the broadcast model’s limitations are easy to misread. When a visitor puts the guide in their bag after three stops, the instinct is to wonder whether the first three stops were engaging enough. The correct inference — that the visitor had a question the guide couldn’t answer and decided a one-way device wasn’t worth carrying for the rest of the afternoon — requires a different theory of the problem."
+    },
+    {
+      "type": "h2",
+      "text": "The Constraint Is the Conversation"
+    },
+    {
+      "type": "p",
+      "text": "Visitor engagement deepens when a visitor feels responded to. This is not a novel insight — it is why the best museum experiences almost universally involve a person: a docent who reads the room, follows the visitor’s energy, answers the question behind the question. Human guides produce higher satisfaction scores not because they know more than audio guides, but because they listen."
+    },
+    {
+      "type": "p",
+      "text": "The audio guide sector has known this for decades and has largely treated it as an insurmountable constraint. The guide is a device. Devices play content. They do not listen. The gap between what a device can do and what a human can do was accepted as a category difference rather than a solvable problem."
+    },
+    {
+      "type": "p",
+      "text": "That assumption no longer holds. The constraint that defined the category — that a guide can broadcast but not respond — is a technological constraint that has been removed. What replaces it is not a better broadcast. It is a different architecture: a guide that processes what the visitor says, consults the museum’s own collection knowledge, and responds in the visitor’s language, in real time, with an answer to the question that was actually asked."
+    },
+    {
+      "type": "h2",
+      "text": "What Changes When the Architecture Changes"
+    },
+    {
+      "type": "p",
+      "text": "When a visitor can converse with the guide — when the device in their hand responds rather than plays — the dynamics of the visit change in ways that content quality alone never achieved."
+    },
+    {
+      "type": "p",
+      "text": "Visitors stop managing the guide and start using it. The mental overhead of deciding whether to press the number, whether the track will be relevant, whether it is worth pausing here or moving on — dissolves. The guide is responsive to what the visitor is experiencing in this moment, not to what the museum anticipated they might want to know in advance."
+    },
+    {
+      "type": "p",
+      "text": "Dwell time increases not because the content is longer, but because curiosity now has somewhere to go. A question leads to an answer, which opens another question, which takes the visitor somewhere they hadn’t planned to look. This is not a designed experience — it is an emergent one, produced by the conversation itself."
+    },
+    {
+      "type": "p",
+      "text": "And the data that comes back to the museum is categorically different. Not which tracks were played — but which questions were asked. Which artworks generated the deepest curiosity. Which parts of the collection surprised visitors most. What visitors brought with them in terms of prior knowledge, and what they left with. This is not visitor data. It is a new kind of curatorial intelligence."
+    },
+    {
+      "type": "callout",
+      "text": "The question museums have been asking — ‘how do we make better audio guide content?’ — is not the wrong question because content doesn’t matter. It’s the wrong question because it assumes the guide’s job is to deliver content. The guide’s actual job is to sustain curiosity."
+    },
+    {
+      "type": "h2",
+      "text": "What This Means in Practice"
+    },
+    {
+      "type": "p",
+      "text": "Reframing the problem changes what a museum should evaluate in a guide system. The question is not which system has the best-produced content. It is which system architecture is capable of sustaining visitor curiosity past the first unanticipated question."
+    },
+    {
+      "type": "p",
+      "text": "It changes what a pilot should measure. Adoption rates and track play counts tell you whether visitors are using the guide in the first few minutes. They tell you very little about what happens when a visitor has a question that departs from the script. Engagement depth — how much time visitors spend with individual artworks, how many exchanges they have, what they say about the experience when asked to describe it — is the metric that reveals whether the architecture is working."
+    },
+    {
+      "type": "p",
+      "text": "It also changes what the curatorial investment should produce. For a broadcast system, the curatorial task is content production: scripting, approving, recording. For a conversational system, the curatorial task is knowledge curation: structuring the institution’s collection knowledge in a form that can respond accurately to the questions visitors actually ask. The investment is real in both cases. The outputs are fundamentally different."
+    },
+    {
+      "type": "h2",
+      "text": "A Different Theory of the Problem"
+    },
+    {
+      "type": "p",
+      "text": "The museums achieving meaningfully different visitor engagement outcomes are not the ones that produced the best audio guide content. They are the ones that stopped treating visitor engagement as a content problem and started treating it as an architecture problem."
+    },
+    {
+      "type": "p",
+      "text": "Once you accept that the constraint is conversational rather than editorial — that visitors disengage not because the content is poor but because they reached the edge of what the format could respond to — the path forward becomes clearer. Not a better script. A guide that listens."
+    },
+    {
+      "type": "p",
+      "text": "That is not a incremental improvement on what came before. It is a different answer to a question the sector has been asking for sixty years."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d is built on this principle: a conversational guide on a dedicated ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": ", trained on your collection, responding to your visitors — in their language, at their depth, to the question they actually asked."
+    },
+    {
+      "type": "cta_inline",
+      "text": "If you’re rethinking how your institution approaches visitor engagement, start with a 30-minute conversation about what a different architecture looks like in practice.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

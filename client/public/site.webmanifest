@@ -1,0 +1,26 @@
+{
+  "name": "Tree'd - AI Museum Audio Guides",
+  "short_name": "Tree'd",
+  "description": "AI-powered, screen-free museum audio guide system with multilingual support and real-time analytics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#c8df52",
+  "icons": [
+    {
+      "src": "/favicon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

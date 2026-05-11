@@ -1,0 +1,198 @@
+{
+  "title": "How Much Does a Museum Audio Guide Cost?",
+  "excerpt": "There is no fixed number — and understanding why is more useful than any price list. A comprehensive look at the cost drivers that actually determine what a museum audio guide system will cost your institution.",
+  "body": [
+    {
+      "type": "p",
+      "text": "The most honest answer to this question is: it depends. Not as an evasion, but as the only accurate starting point. Museum audio guide costs vary so dramatically across formats, collection sizes, visitor volumes, and deployment models that a headline figure — any headline figure — would be misleading before you’ve identified which variables apply to your institution."
+    },
+    {
+      "type": "p",
+      "text": "What is more useful than a price is an understanding of the cost drivers — the factors that push the total up or down, that are often buried in vendor proposals, and that catch institutions off guard when they appear as line items two years into a contract."
+    },
+    {
+      "type": "callout",
+      "text": "There is no formula that tells you what a museum audio guide will cost. There is a set of questions that, when answered honestly, give you a realistic total. This article covers those questions."
+    },
+    {
+      "type": "h2",
+      "text": "Format Is the Biggest Variable"
+    },
+    {
+      "type": "p",
+      "text": "Before any other cost driver, the format choice shapes the entire cost structure. A QR-code-based guide, a traditional wand guide, a mobile app, and a conversational AI Handset do not just have different price points — they have fundamentally different cost architectures. The upfront investment, the ongoing cost, and the way costs scale with visitor volume are all different."
+    },
+    {
+      "type": "p",
+      "text": "Traditional wand guides carry most of their cost in hardware and content production, with ongoing costs in maintenance and logistics. Mobile apps front-load cost into development and shift ongoing cost to software maintenance and hosting. QR code systems are low-cost at entry but limit what the experience can deliver. Conversational AI guides carry higher upfront investment in knowledge-base preparation and hardware, with lower ongoing operational overhead once deployed."
+    },
+    {
+      "type": "p",
+      "text": "Choosing a format without understanding these structural differences is one of the most common sources of budget surprise in audio guide procurement. The system that looks cheapest on paper often becomes the most expensive to operate over time."
+    },
+    {
+      "type": "h2",
+      "text": "Hardware: Units, Quality, and Customisation"
+    },
+    {
+      "type": "p",
+      "text": "For any format that uses dedicated devices — traditional wand guides or AI Handsets — hardware is a major cost category. The total depends on three things: how many units you need, the quality of the hardware, and the degree of customisation."
+    },
+    {
+      "type": "p",
+      "text": "Unit count is driven by peak concurrent visitor numbers, not average attendance. An institution that receives 500 visitors on a Saturday afternoon needs enough devices for the portion of those visitors who will use the guide simultaneously — which, for a well-promoted system, can be a substantial share. Under-ordering to reduce upfront cost is a common mistake that creates queues at busy periods and damages the visitor experience precisely when it matters most."
+    },
+    {
+      "type": "p",
+      "text": "Hardware quality affects both the visitor experience and the replacement cycle. Consumer-grade devices used as guides tend to have shorter operational lifespans under museum conditions — daily handling, temperature variation, inevitable drops. Purpose-built institutional hardware costs more upfront and lasts significantly longer, changing the total cost of ownership calculation meaningfully."
+    },
+    {
+      "type": "p",
+      "text": "Customisation — a handset designed to complement the institution’s aesthetic rather than arrive in a generic form — adds to initial cost but contributes to how the guide is perceived as part of the museum experience. This is a cost that directors often cut in early budgets and later wish they hadn’t."
+    },
+    {
+      "type": "h2",
+      "text": "Content Creation: Scripting, Recording, and Translation"
+    },
+    {
+      "type": "p",
+      "text": "For traditional audio guides, content creation is often the largest cost after hardware — and the one most frequently underestimated. Scripting requires curatorial expertise and editorial skill. Professional narration requires studio time and voice talent. Quality-checking requires review cycles. And once recorded, that content is fixed until the next production cycle."
+    },
+    {
+      "type": "p",
+      "text": "Language coverage multiplies this cost directly. A guide offered in six languages requires six separate production runs — each with its own translation, narration, and quality-checking process. Institutions with significant international visitor bases often find that delivering genuine multilingual quality across all languages is either very expensive or practically impossible within available budgets, leading to a common outcome where two or three languages are done well and the rest are done adequately."
+    },
+    {
+      "type": "p",
+      "text": "For conversational AI guides, content creation takes a different form. Rather than producing audio tracks, the investment goes into building and structuring the knowledge base — curating collection documentation, provenance records, curatorial notes, and contextual materials into a form the system can draw from accurately. This requires meaningful time from curatorial staff and, in most deployments, specialist support. It is a different kind of cost, but not a smaller one."
+    },
+    {
+      "type": "h2",
+      "text": "Software, Licensing, and Hosting"
+    },
+    {
+      "type": "p",
+      "text": "The software layer of an audio guide system — the platform that manages content, delivers it to devices, and collects data — is billed in different ways depending on the vendor and the system architecture. Understanding which model applies is essential before comparing proposals."
+    },
+    {
+      "type": "p",
+      "text": "Perpetual licences require a large upfront payment for the right to use the software indefinitely, with ongoing fees for support and updates. Annual SaaS licences spread cost over time but create ongoing commitments that compound over a multi-year deployment. Per-device models price based on the number of active units. Per-visit models charge based on actual usage — attractive in theory for institutions with variable attendance, but potentially expensive at peak periods."
+    },
+    {
+      "type": "p",
+      "text": "For AI-based systems, the processing model adds a further variable. Systems that process visitor conversations in the cloud carry connectivity requirements and ongoing compute costs. Systems deployed locally — where all processing happens on hardware inside the museum — require more significant upfront infrastructure investment but remove per-conversation cloud costs and eliminate visitor data leaving the premises."
+    },
+    {
+      "type": "h2",
+      "text": "Setup, Deployment, and Installation"
+    },
+    {
+      "type": "p",
+      "text": "The cost of getting a system operational on site is frequently presented as a single line item — ‘setup fee’ — that obscures what it actually covers. A rigorous setup process involves on-site survey, network assessment (for connected systems), hardware installation, content loading, system testing, and staff orientation. Done properly, it takes time and expertise."
+    },
+    {
+      "type": "p",
+      "text": "For AI audio guide systems, deployment also includes knowledge-base integration — loading and testing the collection data, validating the accuracy of responses across a representative range of visitor questions, and establishing the guardrails that define what the guide will and won’t say. This is not a one-day process, and proposals that treat it as one are worth scrutinising."
+    },
+    {
+      "type": "p",
+      "text": "Institutions in listed buildings, architecturally sensitive spaces, or those with complex floor plans face additional complexity. Charging infrastructure for handsets, storage solutions, and cabling all carry costs that vary by building rather than by system."
+    },
+    {
+      "type": "h2",
+      "text": "Ongoing Operations: The Costs That Accumulate"
+    },
+    {
+      "type": "p",
+      "text": "Operational costs are where traditional audio guide systems often become more expensive than they first appeared, and where system comparisons most frequently mislead."
+    },
+    {
+      "type": "p",
+      "text": "For hardware-based systems, ongoing operations include daily charging and distribution, device cleaning between uses, routine maintenance, repair or replacement of damaged units, and periodic full hardware refresh as devices age out of operational life. These costs are real, recurring, and directly proportional to visitor volume. In institutions that distribute guides to a meaningful share of their visitors, the staff time alone — managing handout, collection, and charging — can represent a significant annual cost that rarely appears in vendor proposals."
+    },
+    {
+      "type": "p",
+      "text": "Mobile app systems shift this operational burden significantly — there is no hardware fleet to manage — but introduce ongoing development costs as operating systems, device capabilities, and visitor expectations evolve. An app that is not actively maintained degrades in experience quality over time."
+    },
+    {
+      "type": "p",
+      "text": "QR code systems carry the lowest operational overhead but also the lowest ceiling on what the visitor experience can deliver. The cost of simplicity is often measured in engagement, not in budget."
+    },
+    {
+      "type": "h2",
+      "text": "Updating Content Over Time"
+    },
+    {
+      "type": "p",
+      "text": "Collections change. Exhibitions rotate. New acquisitions arrive. Conservation discoveries revise the accepted narrative around a work. How a guide system handles these changes — and what it costs when they happen — is a cost driver that most procurement processes underweight."
+    },
+    {
+      "type": "p",
+      "text": "For traditional audio guides, updating content means returning to the recording studio. New scripts, new narration, new translations, new quality-checking. Depending on the volume of changes, this can approach or exceed the original production cost. Institutions often respond by updating less frequently than they should, leaving visitors with content that no longer accurately reflects the collection."
+    },
+    {
+      "type": "p",
+      "text": "For conversational AI systems, content updates involve revising the knowledge base rather than re-recording audio. Changes can be made more granularly — a single artwork’s information can be updated without affecting anything else. The cost of keeping the guide current is structurally lower, though it still requires curatorial time and systematic review."
+    },
+    {
+      "type": "h2",
+      "text": "Visitor Volume and How Costs Scale"
+    },
+    {
+      "type": "p",
+      "text": "One of the least-discussed cost drivers is the relationship between visitor volume and total system cost. Some pricing models are largely fixed — the institution pays the same whether 10,000 or 100,000 visitors use the guide in a year. Others scale directly with usage, which can be advantageous at low volumes and expensive at high ones."
+    },
+    {
+      "type": "p",
+      "text": "For hardware-based systems, visitor volume affects operational cost directly — more users means more wear, more cleaning, more staff time. For software-based systems on cloud infrastructure, visitor volume can drive compute costs upward in ways that are not always clearly disclosed upfront."
+    },
+    {
+      "type": "p",
+      "text": "Understanding the scaling model of any system you are evaluating is essential before signing a contract. An institution expecting significant attendance growth needs to know whether their guide costs will grow proportionally — or whether they’re committing to a model that becomes expensive precisely as the institution succeeds."
+    },
+    {
+      "type": "h2",
+      "text": "The Hidden Costs Most Directors Miss"
+    },
+    {
+      "type": "p",
+      "text": "Beyond the headline cost drivers, several costs appear consistently in audio guide deployments and consistently go unaddressed in initial proposals."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Staff training and retraining. Every time new staff join or a system is updated, orientation takes time. For systems with significant operational complexity, this is not trivial — particularly in institutions with high staff turnover.",
+        "Visitor adoption support. A guide that visitors don’t use delivers no value regardless of its cost. Staff time spent encouraging adoption at the entrance, troubleshooting visitor questions, and managing the handout experience is a real operational cost that rarely appears in a system proposal.",
+        "Data management. Systems that collect visitor data create obligations around storage, security, and compliance. For institutions in jurisdictions with strong data protection requirements, this is not a minor consideration. Locally deployed systems that keep visitor data on-premises eliminate this cost category entirely.",
+        "End-of-contract transition. Hardware that belongs to a vendor must be returned. Content created within a proprietary platform may not be portable. Data collected under a vendor’s system may or may not be available on exit. These transition costs are most painful when they are least expected.",
+        "Visitor-facing collateral. Signage directing visitors to the guide, printed reference cards, entrance desk materials — these are small individual costs that accumulate and require updating when the system changes."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Total Cost of Ownership: The Only Honest Comparison"
+    },
+    {
+      "type": "p",
+      "text": "The only meaningful way to compare audio guide systems is over a realistic operational horizon — typically three to five years — with all costs included. A system with a lower upfront cost but higher ongoing operational burden will often cost significantly more over that period than a system with a higher initial investment and lower running costs."
+    },
+    {
+      "type": "p",
+      "text": "When building a total cost of ownership comparison, the categories to include are: hardware (initial purchase plus replacement cycle), content (creation plus updates across all languages), software and licensing (across the full contract term), setup and deployment, annual operational costs (staff time, maintenance, cleaning), and anticipated update and refresh costs."
+    },
+    {
+      "type": "p",
+      "text": "Any vendor that cannot or will not provide a clear breakdown across all these categories over a multi-year horizon is not giving you enough information to make a sound procurement decision. The institutions that end up with the wrong system are almost always the ones that compared upfront costs rather than total costs."
+    },
+    {
+      "type": "callout",
+      "text": "The most expensive audio guide is the one that doesn’t get used. Procurement decisions that optimise for the lowest line-item cost often produce the highest true cost — measured in visitor engagement foregone."
+    },
+    {
+      "type": "cta_inline",
+      "text": "If you’re building a business case or comparing systems, a 30-minute conversation can help you ask the right questions of every vendor on your list.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

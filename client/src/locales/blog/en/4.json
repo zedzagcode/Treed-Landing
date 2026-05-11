@@ -1,0 +1,383 @@
+{
+  "title": "AI Audio Guide vs Traditional Audio Guide: What's Actually Different",
+  "excerpt": "The handset looks similar. The experience is nothing alike. A direct, honest comparison of what AI guides do differently — and where traditional guides still hold their ground.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Walk into almost any major museum today and you'll find an audio guide at the entrance. A device, a pair of earphones, a number to punch in when you reach each artwork. It's a format that has barely changed in 40 years."
+    },
+    {
+      "type": "p",
+      "text": "Now a different kind of guide is appearing in galleries — one that doesn't wait for a number to be pressed, that doesn't play the same track to every visitor, and that doesn't go quiet when a visitor has a question."
+    },
+    {
+      "type": "p",
+      "text": "If you've heard the term AI audio guide and wondered what it actually means — beyond the marketing — this is an honest breakdown, including the trade-offs."
+    },
+    {
+      "type": "callout",
+      "text": "In short: A traditional audio guide delivers pre-recorded content. An AI audio guide responds to spoken questions in real time. The difference isn't cosmetic — it changes what visitors experience, what they remember, and how long they stay. But it also comes with different operational requirements, and museums should understand both sides before deciding."
+    },
+    {
+      "type": "h2",
+      "text": "What a Traditional Museum Audio Guide Actually Does"
+    },
+    {
+      "type": "p",
+      "text": "It's worth being precise about what traditional audio guides do well, because they've been underrated and over-criticised in equal measure."
+    },
+    {
+      "type": "p",
+      "text": "A traditional audio guide delivers curated, expert-written commentary on selected artworks. It's consistent — every visitor who presses number 14 hears the same two minutes of carefully considered content. It's controlled — the museum decides exactly what is said, how it's framed, and in which languages it's available. And it scales well: once recorded, the same content serves thousands of visitors at minimal ongoing cost."
+    },
+    {
+      "type": "p",
+      "text": "For visitors who want authoritative narration, who arrive without specific questions, or who prefer listening to conversing, it does its job."
+    },
+    {
+      "type": "p",
+      "text": "The limitations appear when you watch how visitors actually behave."
+    },
+    {
+      "type": "p",
+      "text": "Most don't press the number for every artwork. Many skip the guide entirely after the first few stops. And almost all of them, at some point, have a question the guide can't answer. They look at the plaque, they look at each other, and they move on."
+    },
+    {
+      "type": "p",
+      "text": "That's not a content problem. It's a format problem."
+    },
+    {
+      "type": "h2",
+      "text": "What an AI Audio Guide Actually Does"
+    },
+    {
+      "type": "p",
+      "text": "An AI museum audio guide responds to what each visitor wants to know — in the moment, in their language, in as much or as little depth as they want."
+    },
+    {
+      "type": "p",
+      "text": "Instead of pressing a number, a visitor speaks. They ask why the painting looks unfinished. They ask who the woman in the portrait is. They ask whether the technique visible in this piece appears elsewhere in the collection. The guide answers. The visitor follows up. The guide follows that thread."
+    },
+    {
+      "type": "p",
+      "text": "The AI is trained primarily on the museum's own collection — the artworks, their provenance, their historical context, the curatorial decisions behind their display. It is designed to hold natural conversation, though like any knowledge system, its depth depends on the quality and completeness of the data it's been trained on. Curators review and shape its scope. It doesn't claim to know what it hasn't been taught."
+    },
+    {
+      "type": "p",
+      "text": "It operates in 12 or more languages — not by switching between recorded tracks, but by holding the full conversation in whatever language the visitor speaks."
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side: AI Audio Guide vs Traditional Audio Guide"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Traditional Audio Guide",
+        "AI Audio Guide"
+      ],
+      "rows": [
+        [
+          "How it works",
+          "Pre-recorded tracks, triggered by number codes",
+          "Responds to spoken questions in real time"
+        ],
+        [
+          "Visitor input",
+          "Button press",
+          "Natural conversation"
+        ],
+        [
+          "Content scope",
+          "Fixed to what was recorded",
+          "Broader range of questions, bounded by training data"
+        ],
+        [
+          "Follow-up questions",
+          "Not possible",
+          "Supported throughout the visit"
+        ],
+        [
+          "Language support",
+          "Separate recorded versions per language",
+          "Full conversation in 12+ languages"
+        ],
+        [
+          "Personalisation",
+          "None — same content for every visitor",
+          "Adapts to each visitor's curiosity"
+        ],
+        [
+          "Engagement style",
+          "Passive listening",
+          "Active dialogue"
+        ],
+        [
+          "App or screen required",
+          "Sometimes",
+          "Not in the best implementations"
+        ],
+        [
+          "Visitor dwell time",
+          "Limited by fixed content",
+          "Measurably higher in live deployments"
+        ],
+        [
+          "Data for museums",
+          "Track play counts",
+          "Questions asked, engagement patterns"
+        ],
+        [
+          "Setup complexity",
+          "Low — once recorded, minimal maintenance",
+          "Higher — requires data preparation and ongoing review"
+        ],
+        [
+          "Content control",
+          "Total — curators approve every word",
+          "Curated through training and guardrails, reviewed by museum team"
+        ],
+        [
+          "Upfront investment",
+          "Lower",
+          "Higher, offset by richer visitor data and engagement"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Five Differences That Actually Matter"
+    },
+    {
+      "type": "h3",
+      "text": "1. Fixed content vs. responsive answers"
+    },
+    {
+      "type": "p",
+      "text": "A traditional guide's content is set at the point of recording. Whatever wasn't included cannot be addressed — and visitors who arrive with prior knowledge often leave disappointed. An AI audio guide can address a far broader range of questions, responding in the moment to what a visitor actually wants to know. The depth of those answers depends on what it's been trained on, which is why the quality of the underlying collection data matters as much as the technology itself."
+    },
+    {
+      "type": "h3",
+      "text": "2. One track for everyone vs. different conversations"
+    },
+    {
+      "type": "p",
+      "text": "A traditional guide serves every visitor identically. A school group, a specialist researcher, and a first-time visitor all press the same number and hear the same two-minute track."
+    },
+    {
+      "type": "p",
+      "text": "An AI audio guide adapts without requiring the visitor to configure anything. The depth, the vocabulary, the direction of the conversation — all of it follows the visitor, not a pre-written script."
+    },
+    {
+      "type": "h3",
+      "text": "3. Language tracks vs. multilingual conversation"
+    },
+    {
+      "type": "p",
+      "text": "Most traditional audio guides offer content in several languages — but as separate recordings, made in advance, with nuance often lost in translation. Adding a new language means recording again."
+    },
+    {
+      "type": "p",
+      "text": "An AI museum audio guide holds the conversation in the visitor's language. Ask in Arabic, receive an answer in Arabic. Ask in Japanese, the same. This isn't a parallel track system — it's a single, multilingual experience that treats every visitor's language as a first-class choice."
+    },
+    {
+      "type": "h3",
+      "text": "4. What happens when a visitor has a question"
+    },
+    {
+      "type": "p",
+      "text": "In a traditional guide, there's no mechanism for questions. A visitor who wants to know more has two options: find a member of staff, or move on. Most move on."
+    },
+    {
+      "type": "p",
+      "text": "In an AI audio guide, a question is the whole point. Visitors converse with the guide the way they'd speak to a knowledgeable companion — without pressure, without judgment, at their own pace. That dynamic is what early deployments consistently show leads to longer, more engaged visits."
+    },
+    {
+      "type": "h3",
+      "text": "5. What museums learn"
+    },
+    {
+      "type": "p",
+      "text": "A traditional audio guide tells you how many times each track was played. Useful, but limited — it tells you where visitors stopped, not what they wanted."
+    },
+    {
+      "type": "p",
+      "text": "An AI audio guide reveals what visitors actually asked: which questions came up most, which artworks generated the deepest engagement, where the collection's explanatory gaps might be. That's institutional intelligence that can directly inform curatorial and programming decisions."
+    },
+    {
+      "type": "h2",
+      "text": "The Trust Question: What Museums Need to Know About Accuracy"
+    },
+    {
+      "type": "p",
+      "text": "This is the question most AI audio guide providers don't answer clearly enough, so we'll say it plainly."
+    },
+    {
+      "type": "p",
+      "text": "Any AI system can get things wrong. Coverage gaps exist — particularly around lesser-documented works, contested historical interpretations, or poorly digitised archive material. A guide that was trained on incomplete data will reflect those gaps."
+    },
+    {
+      "type": "p",
+      "text": "What separates a responsible AI audio guide from an uncontrolled one is oversight. In a well-implemented system:"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "The guide is trained on verified, curatorially approved source material.",
+        "Its scope is bounded — it doesn't speculate beyond what it's been taught.",
+        "Curatorial teams can review, correct, and update the knowledge it draws from.",
+        "When a question falls outside its knowledge, it says so honestly, rather than generating a plausible-sounding answer."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For museums with interpretive responsibility — especially those handling archaeological collections, contested histories, or culturally sensitive material — this is not a peripheral concern. It's a central one. The right question to ask any provider isn't 'what can your guide say?' but 'what controls does your museum have over what it says?'"
+    },
+    {
+      "type": "h2",
+      "text": "What AI Audio Guides Are Not"
+    },
+    {
+      "type": "p",
+      "text": "The term 'AI' carries a lot of noise. Worth clearing up a few common assumptions."
+    },
+    {
+      "type": "h3",
+      "text": "Not a general chatbot"
+    },
+    {
+      "type": "p",
+      "text": "The difference is specificity and constraint. A general-purpose AI tool draws on broad training data and can generate responses on almost anything. An AI audio guide is trained on a defined knowledge base — the museum's collection — and constrained to that scope. The mechanism is fundamentally different from asking a general AI a museum question."
+    },
+    {
+      "type": "h3",
+      "text": "Not a screen-based experience"
+    },
+    {
+      "type": "p",
+      "text": "The best implementations use a purpose-built handset — no app, no download, no smartphone required. Visitors pick it up, converse naturally, and keep their eyes on the art. The technology is invisible."
+    },
+    {
+      "type": "h3",
+      "text": "Not a replacement for human guides"
+    },
+    {
+      "type": "p",
+      "text": "An AI audio guide extends availability — it's present at every artwork, in every language, at all opening hours, including the works that no tour route ever reaches. It doesn't replace the expertise of human guides; it makes a version of that expertise accessible when and where human guides can't be."
+    },
+    {
+      "type": "h3",
+      "text": "Not experimental"
+    },
+    {
+      "type": "p",
+      "text": "AI museum audio guides are deployed in working cultural institutions today — live, visitor-tested, and generating measurable engagement data."
+    },
+    {
+      "type": "h2",
+      "text": "Operational Realities: What the Transition Involves"
+    },
+    {
+      "type": "p",
+      "text": "A fair comparison has to include the operational picture, not just the visitor experience."
+    },
+    {
+      "type": "p",
+      "text": "Traditional audio guides have low ongoing overhead once produced. Content updates require re-recording, which adds cost, but day-to-day operation is straightforward."
+    },
+    {
+      "type": "p",
+      "text": "AI audio guides require more upfront investment — in data preparation, knowledge base construction, and the initial setup of training and guardrails. They also require a review process to ensure the guide's responses remain accurate as the collection evolves. That's real work, and museums should budget for it."
+    },
+    {
+      "type": "p",
+      "text": "In return, the operational model shifts: rather than periodically re-recording content, museums maintain and expand a living knowledge base. The marginal cost of adding a new artwork's content — or a new language — is lower over time. And the visitor data the guide generates has genuine value for programming, accessibility planning, and donor reporting."
+    },
+    {
+      "type": "h2",
+      "text": "Which Is Right for Your Museum?"
+    },
+    {
+      "type": "p",
+      "text": "This isn't a question of old versus new. Both formats have a logic."
+    },
+    {
+      "type": "p",
+      "text": "A traditional audio guide makes sense if your priority is authoritative, narration-led content delivered at low operational cost, and if personalisation, multilingual conversation, and visitor analytics aren't strategic priorities."
+    },
+    {
+      "type": "p",
+      "text": "An AI audio guide makes sense if your museum has a collection that rewards depth, a multilingual visitor base, or an interest in understanding what visitors actually want to know — and if you have the curatorial capacity to maintain the knowledge base it depends on."
+    },
+    {
+      "type": "p",
+      "text": "The more honest framing is this: traditional audio guides were built for an era when broadcasting to visitors was the only viable option. That constraint no longer exists. The question is whether your museum's visitor experience strategy reflects that."
+    },
+    {
+      "type": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "type": "h3",
+      "text": "What is the difference between an AI audio guide and a traditional audio guide?"
+    },
+    {
+      "type": "p",
+      "text": "A traditional audio guide plays pre-recorded tracks when visitors press a number corresponding to an artwork. An AI audio guide allows visitors to ask questions in natural speech and receives real, generated answers — creating a two-way conversation rather than a one-way broadcast. The scope of what it can answer depends on what it's been trained on."
+    },
+    {
+      "type": "h3",
+      "text": "Are AI audio guides accurate?"
+    },
+    {
+      "type": "p",
+      "text": "Accuracy depends on the quality of the training data and the strength of the curatorial oversight behind the system. Well-implemented AI audio guides draw from verified, museum-approved content and are constrained to that knowledge base. They acknowledge when a question falls outside their scope rather than generating speculative answers."
+    },
+    {
+      "type": "h3",
+      "text": "Do AI audio guides require a smartphone or app?"
+    },
+    {
+      "type": "p",
+      "text": "Not in the best implementations. Screen-free AI audio guides use a purpose-built museum handset — no download, no account, no phone. Visitors keep their attention on the art."
+    },
+    {
+      "type": "h3",
+      "text": "Can an AI audio guide support multiple languages?"
+    },
+    {
+      "type": "p",
+      "text": "Yes — and this is one of the most significant advantages over traditional systems. An AI audio guide holds a full conversation in 12 or more languages, responding in the visitor's own language rather than switching between pre-recorded translated tracks."
+    },
+    {
+      "type": "h3",
+      "text": "What does it cost to implement an AI audio guide?"
+    },
+    {
+      "type": "p",
+      "text": "Setup investment is higher than a traditional audio guide, reflecting the data preparation, knowledge base construction, and review workflows involved. The operational cost structure changes over time: adding new content or languages carries lower marginal cost than re-recording. Most providers offer a structured pilot to allow museums to assess the investment against measurable visitor outcomes before any longer-term commitment."
+    },
+    {
+      "type": "h3",
+      "text": "How does an AI audio guide handle sensitive or contested interpretations?"
+    },
+    {
+      "type": "p",
+      "text": "This varies by provider and implementation. In responsible systems, curators define the interpretive boundaries of the guide's knowledge base — what it covers, how it frames contested topics, and what it declines to answer. Museums retain editorial control through the training and review process, not as an afterthought."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree'd is a ",
+      "linkText": "conversational AI audio guide",
+      "href": "/solution",
+      "textAfter": " built for museums — deployed on a custom handset, requiring no app, and conversing with visitors in 12+ languages."
+    },
+    {
+      "type": "cta_inline",
+      "text": "Start with a 90-day pilot to see what a conversational AI guide means for your collection.",
+      "href": "/booking",
+      "label": "Start with a 90-Day Pilot"
+    }
+  ]
+}

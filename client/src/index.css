@@ -1,0 +1,743 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --color-background: hsl(240 10% 3.9%);
+  --color-foreground: hsl(0 0% 98%);
+  
+  --color-card: hsl(240 10% 3.9%);
+  --color-card-foreground: hsl(0 0% 98%);
+  
+  --color-popover: hsl(240 10% 3.9%);
+  --color-popover-foreground: hsl(0 0% 98%);
+  
+  --color-primary: #C8DF52;
+  --color-primary-foreground: #000000;
+  
+  --color-secondary: hsl(240 3.7% 15.9%);
+  --color-secondary-foreground: hsl(0 0% 98%);
+  
+  --color-muted: hsl(240 3.7% 15.9%);
+  --color-muted-foreground: hsl(240 5% 64.9%);
+  
+  --color-accent: hsl(240 3.7% 15.9%);
+  --color-accent-foreground: hsl(0 0% 98%);
+  
+  --color-border: hsl(240 3.7% 15.9%);
+  --color-input: hsl(240 3.7% 15.9%);
+  --color-ring: #C8DF52;
+
+  --font-sans: "Inter", sans-serif;
+  --font-heading: "Space Grotesk", sans-serif;
+  
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  a, button, [role="button"], select, label[for] {
+    cursor: pointer;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased transition-colors duration-500;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading tracking-tight;
+  }
+  ::selection {
+    @apply bg-primary text-black;
+  }
+}
+
+.cursor-follower {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background: #C8DF52;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+  mix-blend-mode: normal;
+  transition: transform 0.2s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.3s ease;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.cursor-dot {
+  position: fixed;
+  width: 6px;
+  height: 6px;
+  background: #C8DF52;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10000;
+  transform: translate(-50%, -50%);
+}
+
+/* ─── LIGHT MODE ───────────────────────────────────────────── */
+.light {
+  --color-background: #f8f8f8;
+  --color-foreground: #09090b;
+  --color-primary: #C8DF52;
+  --color-primary-foreground: #000000;
+  --color-border: #e4e4e7;
+  --color-card: #ffffff;
+  --color-card-foreground: #09090b;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #09090b;
+  --color-secondary: #f0f0f1;
+  --color-secondary-foreground: #18181b;
+  --color-muted: #f0f0f1;
+  --color-muted-foreground: #4B5563;
+}
+
+/* --- Backgrounds --- */
+.light .bg-black              { background-color: #ffffff !important; }
+.light .bg-zinc-950           { background-color: #f8f8f8 !important; }
+.light .bg-zinc-900           { background-color: #f0f0f1 !important; }
+.light .bg-zinc-800           { background-color: #e4e4e7 !important; }
+.light .bg-zinc-700           { background-color: #d4d4d8 !important; }
+.light .bg-zinc-600           { background-color: #a1a1aa !important; }
+.light .bg-zinc-500           { background-color: #71717a !important; }
+.light .bg-zinc-400           { background-color: #52525b !important; }
+
+/* --- Hardcoded hex/opacity backgrounds used in page roots and cards --- */
+.light .bg-white\/5           { background-color: rgba(0, 0, 0, 0.04) !important; }
+.light .bg-white\/10          { background-color: rgba(0, 0, 0, 0.06) !important; }
+.light .bg-white\/\[0\.02\]   { background-color: rgba(0, 0, 0, 0.02) !important; }
+.light .bg-white\/\[0\.05\]   { background-color: rgba(0, 0, 0, 0.04) !important; }
+
+/* --- Text --- */
+.light .text-white            { color: #09090b !important; }
+.light .text-zinc-200         { color: #374151 !important; }
+.light .text-zinc-300         { color: #4B5563 !important; }
+.light .text-zinc-400         { color: #4B5563 !important; }
+.light .text-zinc-500         { color: #4B5563 !important; }
+.light .text-zinc-600         { color: #4B5563 !important; }
+.light .text-zinc-700         { color: #4B5563 !important; }
+
+/* --- Ensure all text content is visible in light mode --- */
+.light {
+  color-scheme: light;
+}
+.light h1, .light h2, .light h3, .light h4, .light h5, .light h6 { color: #09090b !important; }
+.light p, .light li, .light td, .light th { color: #4B5563 !important; }
+.light button, .light [role="button"] { color: inherit; }
+.light .sr-only { color: inherit; }
+
+/* --- Primary text must be dark olive to stay readable on white (#C8DF52 = 1.4:1 contrast = invisible) --- */
+.light .text-primary          { color: #4d6012 !important; }
+
+/* ─── Light mode: interactive-card hover borders ────────────────────────── */
+/* Lime green at partial alpha is too subtle on white. Remap to dark-olive so
+   the border ring is equally visible in both themes. This fixes ALL cards
+   site-wide that use hover:border-primary/* utility classes. */
+.light .hover\:border-primary\/50:hover { border-color: rgba(77, 96, 18, 0.55) !important; }
+.light .hover\:border-primary\/30:hover { border-color: rgba(77, 96, 18, 0.35) !important; }
+.light .group:hover .group-hover\:border-primary\/30 { border-color: rgba(77, 96, 18, 0.35) !important; }
+
+/* ─── bg-primary elements must always read as black text ───────────────── */
+/* `.light button { color: inherit }` has higher specificity than text-black,
+   silently turning Submit button text white. Override it here for any element
+   sitting on the lime-green primary background. */
+.light .bg-primary { color: #000000 !important; }
+
+/* --- hover:text-white becomes invisible in light mode → remap to near-black --- */
+.light .hover\:text-white:hover          { color: #09090b !important; }
+
+/* --- group-hover:text-white variants (named + unnamed) --- */
+.light .group:hover .group-hover\:text-white             { color: #09090b !important; }
+.light .group\/item:hover .group-hover\/item\:text-white { color: #09090b !important; }
+.light .group\/tree:hover .group-hover\/tree\:text-white { color: #09090b !important; }
+.light .group\/dash:hover .group-hover\/dash\:text-white { color: #09090b !important; }
+.light .group\/row:hover .group-hover\/row\:text-white   { color: #09090b !important; }
+
+/* --- Carousel slide text must always be white (overlaid on dark images) — placed AFTER hover overrides to win --- */
+.light .carousel-slide-title { color: #ffffff !important; }
+.light .carousel-slide-desc  { color: #ffffff !important; }
+.light .carousel-slide-link  { color: #C8DF52 !important; }
+.light .carousel-slide-link:hover { color: #ffffff !important; }
+
+/* --- Handset hero: text overlaid on a dark image — always stay white in light mode --- */
+/* Override the page-level color-scheme:light (set above in .light{}) back to dark for
+   this block. color-scheme is the browser-level instruction that controls font rendering —
+   without this, the browser renders all text with light-mode antialiasing (bolder/brighter)
+   even though the element sits on a dark image. Overriding to dark makes rendering
+   identical to how it looks in dark mode. */
+.light .handset-hero-text {
+  color-scheme: dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.light .handset-hero-text h1,
+.light .handset-hero-text h2 { color: #ffffff !important; }
+/* Description: exact dark-mode value for perfect match across themes */
+.light .handset-hero-desc { color: hsl(240 5% 64.9%) !important; }
+/* Label pill: same green as dark mode */
+.light .handset-hero-text .text-primary  { color: #C8DF52 !important; }
+.light .handset-hero-text .border-primary\/30 { border-color: rgba(200,223,82,0.30) !important; }
+/* Gradient title: force dark-mode gradient (green → white) so it matches dark mode exactly */
+.light .handset-hero-text .text-gradient-primary {
+  background-image: linear-gradient(to right, #C8DF52, #ffffff) !important;
+}
+/* Solution hero text colours are fully dynamic (controlled by isLight in JSX) — no overrides needed here */
+
+/* --- Handset hero spacing + navbar cover — responsive via media queries --- */
+/* Mobile-first */
+.handset-hero-section { min-height: 680px; }  /* taller on mobile so CTA isn't crowded */
+.handset-hero-navbg   { height: 84px; }
+.handset-hero-padding {
+  padding-top: 11rem;
+  padding-bottom: 3rem;
+}
+/* Desktop (xl+) */
+@media (min-width: 1280px) {
+  .handset-hero-section { min-height: 560px; }
+  .handset-hero-navbg   { height: 54px; }
+  .handset-hero-padding { padding-top: 2rem; }
+}
+
+/* --- Scrollytelling: remove all visible borders/outlines in light mode ---
+   In dark mode the border-color is near-black and invisible against the dark video.
+   In light mode the global * rule sets it to #e4e4e7 (near-white), creating a
+   visible glow. We wipe border, outline and box-shadow entirely to match dark mode. */
+.light .scrollytelling-wrapper,
+.light .scrollytelling-wrapper * {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* --- Solution hero navbar cover — same dimensions as handset-hero-navbg --- */
+.solution-hero-navbg { height: 84px; background-color: #ffffff !important; }
+@media (min-width: 1280px) {
+  .solution-hero-navbg { height: 54px; }
+}
+
+/* --- Clip-text gradients using pale/white stops are invisible on light backgrounds --- */
+/* from-indigo-200 via-purple-200 to-white → darken all stops */
+.light .from-indigo-200               { --tw-gradient-from: #3730a3 !important; }
+.light .via-purple-200                { --tw-gradient-via: #7e22ce !important; }
+.light .to-white                      { --tw-gradient-to: #18181b !important; }
+/* from-[#C8DF52] (lime on white = 1.4:1 contrast) → dark olive */
+.light .from-\[\#C8DF52\]             { --tw-gradient-from: #4d6012 !important; }
+
+/* --- Borders --- */
+.light .border-white\/5       { border-color: rgba(0,0,0,0.06) !important; }
+.light .border-white\/10      { border-color: rgba(0,0,0,0.09) !important; }
+.light .border-white\/20      { border-color: rgba(0,0,0,0.12) !important; }
+.light .border-white\/30      { border-color: rgba(0,0,0,0.15) !important; }
+.light .border-zinc-700       { border-color: #d4d4d8 !important; }
+.light .border-zinc-800       { border-color: #e4e4e7 !important; }
+
+/* --- Glassmorphism --- */
+.light .glass {
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(20px);
+  border-color: rgba(0, 0, 0, 0.06) !important;
+}
+
+.light .glass-card {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border-color: rgba(0, 0, 0, 0.08) !important;
+  box-shadow: 0 4px 24px -4px rgba(0,0,0,0.08);
+}
+
+/* --- Text Gradients --- */
+.light .text-gradient {
+  background: linear-gradient(to right, #09090b, #52525b) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* --- Solid gradient stops (dark colors used as overlay/fade effects) --- */
+.light .from-black            { --tw-gradient-from: #f8f8f8 !important; }
+.light .via-black             { --tw-gradient-via: #f4f4f5 !important; }
+.light .to-black              { --tw-gradient-to: #f4f4f5 !important; }
+.light .from-zinc-900         { --tw-gradient-from: #f0f0f1 !important; }
+.light .via-zinc-900          { --tw-gradient-via: #f0f0f1 !important; }
+.light .to-zinc-900           { --tw-gradient-to: #f0f0f1 !important; }
+.light .to-zinc-950           { --tw-gradient-to: #f8f8f8 !important; }
+.light .from-zinc-950         { --tw-gradient-from: #f8f8f8 !important; }
+.light .from-zinc-800         { --tw-gradient-from: #e4e4e7 !important; }
+
+/* --- hover:bg-white makes buttons/cards invisible on white background --- */
+.light .hover\:bg-white:hover { background-color: #e8e8ea !important; }
+
+/* --- Ecosystem cards on homepage should keep dark overlays and white text for readability over images --- */
+.light .md\:col-span-2 { background-color: #f8f8f8 !important; }
+.light .md\:col-span-2 h3.text-3xl { color: #ffffff !important; }
+.light .md\:col-span-2 h3.text-2xl { color: #ffffff !important; }
+.light .md\:col-span-2 p.text-zinc-300 { color: #ffffff !important; }
+.light .md\:col-span-2 a.text-primary { color: #C8DF52 !important; }
+
+.light .grid-rows-2 { background-color: #f8f8f8 !important; }
+.light .grid-rows-2 h3.text-2xl { color: #ffffff !important; }
+.light .grid-rows-2 p { color: #ffffff !important; }
+.light .grid-rows-2 a.text-primary { color: #C8DF52 !important; }
+
+.light .md\:col-span-2 .bg-gradient-to-br,
+.light .md\:col-span-2 .bg-gradient-to-t,
+.light .grid-rows-2 .bg-gradient-to-t { 
+  --tw-gradient-from: rgba(0,0,0,0.5) !important;
+  --tw-gradient-to: rgba(0,0,0,0.8) !important;
+}
+
+/* --- Advantages/Finance cards in light mode --- */
+.light .bg-zinc-900\/40 { background-color: #ffffff !important; border-color: rgba(0, 0, 0, 0.08) !important; }
+
+/* Target ALL text elements in light mode within finance cards */
+.light .bg-zinc-900\/40 h3,
+.light .bg-zinc-900\/40 h3.text-white,
+.light .bg-zinc-900\/40 h3.text-xl,
+.light .bg-zinc-900\/40 h3.text-white.text-xl { 
+  color: #09090b !important;
+}
+
+.light .bg-zinc-900\/40 p,
+.light .bg-zinc-900\/40 p.text-white,
+.light .bg-zinc-900\/40 p.text-zinc-500,
+.light .bg-zinc-900\/40 p.text-zinc-300 {
+  color: #09090b !important;
+}
+
+.light .bg-zinc-900\/40 .text-white { color: #09090b !important; }
+.light .bg-zinc-900\/40 .text-zinc-500 { color: #09090b !important; }
+.light .bg-zinc-900\/40 .text-zinc-300 { color: #09090b !important; }
+.light .bg-zinc-900\/40 .text-primary { color: #C8DF52 !important; }
+.light .bg-zinc-900\/40 .bg-white\/5 { background-color: rgba(0, 0, 0, 0.05) !important; }
+
+/* --- Special green card (tech/sustainability) in light mode --- */
+.light .bg-primary\/10 { background-color: rgba(200, 223, 82, 0.1) !important; border-color: rgba(200, 223, 82, 0.3) !important; }
+.light .bg-primary\/20 { background-color: rgba(200, 223, 82, 0.15) !important; border-color: rgba(200, 223, 82, 0.4) !important; }
+.light .bg-primary\/30 { background-color: rgba(200, 223, 82, 0.2) !important; border-color: rgba(200, 223, 82, 0.5) !important; }
+
+.light .bg-primary\/10 h3,
+.light .bg-primary\/10 h3.text-white,
+.light .bg-primary\/10 h3.text-xl,
+.light .bg-primary\/10 h3.text-white.text-xl {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/10 p,
+.light .bg-primary\/10 p.text-white,
+.light .bg-primary\/10 p.text-zinc-300,
+.light .bg-primary\/10 p.text-zinc-500 {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/10 .text-white { color: #09090b !important; }
+.light .bg-primary\/10 .text-zinc-300 { color: #09090b !important; }
+.light .bg-primary\/10 .text-zinc-500 { color: #09090b !important; }
+.light .bg-primary\/10 .text-primary { color: #C8DF52 !important; }
+
+.light .bg-primary\/20 h3,
+.light .bg-primary\/20 h3.text-white,
+.light .bg-primary\/20 h3.text-xl,
+.light .bg-primary\/20 h3.text-white.text-xl {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/20 p,
+.light .bg-primary\/20 p.text-white,
+.light .bg-primary\/20 p.text-zinc-300,
+.light .bg-primary\/20 p.text-zinc-500 {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/20 .text-white { color: #09090b !important; }
+.light .bg-primary\/20 .text-zinc-300 { color: #09090b !important; }
+.light .bg-primary\/20 .text-zinc-500 { color: #09090b !important; }
+.light .bg-primary\/20 .text-primary { color: #C8DF52 !important; }
+
+.light .bg-primary\/30 h3,
+.light .bg-primary\/30 h3.text-white,
+.light .bg-primary\/30 h3.text-xl,
+.light .bg-primary\/30 h3.text-white.text-xl {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/30 p,
+.light .bg-primary\/30 p.text-white,
+.light .bg-primary\/30 p.text-zinc-300,
+.light .bg-primary\/30 p.text-zinc-500 {
+  color: #09090b !important;
+}
+
+.light .bg-primary\/30 .text-white { color: #09090b !important; }
+.light .bg-primary\/30 .text-zinc-300 { color: #09090b !important; }
+.light .bg-primary\/30 .text-zinc-500 { color: #09090b !important; }
+.light .bg-primary\/30 .text-primary { color: #C8DF52 !important; }
+
+.light .text-zinc-500 { color: #6b7280 !important; }
+.light .text-zinc-600 { color: #4b5563 !important; }
+.light .border-white\/5 { border-color: rgba(0, 0, 0, 0.05) !important; }
+
+/* --- Remove dark overlays in light mode (visitor journey section) --- */
+.light .bg-gradient-to-b.from-background { background: none !important; }
+.light .bg-gradient-to-t.from-background { background: none !important; }
+
+/* ─── DARK MODE DESCRIPTIVE TEXT ──────────────────────────────────────────── */
+/* Force descriptive text to use muted-foreground gray in dark mode */
+p { color: hsl(240 5% 64.9%); }
+
+/* Zinc text classes default to muted gray in dark mode */
+.text-zinc-300 { color: hsl(240 5% 64.9%) !important; }
+.text-zinc-400 { color: hsl(240 5% 64.9%) !important; }
+.text-zinc-500 { color: hsl(240 5% 64.9%) !important; }
+.text-zinc-600 { color: hsl(240 5% 64.9%) !important; }
+
+/* --- Hero subtitle text must stay white for visibility (home page) --- */
+.light p.text-lg.text-zinc-400,
+.light p.md\:text-xl.text-zinc-400 { color: #ffffff !important; }
+
+/* --- Solution page comparison cards - ensure proper colors in light mode --- */
+.light [class*="ComparisonCard"] .text-white,
+.light .absolute.inset-0.bg-gradient-to-b.from-zinc-900 { 
+  --tw-gradient-from: #f0f0f1 !important; 
+  --tw-gradient-to: #ffffff !important; 
+  background: linear-gradient(to bottom, #f0f0f1, #ffffff) !important;
+}
+
+/* --- Solution comparison card text must be dark in light mode --- */
+.light .relative.z-10.p-8 .text-white,
+.light .relative.z-10.p-10 .text-white { color: #09090b !important; }
+.light .relative.z-10.p-8 .text-zinc-500,
+.light .relative.z-10.p-10 .text-zinc-500 { color: #4b5563 !important; }
+
+/* --- Revenue page "waived costs" cards - ensure readable text on white backgrounds --- */
+.light .bg-white\/\[0\.02\] { background-color: #ffffff !important; border-color: rgba(0, 0, 0, 0.08) !important; }
+.light .bg-white\/\[0\.02\] .text-white { color: #09090b !important; }
+.light .bg-white\/\[0\.02\] .text-zinc-500 { color: #4b5563 !important; }
+.light .bg-white\/\[0\.02\] .text-zinc-600 { color: #3f3f46 !important; }
+.light .bg-white\/\[0\.02\] .text-primary { color: #C8DF52 !important; }
+
+/* --- Tree page infrastructure section background --- */
+.light .bg-zinc-900\/40 { background-color: #ffffff !important; }
+
+/* --- Careers page hiring process steps - ensure readability in light mode --- */
+.light .bg-gradient-to-b.from-zinc-900 { 
+  --tw-gradient-from: #f0f0f1 !important;
+  --tw-gradient-to: #ffffff !important;
+  background: linear-gradient(to bottom, #f0f0f1, #ffffff) !important;
+}
+
+/* --- Feature highlights section with images - ensure white text visibility --- */
+.light .relative.rounded-3xl img ~ .absolute.inset-0 .text-white { color: #ffffff !important; }
+.light .relative.rounded-3xl .text-white { color: #ffffff !important; }
+.light .relative.rounded-3xl .group-hover\:text-white:hover { color: #ffffff !important; }
+
+/* --- Footer stays dark mode always - override any light mode changes --- */
+footer { --color-background: hsl(240 10% 3.9%) !important; background-color: hsl(240 10% 3.9%) !important; color: hsl(0 0% 98%) !important; }
+footer .text-white { color: #ffffff !important; }
+footer .text-zinc-400 { color: #a1a1aa !important; }
+footer .text-zinc-500 { color: #71717a !important; }
+footer .text-primary { color: #C8DF52 !important; }
+footer .text-primary:hover { color: #C8DF52 !important; }
+footer .group:hover .group-hover\:text-primary { color: #C8DF52 !important; }
+footer svg { color: inherit; }
+
+/* --- Ensure footer social icon hover states work correctly --- */
+footer [class*="social"] .hover\:text-primary:hover { color: #C8DF52 !important; }
+footer [class*="social"] .group:hover .group-hover\:text-primary { color: #C8DF52 !important; }
+
+/* --- Hero section button in revenue page needs better contrast in light mode --- */
+.light .bg-black\/5 { background-color: #e4e4e7 !important; }
+.light .bg-black\/5:hover { background-color: #d4d4d8 !important; }
+
+/* --- HOME PAGE: Ecosystem cards "A screen-free, AI-powered companion" text must be WHITE --- */
+.light .md\:col-span-2 p.text-zinc-300,
+.light .grid-rows-2 p.text-zinc-300 { color: #ffffff !important; }
+
+/* --- TEXT COLOR FIXES for descriptions across pages (p tags with text-zinc-400/500) --- */
+.light p.text-zinc-400 { color: #09090b !important; }
+.light p.text-zinc-500 { color: #09090b !important; }
+
+/* --- Adjust text-zinc-600 for better readability --- */
+.light .text-zinc-600 { color: #4b5563 !important; }
+
+/* --- FEATURE CAROUSEL: Override to keep text WHITE on dark images --- */
+/* Find FeatureHighlights component's specific structure and keep white */
+.light .overflow-hidden.snap-x .text-white { color: #ffffff !important; }
+.light .overflow-hidden.snap-x .text-zinc-300 { color: #ffffff !important; }
+.light .overflow-hidden.snap-x .text-zinc-400 { color: #ffffff !important; }
+
+/* --- Slide content styling for carousel --- */
+.light .snap-center .absolute.inset-0 .text-white { color: #ffffff !important; }
+.light .snap-center .absolute.inset-0 .text-zinc-300 { color: #ffffff !important; }
+
+/* --- CTA buttons in carousel stay white on hover --- */
+.light .snap-center .group-hover\:text-white:hover { color: #ffffff !important; }
+.light .snap-center .hover\:text-white:hover { color: #ffffff !important; }
+
+/* --- Comparison cards gradient backgrounds --- */
+.light .from-zinc-900 { --tw-gradient-from: #f0f0f1 !important; }
+.light .via-zinc-900 { --tw-gradient-via: #f0f0f1 !important; }
+.light .to-zinc-900 { --tw-gradient-to: #ffffff !important; }
+
+/* --- Comparison card text fixes --- */
+.light .bg-gradient-to-b.from-zinc-900 .text-white { color: #09090b !important; }
+.light .bg-gradient-to-b.from-zinc-900 .text-zinc-500 { color: #4b5563 !important; }
+
+/* --- Semi-transparent WHITE backgrounds (cards, inputs, overlays in dark mode) --- */
+/* In dark mode these read as "slightly lighter dark". In light mode they need actual substance. */
+.light .bg-white\/5            { background-color: rgba(0,0,0,0.03) !important; }
+.light .bg-white\/10           { background-color: rgba(0,0,0,0.05) !important; }
+.light .bg-white\/15           { background-color: rgba(0,0,0,0.06) !important; }
+.light .bg-white\/20           { background-color: rgba(0,0,0,0.07) !important; }
+.light .bg-white\/30           { background-color: rgba(0,0,0,0.08) !important; }
+.light .bg-white\/40           { background-color: #f3f3f5 !important; }
+.light .bg-white\/50           { background-color: #eeeeef !important; }
+
+/* Focus states on inputs that use bg-white/10 */
+.light .focus\:bg-white\/10:focus { background-color: #ffffff !important; }
+
+/* --- Semi-transparent DARK backgrounds (section overlays, cards) --- */
+/* These are dark in dark mode. In light mode they'd be ugly murky overlays → make them very subtle light grays */
+.light section[class*="bg-zinc"]       { background-color: #f8f8f8 !important; }
+.light [class*="bg-zinc-900"]          { background-color: rgba(0,0,0,0.04) !important; }
+.light [class*="bg-zinc-950"]          { background-color: rgba(0,0,0,0.03) !important; }
+.light .bg-zinc-900\/20        { background-color: rgba(0,0,0,0.03) !important; }
+.light .bg-zinc-900\/30        { background-color: rgba(0,0,0,0.04) !important; }
+.light .bg-zinc-900\/40        { background-color: rgba(0,0,0,0.04) !important; }
+.light .bg-zinc-900\/50        { background-color: rgba(0,0,0,0.05) !important; }
+.light .bg-zinc-900\/60        { background-color: rgba(0,0,0,0.06) !important; }
+.light .bg-zinc-900\/80        { background-color: rgba(0,0,0,0.08) !important; }
+.light .bg-zinc-900\/90        { background-color: rgba(0,0,0,0.09) !important; }
+.light .bg-zinc-900\/95        { background-color: rgba(0,0,0,0.10) !important; }
+.light .bg-zinc-950\/20        { background-color: rgba(0,0,0,0.03) !important; }
+.light .bg-zinc-950\/30        { background-color: rgba(0,0,0,0.04) !important; }
+.light .bg-zinc-950\/50        { background-color: rgba(0,0,0,0.05) !important; }
+.light .bg-zinc-800\/50        { background-color: rgba(0,0,0,0.05) !important; }
+.light .bg-zinc-800\/80        { background-color: rgba(0,0,0,0.07) !important; }
+.light .bg-zinc-600\/60        { background-color: rgba(0,0,0,0.07) !important; }
+.light .bg-black\/5            { background-color: rgba(0,0,0,0.03) !important; }
+.light .bg-black\/20           { background-color: rgba(0,0,0,0.04) !important; }
+.light .bg-black\/40           { background-color: rgba(0,0,0,0.05) !important; }
+.light .bg-black\/60           { background-color: rgba(0,0,0,0.06) !important; }
+.light .bg-black\/80           { background-color: rgba(0,0,0,0.08) !important; }
+.light .bg-black\/90           { background-color: rgba(0,0,0,0.09) !important; }
+
+/* --- Hardcoded hex backgrounds (dark near-black) --- */
+.light .bg-\[\#050505\]        { background-color: #f8f8f8 !important; }
+.light .bg-\[\#020202\]        { background-color: #f4f4f5 !important; }
+.light .bg-\[\#080808\]        { background-color: #f0f0f1 !important; }
+.light .bg-\[\#000000\]        { background-color: #ffffff !important; }
+
+/* --- Force light backgrounds on all pages in light mode (EXCEPT footer) --- */
+.light > div:not(footer), .light > main, .light section:not(footer) { background-color: #f8f8f8; }
+.light div[class*="min-h-screen"] { background-color: #f8f8f8 !important; }
+
+/* --- Exclude footer from light mode styling (keep dark mode appearance) --- */
+footer { --color-background: hsl(240 10% 3.9%) !important; }
+.light footer { 
+  background-color: hsl(240 10% 3.9%) !important;
+  color: #ffffff;
+}
+.light footer h1, .light footer h2, .light footer h3, .light footer h4, .light footer h5, .light footer h6 { color: #ffffff !important; }
+.light footer p, .light footer a, .light footer span, .light footer li { color: #ffffff !important; }
+.light footer .text-white { color: #ffffff !important; }
+.light footer .text-zinc-400 { color: #a1a1aa !important; }
+.light footer .text-zinc-500 { color: #71717a !important; }
+.light footer .text-zinc-600 { color: #a1a1aa !important; }
+.light footer .bg-background, .light footer .bg-black, .light footer .bg-zinc-950 { background-color: hsl(240 10% 3.9%) !important; }
+.light footer .border-white\/5 { border-color: rgba(255,255,255,0.05) !important; }
+.light footer .bg-white\/5 { background-color: rgba(255,255,255,0.05) !important; }
+.light footer .hover\:text-primary:hover { color: #C8DF52 !important; }
+.light footer .hover\:border-primary\/50:hover { border-color: rgba(200,223,82,0.5) !important; }
+
+/* Force #4B5563 color for description text in light mode */
+.light p.desc-neutral { color: #4B5563 !important; }
+.light span.desc-neutral { color: #4B5563 !important; }
+.light .desc-neutral { color: #4B5563 !important; }
+
+/* Dashboard metrics description text color in light mode */
+.light section:first-of-type p.text-lg { color: #4B5563 !important; }
+
+/* Force #eeeeee color for very light gray text in both light and dark modes */
+p.text-very-light-gray { color: #eeeeee !important; }
+.light p.text-very-light-gray { color: #eeeeee !important; }
+
+/* --- Text with opacity modifiers (text-white/50, etc.) --- */
+.light .text-white\/40         { color: rgba(9,9,11,0.40) !important; }
+.light .text-white\/50         { color: rgba(9,9,11,0.50) !important; }
+.light .text-white\/70         { color: rgba(9,9,11,0.70) !important; }
+.light .text-white\/60         { color: rgba(9,9,11,0.60) !important; }
+.light .text-zinc-300\/90      { color: rgba(63,63,70,0.90) !important; }
+.light .text-white             { color: #09090b !important; }
+
+/* --- Gradient stop opacity classes (section fade overlays) --- */
+.light .from-zinc-900\/50      { --tw-gradient-from: rgba(0,0,0,0.05) !important; }
+.light .from-zinc-900\/90      { --tw-gradient-from: rgba(0,0,0,0.09) !important; }
+.light .from-zinc-900\/95      { --tw-gradient-from: rgba(0,0,0,0.10) !important; }
+.light .from-black\/50         { --tw-gradient-from: rgba(0,0,0,0.05) !important; }
+.light .from-black\/80         { --tw-gradient-from: rgba(0,0,0,0.08) !important; }
+.light .to-zinc-900\/50        { --tw-gradient-to: rgba(0,0,0,0.05) !important; }
+.light .to-zinc-900\/80        { --tw-gradient-to: rgba(0,0,0,0.08) !important; }
+.light .via-white\/5           { --tw-gradient-via: rgba(255,255,255,0.8) !important; }
+
+/* --- Navbar (scrolled "glass" state) --- */
+.light nav.fixed               { color: #09090b; }
+
+/* --- Form inputs and textareas --- */
+/* Target by tag as well as by Tailwind bg-white/5 + border-white/10 combos */
+.light input,
+.light textarea,
+.light select                  {
+  background-color: #ffffff !important;
+  color: #09090b !important;
+  border-color: #d4d4d8 !important;
+}
+.light input::placeholder,
+.light textarea::placeholder   { color: #a1a1aa !important; }
+
+/* --- Dropdown / popover menus --- */
+.light [data-radix-popper-content-wrapper] .bg-zinc-900,
+.light [role="menu"]           { background-color: #ffffff !important; border-color: rgba(0,0,0,0.09) !important; }
+.light [role="menuitem"]       { color: #09090b !important; }
+.light [role="menuitem"]:hover { background-color: #f0f0f1 !important; }
+
+.section-divider {
+  @apply relative py-20 overflow-hidden;
+}
+
+.section-divider::before {
+  content: '';
+  @apply absolute left-1/2 top-0 w-[1px] h-full bg-gradient-to-b from-primary/50 via-primary/20 to-transparent -translate-x-1/2;
+}
+
+.light .section-divider::before {
+  @apply from-primary via-primary/30;
+}
+
+.curved-edge {
+  border-radius: 4rem;
+}
+
+/* Hide custom cursor remnants on mobile (component no longer renders) */
+@media (max-width: 768px) {
+  .cursor-follower, .cursor-dot {
+    display: none !important;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* Glassmorphism */
+  .glass {
+    @apply bg-background/80 backdrop-blur-md border border-white/10;
+  }
+  
+  .glass-card {
+    @apply bg-zinc-900/50 backdrop-blur-sm border border-white/5;
+  }
+
+  /* Text Gradients */
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-white to-zinc-500;
+  }
+  
+  .text-gradient-primary {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[#C8DF52] to-white;
+  }
+
+  .light .text-gradient-primary {
+    @apply from-[#a8bc45] to-zinc-900;
+  }
+
+  /* Custom Masks */
+  .mask-radial-faded {
+    mask-image: radial-gradient(circle at center, black 40%, transparent 80%);
+    -webkit-mask-image: radial-gradient(circle at center, black 40%, transparent 80%);
+  }
+
+  /* Smooth Scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Responsive Container Margins */
+  .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .container {
+      max-width: 640px;
+      padding-right: 2rem;
+      padding-left: 2rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .container {
+      max-width: 768px;
+      padding-right: 2.5rem;
+      padding-left: 2.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .container {
+      max-width: 1024px;
+      padding-right: 3rem;
+      padding-left: 3rem;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .container {
+      max-width: 1280px;
+      padding-right: 4rem;
+      padding-left: 4rem;
+    }
+  }
+
+  @media (min-width: 1536px) {
+    .container {
+      max-width: 1400px;
+      padding-right: 5rem;
+      padding-left: 5rem;
+    }
+  }
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   .uc-dark — Always-dark sections (Use Cases page hero + story)
+   Overrides the light-mode resets for intentionally dark marketing sections.
+   Must appear AFTER the .light overrides above so cascade order wins.
+───────────────────────────────────────────────────────────────────────────── */
+.uc-dark { background-color: #09090b; }
+.light .uc-dark                                         { background-color: #09090b !important; }
+.light .uc-dark h1, .light .uc-dark h2,
+.light .uc-dark h3, .light .uc-dark h4                 { color: #ffffff !important; }
+.light .uc-dark p                                       { color: #a1a1aa !important; }
+.light .uc-dark span                                    { color: inherit !important; }
+/* Utility classes usable inside .uc-dark sections */
+.light .uc-dark .uc-white                              { color: #ffffff !important; }
+.light .uc-dark .uc-muted                              { color: #71717a !important; }
+.light .uc-dark .uc-subtle                             { color: #a1a1aa !important; }
+.light .uc-dark .text-primary                          { color: #C8DF52 !important; }
+/* Zinc border/bg resets */
+.light .uc-dark .border-zinc-800                       { border-color: #27272a !important; }
+.light .uc-dark .border-zinc-700                       { border-color: #3f3f46 !important; }
+.light .uc-dark .text-zinc-400                         { color: #a1a1aa !important; }
+.light .uc-dark .text-zinc-500                         { color: #71717a !important; }
+.light .uc-dark .uc-card-dark                          { background-color: rgba(39,39,42,0.5) !important; border-color: #27272a !important; }
+
+/* ─── FitSection scrollytelling card text — always uses dark-mode colours ───
+   Cards have photo backgrounds with dark overlays so text must always be white.
+   These rules beat the global .light h3 / .light p overrides via specificity. */
+.light .fit-card-content h3 { color: #ffffff !important; }
+.light .fit-card-content p  { color: rgba(255,255,255,0.68) !important; }

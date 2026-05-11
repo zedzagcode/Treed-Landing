@@ -1,0 +1,84 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Raleway",
+      "count": 70
+    },
+    {
+      "family": "Taviraj",
+      "count": 4
+    },
+    {
+      "family": "Poppins",
+      "count": 4
+    },
+    {
+      "family": "sans-serif",
+      "count": 2
+    }
+  ],
+  "colors": {
+    "primary": "#C8DF52",
+    "accent": "#B3CFFF",
+    "background": "#FAFAFA",
+    "textPrimary": "#1C2429",
+    "link": "#B3CFFF"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "sans-serif",
+      "heading": "Taviraj"
+    },
+    "fontStacks": {
+      "body": [
+        "sans-serif"
+      ],
+      "heading": [
+        "Taviraj"
+      ],
+      "paragraph": [
+        "Raleway"
+      ]
+    },
+    "fontSizes": {
+      "h1": "99.8px",
+      "h2": "57.472px",
+      "body": "25.216px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "0px"
+  },
+  "components": {},
+  "images": {
+    "logo": "File saved at: attached_assets/logo.webp",
+    "favicon": "File saved at: attached_assets/favicon.webp",
+    "ogImage": "http://static1.squarespace.com/static/691b0e7ef8c00707a6e7d175/t/692cbc900058d3260d871672/1764539536078/Website+Social+Image.png?format=1500w"
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 1,
+    "reasoning": "Strong indicators: header logo linking to homepage, header location, visible, top-left position, src contains logo, class contains logo, reasonable size. Score: 110 (clear winner by 42 points)",
+    "confidence": 0.9
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}

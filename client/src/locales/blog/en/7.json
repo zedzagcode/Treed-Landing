@@ -1,0 +1,205 @@
+{
+  "title": "NFC Tags vs Number Entry in Museum Audio Guides: What the Activation Choice Actually Means for Visitors",
+  "excerpt": "Number entry and NFC tapping are two ways to trigger the same content — but they produce different visitor experiences. An honest comparison of both activation methods, what each requires to work well, and why the choice matters more than most guide procurement processes acknowledge.",
+  "body": [
+    {
+      "type": "p",
+      "text": "A visitor reaches the second artwork. They lift the handset, scan the label for the number, find it — 47 — punch it in, miskey once, correct it, and wait for the audio to begin. The whole exchange takes eight seconds. It probably happens without conscious frustration. But those eight seconds have a character: they are administrative. They are a task to complete before the actual experience can start."
+    },
+    {
+      "type": "p",
+      "text": "In a gallery with thirty artworks, this task repeats thirty times. At some point — it varies by visitor, by guide, by gallery — the task starts to feel like more effort than it’s worth. The handset goes in the bag. The visit continues without it."
+    },
+    {
+      "type": "p",
+      "text": "The choice between number entry and NFC-based activation is rarely treated as a significant procurement decision. It sits at the end of a long list of considerations about content, hardware, cost, and languages. But activation is the first thing that happens every time a visitor encounters an artwork with a guide in their hand. It shapes whether the experience feels fluid or effortful. And that shapes engagement more than most institutions measure."
+    },
+    {
+      "type": "callout",
+      "text": "The activation moment is the first impression of every single artwork. Most guide systems treat it as a footnote. Visitors experience it thirty times per visit."
+    },
+    {
+      "type": "h2",
+      "text": "How Number Entry Works"
+    },
+    {
+      "type": "p",
+      "text": "Number entry is the original audio guide interaction model: each artwork in the guide is assigned a unique numeric code, printed on the label or displayed near the object. The visitor types that number into the handset’s keypad and the corresponding content plays."
+    },
+    {
+      "type": "p",
+      "text": "The method has genuine strengths that explain why it has persisted for decades. It requires no additional hardware beyond the handset itself. There are no tags to install, maintain, or replace. It works on any artwork in any position, with no line-of-sight or proximity requirement. Updating the guide to cover a new artwork means assigning a number and adding content — nothing in the physical gallery needs to change."
+    },
+    {
+      "type": "p",
+      "text": "For temporary exhibitions, travelling shows, or institutions with frequently rotating collections, number entry is genuinely practical. Labels can be updated without touching any embedded infrastructure. The system works from the first day of installation to the last without physical maintenance."
+    },
+    {
+      "type": "p",
+      "text": "The limitation is the interaction itself. Visitors must locate the number, read it accurately, and reproduce it correctly on the keypad. For older visitors, low-contrast labels, or artworks displayed at awkward heights, this is a repeated friction point. Miskeys are common. And the cognitive step — identify code, type code, wait — creates a slight but persistent distance between visitor and artwork that NFC removes."
+    },
+    {
+      "type": "h2",
+      "text": "How NFC Activation Works"
+    },
+    {
+      "type": "p",
+      "text": "Near-field communication (NFC) uses short-range radio technology embedded in a small tag — typically installed behind or beside the artwork label, flush with the wall or frame — to trigger content automatically when the handset is held close. No number to find, no code to type. The visitor moves the handset near the label, and the guide begins."
+    },
+    {
+      "type": "p",
+      "text": "When NFC is working well — and the conditions required for that are specific and worth addressing honestly — the interaction is close to invisible. The visitor’s attention stays on the artwork rather than on the device. The transition from walking to listening happens in a single gesture rather than a three-step process. The experience feels designed rather than assembled."
+    },
+    {
+      "type": "p",
+      "text": "NFC-equipped handsets can also carry artwork identification silently — logging which objects were engaged with, for how long, and in what sequence — without requiring any additional input from the visitor. This produces richer engagement data than number-entry systems, where the only available signal is which codes were typed."
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side: NFC vs Number Entry"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "",
+        "Number Entry",
+        "NFC Tags"
+      ],
+      "rows": [
+        [
+          "Hardware beyond handset",
+          "None",
+          "NFC tags installed per artwork"
+        ],
+        [
+          "Visitor action required",
+          "Locate number, type code",
+          "Hold handset near tag"
+        ],
+        [
+          "Setup complexity",
+          "Low — assign numbers, print labels",
+          "Moderate — tags must be installed correctly"
+        ],
+        [
+          "Physical maintenance",
+          "None",
+          "Tags may need replacement over time"
+        ],
+        [
+          "Works with rotating collections",
+          "Yes — no physical changes needed",
+          "Requires tag repositioning or replacement"
+        ],
+        [
+          "Works with temporary exhibitions",
+          "Easily",
+          "Requires tag installation per show"
+        ],
+        [
+          "Friction for visitor",
+          "Low to moderate — varies by label clarity",
+          "Very low when placement is correct"
+        ],
+        [
+          "Misactivation risk",
+          "Miskeys — especially for older visitors",
+          "Minimal — proximity-based"
+        ],
+        [
+          "Visitor attention",
+          "Split between label and keypad",
+          "Stays on artwork"
+        ],
+        [
+          "Engagement data collected",
+          "Code activations only",
+          "Object, proximity, duration, sequence"
+        ],
+        [
+          "Accessibility considerations",
+          "Requires clear number visibility",
+          "Requires tag within reach of all visitors"
+        ],
+        [
+          "Cost to add new artwork",
+          "Zero — assign a number",
+          "Tag cost plus installation"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "When NFC Works Well — and What That Requires"
+    },
+    {
+      "type": "p",
+      "text": "NFC’s advantage over number entry is real, but it is conditional. The conditions are not complex, but they are specific — and institutions that deploy NFC without meeting them often end up with a worse visitor experience than a well-executed number-entry system would have produced."
+    },
+    {
+      "type": "p",
+      "text": "Tag placement is the most critical variable. A tag positioned too high, too low, or behind glass creates confusion rather than convenience. The visitor gesture needs to be natural — a slight movement toward the label, not a hunt for an invisible hotspot. Tags should be positioned at a consistent location relative to every artwork label in the gallery, so visitors learn the gesture once and repeat it without thinking."
+    },
+    {
+      "type": "p",
+      "text": "Visual signage matters more than most institutions anticipate. An NFC tag with no indicator that it exists leaves visitors with no cue to try the gesture. A small, clear symbol — consistent across the collection — communicates the interaction without instructions. First-time NFC users learn the system within two or three artworks when the visual language is clear. Without it, some never discover the activation mechanism at all."
+    },
+    {
+      "type": "p",
+      "text": "Tag quality affects reliability over time. Consumer-grade NFC tags degrade faster under museum conditions — temperature variation, cleaning products, cumulative proximity events. Institutional-grade tags maintain consistent read distances and lifespans that match the deployment timeline. Skimping here introduces intermittent failures that are difficult to diagnose and damaging to the visitor experience."
+    },
+    {
+      "type": "p",
+      "text": "When these conditions are met — consistent placement, clear visual indicators, quality tags, and enough test coverage before opening — NFC produces a materially more fluid activation experience than number entry for most visitor profiles. The gesture is faster, more intuitive, and keeps attention where it belongs: on the artwork."
+    },
+    {
+      "type": "h2",
+      "text": "When Number Entry Still Makes More Sense"
+    },
+    {
+      "type": "p",
+      "text": "Number entry remains the more practical choice in specific contexts, and choosing NFC in these situations introduces cost and complexity without a proportionate benefit."
+    },
+    {
+      "type": "p",
+      "text": "For temporary exhibitions and travelling shows, where the installation timeline is compressed and the physical layout changes frequently, number entry avoids the overhead of tag placement entirely. Assigning a number to a newly arrived artwork takes seconds; installing and testing an NFC tag takes longer and requires physical access to the display environment."
+    },
+    {
+      "type": "p",
+      "text": "For very large collections — particularly those with hundreds of objects across multiple floors or buildings — the tag installation and maintenance overhead at NFC scales proportionally. Institutions with limited technical staff may find number entry simply more sustainable to operate."
+    },
+    {
+      "type": "p",
+      "text": "Accessibility is also worth weighing carefully. NFC requires the handset to be physically proximate to the tag, which means the tag needs to be within reach of visitors using wheelchairs, short-statured visitors, and those with limited mobility. For permanent collections where tag height can be standardised, this is manageable. In ad-hoc or rapidly assembled exhibitions, it is easy to overlook."
+    },
+    {
+      "type": "h2",
+      "text": "The Decision Institutions Treat as a Detail"
+    },
+    {
+      "type": "p",
+      "text": "Activation method tends to surface in guide procurement conversations as a technical footnote — a checkbox after content, languages, hardware, and cost have been resolved. This is the wrong order of priority."
+    },
+    {
+      "type": "p",
+      "text": "Every visitor who uses the guide will activate it between fifteen and forty times during a visit, depending on how deeply they engage with the collection. The activation gesture is not a neutral step that happens before the experience begins — it is part of the experience. A gesture that feels natural disappears from consciousness. One that feels effortful stays present, as a mild but persistent reminder that the visitor is operating a device rather than having a conversation with the collection."
+    },
+    {
+      "type": "p",
+      "text": "The difference between a well-executed NFC deployment and a well-executed number-entry system is not dramatic. Both can serve visitors effectively. But for permanent collections with stable installations and a visitor profile that includes significant international audiences — where number-hunting across language barriers adds an extra layer of friction — NFC, done properly, produces a more fluid experience. Not because the technology is inherently superior, but because fewer steps between visitor and content means fewer moments where a visitor decides the guide isn’t worth the effort."
+    },
+    {
+      "type": "callout_linked",
+      "textBefore": "Tree’d’s conversational guide uses NFC activation — visitors hold the ",
+      "linkText": "handset",
+      "href": "/handset",
+      "textAfter": " near the artwork label, and the guide begins the conversation. No number to find, no code to type. The visit starts where it should: with the artwork."
+    },
+    {
+      "type": "cta_inline",
+      "text": "See how the full activation and conversation experience works in a real museum deployment.",
+      "href": "/booking",
+      "label": "Book a 30-Minute Walkthrough"
+    }
+  ]
+}

@@ -1,0 +1,2220 @@
+{
+  "common": {
+    "yes": "Ja",
+    "no": "Nee",
+    "limited": "Beperkt",
+    "caution": "Let op"
+  },
+  "buttons": {
+    "exploreUseCases": "Toepassingen verkennen",
+    "discoverUseCases": "Toepassingen ontdekken"
+  },
+  "nav": {
+    "home": "Home",
+    "ecosystem": "Ecosysteem",
+    "visitorExperience": "Bezoekerservaring",
+    "sustainability": "Duurzaamheid",
+    "about": "Over",
+    "blog": "Blog",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "bookDemo": "Plan een demo"
+  },
+  "mobileMenu": {
+    "headline": "Geef culturele verkenning een stem.",
+    "ecosystem": {
+      "badge": "VLAGGENSCHIP",
+      "explore": "Ontdekken",
+      "back": "Terug",
+      "handset": {
+        "title": "De Handset",
+        "desc": "Schermvrije AI-audiogids voor musea."
+      },
+      "overview": {
+        "title": "Overzicht",
+        "desc": "Het volledige Tree'd ecosysteem"
+      },
+      "tree": {
+        "title": "De Tree",
+        "desc": "Oplaadstation in de galerij"
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "desc": "Live bezoekersinzichten"
+      },
+      "useCases": {
+        "title": "Toepassingen",
+        "desc": "Tree'd in elke context"
+      }
+    }
+  },
+  "hero": {
+    "label": "Next-gen audiogidsen",
+    "subtitle": "Tree'd is een AI-audiogidssysteem dat geen vooraf opgenomen verhalen afspeelt. Bezoekers voeren een tweerichtingsgesprek: ze stellen vragen en krijgen direct antwoord, in hun eigen taal.",
+    "explore": "Ontdek het systeem",
+    "futureTitle": "De toekomst van",
+    "museumStorytelling": "AI-audiogidsen voor musea"
+  },
+  "solutionLinks": {
+    "overview": "Overzicht",
+    "handset": "De handset",
+    "tree": "De Tree",
+    "dashboard": "Het dashboard",
+    "useCases": "Toepassingen"
+  },
+  "home": {
+    "hero": {
+      "unbound": "onbegrensd.",
+      "curiosity": "Nieuwsgierigheid,",
+      "desc": "Met Tree'd wordt elk museumbezoek een meeslepende, zelfstandige ervaring. Onze AI-audiogids geeft real-time antwoord, in jouw taal."
+    },
+    "ecosystem": {
+      "label": "Het ecosysteem",
+      "title1": "Een nieuwe standaard in interactieve museumgidsen,",
+      "title2": "ontworpen voor diepere culturele ervaringen.",
+      "explore": "Ontdek het ecosysteem",
+      "handset": {
+        "title": "De handset",
+        "desc": "Een schermvrije AI-audiogids. Pak hem op en stel je vraag — hij geeft natuurlijk antwoord in elke taal.",
+        "view": "Bekijk meer"
+      },
+      "tree": {
+        "title": "De Tree",
+        "view": "Bekijk meer"
+      },
+      "dashboard": {
+        "title": "Het dashboard",
+        "view": "Bekijk meer"
+      }
+    },
+    "visitorExp": {
+      "label": "Bezoekerservaring",
+      "title": "Ontworpen voor nieuwsgierigheid.",
+      "ai": {
+        "title": "Conversational AI",
+        "desc": "Bezoekers praten met een gids die getraind is op jouw collectie, niet op een script. Echte gesprekken, in 12+ talen."
+      },
+      "multi": {
+        "title": "Meertalige gids",
+        "desc": "Voer gesprekken op moedertaalniveau in 12+ talen, zonder taalbarrières."
+      },
+      "instant": {
+        "title": "Direct beginnen",
+        "desc": "Geen app-download. Geen account. Geen scherm. Bezoekers pakken de handset op en beginnen meteen."
+      },
+      "tap": {
+        "title": "Tikken & luisteren",
+        "desc": "Intuïtief en direct. Tik met de handset tegen een sensor om te verbinden."
+      },
+      "fullJourney": "De volledige bezoekerservaring"
+    },
+    "cta": {
+      "title": "Start met een pilot van 90 dagen.",
+      "desc": "Maak van elk bezoek een gesprek en ervaar de kracht van Conversational AI in de praktijk. Laten we samen de toekomst van museumstorytelling bouwen.",
+      "btn": "Vraag een demo aan",
+      "btnSecondary": "Prijsopgave aanvragen"
+    },
+    "advantages": {
+      "label": "Het Tree'd voordeel",
+      "title": "Waarom musea",
+      "chooseUs": "voor ons kiezen",
+      "desc": "We leveren niet alleen hardware — we geven je collectie een stem.",
+      "cta": "Bekijk het systeem in actie",
+      "items": {
+        "edu": {
+          "title": "Educatieve missie",
+          "desc": "Verhoogt de verblijftijd, het aantal bezochte objecten en de totale interactie, en verdiept de betrokkenheid van bezoekers gedurende de hele rondleiding.",
+          "cta": "Ontdek de bijgehouden statistieken"
+        },
+        "finance": {
+          "title": "Financiële gezondheid",
+          "desc": "Voegt een inkomstenbron toe via een revenue-sharing model — hogere inkomsten per bezoeker, zonder extra personeel of technische overhead.",
+          "cta": "Hoe revenue sharing werkt"
+        },
+        "reach": {
+          "title": "Bereik & tevredenheid",
+          "desc": "Trekt een breder publiek aan via meertalige rondleidingen en verbetert kernstatistieken zoals NPS en bezoekerstevredenheid.",
+          "cta": "Ontdek de bezoekerservaring"
+        },
+        "tech": {
+          "title": "Verantwoorde technologie",
+          "desc": "Hardware in biologisch afbreekbaar plastic, met efficiënte, energiezuinige technologie voor verantwoorde bedrijfsvoering.",
+          "cta": "Onze groene belofte"
+        }
+      }
+    },
+    "scroll": "Scroll",
+    "ourClients": "Eerste partners"
+  },
+  "footer": {
+    "tagline": "Conversationele audiogidsen voor musea. AI voor meeslependere ervaringen.",
+    "product": "Product",
+    "company": "Bedrijf",
+    "contactBlock": "Contact en support",
+    "rights": "Tree'd History Guide — ZedZag B.V. Alle rechten voorbehouden.",
+    "revenueSharing": "Revenue sharing",
+    "blog": "Blog",
+    "careers": "Vacatures",
+    "overview": "Overzicht",
+    "handset": "De Handset",
+    "tree": "De Tree hub",
+    "dashboard": "Dashboard",
+    "visitorExperience": "Bezoekerservaring",
+    "useCases": "Use cases",
+    "about": "Over",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp-chat",
+    "bookDemo": "Demo aanvragen",
+    "sustainability": "Duurzaamheid",
+    "faq": "FAQ",
+    "resources": "Resources",
+    "requestPricing": "Prijs aanvragen",
+    "privacyPolicy": "Privacybeleid",
+    "cookiePolicy": "Cookiebeleid"
+  },
+  "visitorExperience": {
+    "hero": {
+      "title1": "Gewoon een",
+      "title2": "betere manier",
+      "title3": "om een museum te beleven.",
+      "desc": "Tree'd geeft bezoekers de ruimte om op eigen tempo te ontdekken, gestuurd door hun eigen nieuwsgierigheid. Geen vast script — stel vragen en krijg direct een helder antwoord.",
+      "exploreBtn": "Verkennen"
+    },
+    "steps": {
+      "label": "Hoe het werkt",
+      "title": "Eenvoudig. Geen leercurve.",
+      "explore": "Bekijk de volledige reis",
+      "step1": {
+        "title": "Kies je taal",
+        "desc": "Tik met de handset tegen het NFC-taalpaneel en kies de taal voor je rondleiding."
+      },
+      "step2": {
+        "title": "Kies een object",
+        "desc": "Bij elk object zit een NFC-chip. Tik erop met de handset en hoor direct het verhaal erachter."
+      },
+      "step3": {
+        "title": "Begin het gesprek",
+        "desc": "Heb je een vraag? Stel hem. De handset luistert, begrijpt de vraag en geeft antwoord met museum-gevalideerde kennis."
+      }
+    },
+    "benefits": {
+      "title": "Ontworpen voor echte nieuwsgierigheid.",
+      "subtitle": "Tree'd is een audiogids die zich aanpast aan de bezoeker — niet andersom.",
+      "items": {
+        "affordable": "Betaalbaar",
+        "noSetup": "Geen installatie nodig",
+        "multilingual": "Meertalig",
+        "intuitive": "Intuïtief",
+        "selfPaced": "Eigen tempo",
+        "immersive": "Meeslepend",
+        "deeperLearning": "Meer verdieping",
+        "instantAnswers": "Direct antwoord"
+      }
+    },
+    "comparison": {
+      "label": "Vergelijking",
+      "heading": "Tree'd versus audiogidsen, rondleiders en apps",
+      "intro": "Audiogidsen beantwoorden geen vragen. Live rondleidingen volgen een vast tempo. Apps leiden de aandacht af van de kunst. Tree'd lost alle drie op."
+    },
+    "engagementDifference": {
+      "title1": "Het verschil in",
+      "title2": "betrokkenheid",
+      "desc": "Traditionele audiogidsen bieden eenrichtingsnarratie. Gesprekken veranderen hoe bezoekers de collectie beleven. Wanneer bezoekers vragen kunnen stellen en direct antwoord krijgen, besteden ze meer tijd aan elk kunstwerk, bezoeken ze meer objecten en duiken ze dieper in de collectie."
+    },
+    "cta": {
+      "label": "Museumpartnerschap",
+      "title1": "Versterk je",
+      "title2": "museumervaring",
+      "desc": "Geef je bezoekers een reden om echt verbinding te maken met je collectie. Doe mee aan de volgende generatie museumrondleidingen.",
+      "btn": "Breng Tree'd naar je museum",
+      "secondaryBtn": "Verken het ecosysteem"
+    },
+    "visitorJourney": {
+      "title": "De bezoekerservaring",
+      "nodes": {
+        "start": "START",
+        "tap": "TIK",
+        "play": "SPEEL",
+        "ask": "VRAAG",
+        "answer": "ANTWOORD"
+      },
+      "steps": {
+        "step1": {
+          "num": "01",
+          "title": "START",
+          "desc": "Pak de schermvrije handset. Geen apps, geen downloads — gewoon nieuwsgierigheid. Je ontdekt het museum op je eigen tempo."
+        },
+        "step2": {
+          "num": "02",
+          "title": "NFC-tik",
+          "desc": "Iets gevonden dat je aanspreekt? Tik met de handset tegen de NFC-tag bij het object. Het verhaal begint meteen."
+        },
+        "step3": {
+          "num": "03",
+          "title": "VERHAAL",
+          "desc": "Een korte audiotoelichting start — samengesteld door het museum en met de essentiële context van het object."
+        },
+        "step4": {
+          "num": "04",
+          "title": "VRAAG ALLES",
+          "desc": "Heb je een specifieke vraag? Stel hem. De AI begrijpt de context en geeft direct museum-gevalideerde antwoorden."
+        },
+        "step5": {
+          "num": "05",
+          "title": "AI-ANTWOORD",
+          "desc": "De handset geeft natuurlijk antwoord en verdiept de beleving van de kunst. Elk bezoek wordt een uniek tweerichtingsgesprek."
+        }
+      }
+    }
+  },
+  "handsetPage": {
+    "specs": {
+      "battery": {
+        "val": "Batterij voor een hele dag",
+        "label": "op één lading"
+      }
+    },
+    "formFactors": {
+      "label": "Vormen",
+      "title": "Één systeem. Elke vorm.",
+      "subtitle": "De ervaring blijft uitzonderlijk — de vorm past zich aan je museum aan.",
+      "comingSoon": "Binnenkort",
+      "designYourOwn": "Ontwerp je eigen",
+      "scrollHint": "Scroll om te verkennen",
+      "cards": {
+        "handset": {
+          "title": "De handset",
+          "desc": "Ons vlaggenschip. Direct vertrouwd en intuïtief in gebruik."
+        },
+        "box": {
+          "title": "De box",
+          "desc": "Compact en minimaal. Gebouwd voor AUX-first ervaringen."
+        },
+        "watch": {
+          "title": "Het horloge",
+          "desc": "AUX-first met eenvoudiger NFC-scanning onderweg."
+        },
+        "custom": {
+          "title": "Op maat",
+          "desc": "Ontwerp de vorm en kleur passend bij je ruimte, je bezoekers, je verhaal."
+        }
+      }
+    },
+    "cta": {
+      "title": "Breng je objecten tot leven",
+      "desc": "Klaar om bezoekers een onvergetelijke ervaring te geven? Laten we bespreken hoe de handset past bij jouw museum. Pilots van 90 dagen beschikbaar.",
+      "btn": "Reserveer je demo",
+      "btnSecondary": "Prijsopgave aanvragen"
+    }
+  },
+  "sustainability": {
+    "hero": {
+      "label": "Duurzaamheid",
+      "title1": "Duurzame museumtechnologie,",
+      "title2": "gebouwd voor de lange termijn",
+      "desc": "Tree'd is vanuit de basis ontworpen om verspilling te beperken, levensduur te verlengen en grondstoffen te respecteren. Technologische vooruitgang mag niet ten koste gaan van de leefomgeving."
+    },
+    "stats": {
+      "plastic": {
+        "val": "100%",
+        "title": "Biologisch afbreekbaar plastic",
+        "desc": "Tree'd-handsets worden 3D-geprint met biologisch afbreekbare materialen, en zo afval aan het einde van de levensduur beperkt. Modulaire onderdelen maken vervanging van batterijen en onderdelen mogelijk — geen weggooien.",
+        "cta": "Ontdek de handset"
+      },
+      "local": {
+        "val": "Lokaal",
+        "title": "Infrastructuur",
+        "desc": "Alle AI-verwerking vindt plaats op de Tree, de on-site hub. Geen cloudverzoeken. Geen externe datatransfer. Lokale verwerking verlaagt de CO2-voetafdruk van elke bezoekersinteractie.",
+        "cta": "Ontdek de Tree"
+      },
+      "ai": {
+        "val": "Slim",
+        "title": "Afgeschermd AI-systeem",
+        "desc": "Efficiënt ontwerp zorgt dat elke respons relevant is — onnodige berekeningen worden vermeden, net als het energieverbruik van generieke modellen.",
+        "cta": "Ontdek het ecosysteem"
+      }
+    },
+    "deepDive": {
+      "label": "Verantwoorde technologie",
+      "title": "Efficiënt ontworpen.",
+      "desc": "Lokale verwerking verbruikt minder energie dan constante cloudcommunicatie. Modulaire hardware verlengt de levensduur. Elk onderdeel is ontworpen om verspilling te minimaliseren zonder concessies aan prestaties.",
+      "localProcessing": {
+        "title": "Lokale verwerking",
+        "desc": "Data lokaal verwerken verlaagt de CO2-voetafdruk aanzienlijk ten opzichte van constante verzending naar de cloud."
+      },
+      "longevity": {
+        "title": "Levensduur & reparatie",
+        "desc": "Modulaire onderdelen maken reparaties en batterijvervanging eenvoudig — apparaten gaan langer mee en belanden niet in het afval."
+      }
+    },
+    "responsible": {
+      "title": "Verantwoorde technologie voor culturele ruimtes",
+      "desc": "Tree'd is ontworpen om in culturele ruimtes te opereren zonder digitale of ecologische rommel toe te voegen. Schermvrije interactie houdt de aandacht op de collectie. Geen wegwerpbatterijen betekent minder doorlopend afval. Lokale verwerking schrapt constant cloudverkeer. Modulaire hardware zorgt dat apparaten gerepareerd, hergebruikt en langer in gebruik blijven."
+    },
+    "visitorExpLink": "Zie hoe dit de bezoekerservaring vormt",
+    "cta": {
+      "title": "Bouw een duurzamere bezoekerservaring.",
+      "desc": "Zie hoe Tree'd is ontworpen om onnodige verwerking te vermijden en apparaten langer in gebruik te houden via efficiënte AI en modulaire hardware.",
+      "btn": "Plan een demo",
+      "btnSecondary": "Prijsopgave aanvragen"
+    }
+  },
+  "careers": {
+    "hero": {
+      "label": "Vacatures",
+      "title1": "Focus op impact. Geen hiërarchie.",
+      "title2": "We gaan verder dan standaard.",
+      "desc": "We bouwen AI-audiogidssystemen voor musea en zoeken vakgedreven mensen voor een klein team met grote impact. Geen bureaucratie — gewoon bouwen.",
+      "playbook": "Ons playbook",
+      "pills": {
+        "remote": "Remote-first",
+        "impact": "Grote impact",
+        "culture": "Cultuurgedreven",
+        "performance": "Hoge prestaties",
+        "flexibility": "Flexibiliteit",
+        "fun": "Plezier",
+        "growth": "Snelle groei",
+        "peers": "Getalenteerde collega's"
+      }
+    },
+    "valuesTitle": "Onze waarden",
+    "valuesDesc": "Tree'd bouwt AI-audiogidssystemen voor musea. Bezoekers tikken op objecten, luisteren naar gecureerde verhalen en stellen vragen om direct antwoord te krijgen, in hun taal, zonder schermen of apps.",
+    "valuesCta": "Wie we zijn",
+    "values": {
+      "respect": {
+        "title": "Respect boven verstoring",
+        "desc": "We ontwerpen met groot respect voor culturele ruimtes en de verhalen die ze dragen. Tree'd versterkt de band tussen bezoeker en object — en onderbreekt die nooit."
+      },
+      "simple": {
+        "title": "Eenvoudig maar krachtig",
+        "desc": "De beste ideeën hoeven zich niet aan te kondigen. We bouwen intuïtieve producten die binnen seconden begrepen worden."
+      },
+      "curiosity": {
+        "title": "Nieuwsgierigheid eerst",
+        "desc": "Vragen zijn het startpunt van elke ervaring. Tree'd beloont nieuwsgierigheid — of die nu van een bezoeker in een zaal komt of van een ontwerper in ons team."
+      },
+      "intent": {
+        "title": "Bouwen met intentie",
+        "desc": "Tree'd werkt in omgevingen waar stilte telt en afleiding geen optie is. Daarom bouwen we met zorg. Elk detail moet de totale ervaring dienen."
+      }
+    },
+    "process": {
+      "title": "Ons sollicitatieproces",
+      "subtitle": "We doen niet aan vaste functietitels. Ben je kwaliteitsgedreven en bouw je dingen — we horen graag van je. Je kunt het hele jaar door solliciteren.",
+      "note": "Vermeld in je sollicitatie het domein of de functie waarbij je voorkeur ligt (bijv. software, marketing, sales, design, operations).",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Stuur je sollicitatie",
+          "desc": "Vertel ons wat je drijft en wat je hebt gebouwd. Stuur je cv mee en alles wat je werk laat spreken."
+        },
+        {
+          "step": "02",
+          "title": "Korte kennismaking",
+          "desc": "Een kort gesprek om te begrijpen hoe je denkt, communiceert en samenwerkt."
+        },
+        {
+          "step": "03",
+          "title": "Praktische case",
+          "desc": "Een realistische opdracht die lijkt op het werk dat je daadwerkelijk zou doen. Duidelijke scope, redelijke doorlooptijd."
+        },
+        {
+          "step": "04",
+          "title": "Aanbod",
+          "titleHover": "Aanbod ;)",
+          "desc": "Ontvang het aanbod. De meeste trajecten worden binnen 2 weken afgerond."
+        }
+      ]
+    },
+    "positions": {
+      "title": "Solliciteer nu",
+      "apply": "Stuur je sollicitatie"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Wie we zijn",
+      "title1": "Cultuur",
+      "title2": "opnieuw verbonden.",
+      "desc": "Tree'd bouwt AI-audiogidssystemen voor musea. Bezoekers tikken op objecten, luisteren naar gecureerde verhalen en stellen vragen — direct antwoord in hun taal, zonder schermen of apps.",
+      "stats": {
+        "countries": "landen",
+        "offices": "kantoren",
+        "goal": "doel"
+      }
+    },
+    "careers": {
+      "label": "Vacatures",
+      "title1": "Bouw mee aan de toekomst van",
+      "title2": "culturele ervaringen",
+      "desc": "Als onze missie, visie en waarden je aanspreken en je wilt werken op het snijvlak van cultuur, technologie en menselijke ervaring — dan is Tree'd misschien wel jouw plek. We bouwen de volgende generatie audiogidsen voor musea wereldwijd en zoeken altijd nieuwsgierige, gedreven mensen.",
+      "cta": "Bekijk vacatures",
+      "disciplinesLabel": "Open specialisaties",
+      "viewAll": "Bekijk alle vacatures",
+      "disciplines": [
+        "AI & machine learning",
+        "Embedded hardware",
+        "Embedded software",
+        "Product design",
+        "Sales",
+        "Software engineering"
+      ],
+      "marqueeItems": [
+        "Hybride",
+        "Amsterdam",
+        "Cairo",
+        "Cultuur",
+        "Flexibele roosters"
+      ]
+    },
+    "whatWeDo": {
+      "eyebrow": "Wat we doen",
+      "heading": "We bouwen het volledige systeem zelf — van elektronica tot software tot fysiek ontwerp.",
+      "subheading": "Elke laag wordt intern ontwikkeld, zodat de ervaring als één samenhangend ecosysteem werkt.",
+      "cards": [
+        {
+          "title": "Elektronica & embedded systemen",
+          "body": "We ontwerpen onze eigen printplaten, selecteren elk component bewust en ontwikkelen efficiënte circuits die zijn gebouwd voor betrouwbaarheid, prestaties en continu gebruik in veeleisende omgevingen."
+        },
+        {
+          "title": "Software & AI-infrastructuur",
+          "body": "We ontwikkelen de volledige softwarestack — van embedded firmware tot on-device conversational AI — en zorgen voor snelheid, stabiliteit en naadloze interactie."
+        },
+        {
+          "title": "Industrieel ontwerp & productie",
+          "body": "We ontwerpen en produceren onze eigen behuizingen met focus op duurzaamheid, robuustheid, ergonomie en esthetiek, zodat elk apparaat intuïtief te gebruiken is en bestand tegen intensief dagelijks gebruik."
+        }
+      ]
+    },
+    "mission": {
+      "label": "Missie",
+      "title": "Het ontwikkelen en implementeren van intuïtieve, meertalige oplossingen waarmee musea meeslepende en boeiende ervaringen kunnen bieden.",
+      "commitment": {
+        "title": "Onze toewijding",
+        "desc": "Cultuur staat niet stil — en museumervaringen zouden dat ook niet moeten doen. We zijn toegewijd aan systemen waarmee bezoekers vrij kunnen ontdekken, dieper betrokken raken en zoveel vragen kunnen stellen als ze willen stellen, zonder barrières van taal of format.",
+        "cta": "Ontdek de bezoekerservaring"
+      },
+      "vision": {
+        "title": "Visie",
+        "desc": "Cultuur en geschiedenis overal persoonlijk maken.",
+        "cta": "Zie wat we bouwen"
+      },
+      "values": {
+        "label": "Onze waarden",
+        "heading": "De principes die ons vak bepalen.",
+        "curiosity": {
+          "title": "Nieuwsgierigheid eerst",
+          "desc": "Vragen zijn het startpunt van elke ervaring. Tree'd beloont nieuwsgierigheid."
+        },
+        "intent": {
+          "title": "Bouwen met intentie",
+          "desc": "We werken in ruimtes waar stilte telt. Elk detail moet de bezoekerservaring dienen."
+        },
+        "respect": {
+          "title": "Respect boven verstoring",
+          "desc": "We versterken de relatie tussen bezoeker en object — en onderbreken die nooit."
+        },
+        "simple": {
+          "title": "Eenvoudig maar krachtig",
+          "desc": "De beste ideeën kondigen zich niet aan. Intuïtieve producten, binnen seconden begrepen."
+        }
+      }
+    },
+    "inspiration": {
+      "label": "BEWEEG JE CURSOR OM TE VERKENNEN",
+      "heading": {
+        "before": "Wat inspireert ons",
+        "highlight": "in wat we bouwen."
+      },
+      "paragraph": {
+        "line1": "Dit bepaalt hoe we denken, ontwerpen en bouwen.",
+        "line2": {
+          "before": "Het is",
+          "highlight": "wat ons voortdrijft."
+        }
+      },
+      "cards": [
+        {
+          "heading": "Musea",
+          "body": "Musea bevatten eeuwen betekenis. Ze zouden niet beperkt moeten zijn tot statische afspeellistjes. Ze verdienen gereedschappen die bezoekers echt helpen begrijpen wat ze zien."
+        },
+        {
+          "heading": "Nieuwsgierigheid",
+          "body": "Bezoekers leren door verhalen, maar hun nieuwsgierigheid gaat veel verder. Huidige rondleidingssystemen stoppen bij het script. Wij bouwen voor een onbeperkte laag vragen."
+        },
+        {
+          "heading": "Technologie voor onderwijs",
+          "body": "We worden geïnspireerd door technologie die dient om begrip te verdiepen. Bij kunst, geschiedenis en beschavingen — het moet mensen helpen leren, niet afleiden."
+        },
+        {
+          "heading": "Toegang voor iedereen",
+          "body": "Niemand hoeft zich verloren te voelen in een museum. We worden gedreven door cultuur toegankelijk te maken — ongeacht taal, achtergrond of voorkennis."
+        }
+      ]
+    }
+  },
+  "booking": {
+    "title": "Vraag een demo aan",
+    "subtitle": "Ervaar next-gen audiogidsen",
+    "description": "Ontdek in 30 minuten hoe AI-audiogidsen werken in jouw museum.",
+    "highlights": [
+      "Probeer de conversational guide live",
+      "Zie hoe het past binnen jouw tentoonstellingsopstelling",
+      "Ontvang prijs- en implementatiedetails"
+    ],
+    "expectTitleStart": "Wat kun je verwachten in",
+    "expectTitleHighlight": "30 minuten",
+    "expectTitleEnd": "?",
+    "expectItems": [
+      {
+        "text": "Probeer een conversational audiogids en stel in real time vragen",
+        "inPersonOnly": true
+      },
+      {
+        "text": "Zie de Handset in actie en hoe bezoekers deze direct gebruiken",
+        "inPersonOnly": true,
+        "linkedWord": "Handset",
+        "linkedHref": "/handset"
+      },
+      {
+        "text": "Ontdek het analytics dashboard en hoe het helpt bij besluitvorming",
+        "linkedWord": "analytics dashboard",
+        "linkedHref": "/dashboard"
+      },
+      {
+        "text": "Begrijp hoe Tree'd wordt geïmplementeerd in jouw specifieke ruimte",
+        "inPersonOnly": false
+      },
+      {
+        "text": "Bekijk het commerciële model, inclusief revenue sharing en prijsopties",
+        "linkedWord": "revenue sharing",
+        "linkedHref": "/revenue-sharing"
+      },
+      {
+        "text": "Rond af met een duidelijke volgende stap en een voorstel op maat voor jouw museum",
+        "inPersonOnly": false
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title1": "Laten we",
+      "title2": "kennismaken.",
+      "desc": "Of je nu Tree'd overweegt voor je museum, een technische vraag hebt of een samenwerking wilt verkennen — we helpen je graag. De meeste berichten krijgen binnen één werkdag een reactie."
+    },
+    "info": {
+      "write": "Schrijf ons",
+      "call": "Bel ons",
+      "whatsapp": "WhatsApp",
+      "copy": "Kopiëren"
+    },
+    "form": {
+      "firstName": "Voornaam*",
+      "lastName": "Achternaam",
+      "museum": "Museumnaam*",
+      "email": "E-mailadres*",
+      "message": "Bericht*",
+      "submit": "Start het gesprek",
+      "success": "Bericht verzonden! We nemen snel contact op.",
+      "error": "Er is iets misgegaan. Probeer het opnieuw.",
+      "placeholders": {
+        "firstName": "Jan",
+        "lastName": "Jansen",
+        "museum": "Het Historisch Museum",
+        "email": "jan@museum.nl",
+        "message": "Hoe kunnen we je helpen?"
+      }
+    },
+    "newsletter": {
+      "title": "Blijf op de hoogte",
+      "desc": "Volg ons",
+      "placeholder": "Je e-mailadres",
+      "btn": "Inschrijven"
+    },
+    "globe": {
+      "label": "Onze kantoren",
+      "title1": "& Caïro.",
+      "title2": "Amsterdam",
+      "openInMaps": "Bekijk op kaart",
+      "ams": {
+        "title": "Hoofdkantoor",
+        "address": "Plantage Kerklaan 21, 1018 SZ Amsterdam, Nederland"
+      },
+      "cairo": {
+        "title": "R&D-kantoor",
+        "address": "District B, Cairo University Compound, Gizeh, Egypte"
+      }
+    }
+  },
+  "solution": {
+    "hero": {
+      "label": "Het ecosysteem",
+      "title1": "De volgende generatie",
+      "title2": "audiogids.",
+      "desc": "Tree'd is een compleet AI-audiogidssysteem: een schermvrije handset, een on-premise AI-hub en een real-time analyticsdashboard — ontworpen voor interactieve, zelfgestuurde museumervaringen.",
+      "boxes": {
+        "ai": {
+          "title": "Conversational AI",
+          "desc": "Maakt van je audiogids een interactief gesprek. Stel een vraag, krijg direct antwoord in real-time."
+        },
+        "multi": {
+          "title": "Meertalige gids",
+          "desc": "Audiogids op moedertaalniveau in 12+ talen, met minder dan 2 seconden reactietijd."
+        },
+        "local": {
+          "title": "Lokaal netwerk",
+          "desc": "Er worden geen persoonsgegevens opgeslagen. Veilig, privé en energiezuinig."
+        }
+      }
+    },
+    "usps": {
+      "ai": {
+        "title": "Conversational AI",
+        "desc": "Maakt van je audiogids een interactief gesprek. Stel een vraag, krijg direct antwoord in real-time."
+      },
+      "multi": {
+        "title": "Meertalige gids",
+        "desc": "Audiogids op moedertaalniveau in 12+ talen, met minder dan 2 seconden reactietijd."
+      },
+      "local": {
+        "title": "Lokaal netwerk",
+        "desc": "Er worden geen persoonsgegevens opgeslagen. Veilig, privé en energiezuinig."
+      }
+    },
+    "revenue": {
+      "label": "Financiële modellen",
+      "title": "Genereer inkomsten",
+      "subtitle": "uit elk bezoek.",
+      "desc": "Tree'd is ontworpen als een systeem dat zichzelf terugverdient voor je museum. Naast standaardlicenties voor instellingen met beschikbaar budget, specialiseren we ons in een laagdrempelig <strong>revenue-sharing model</strong>.",
+      "desc2": "Is je budget krap, dan leveren we de hardware en infrastructuur tegen <strong>minimale opstartkosten</strong> en delen we mee in de gidsinkomsten. Zo is onze dienst vanaf dag één een directe inkomstenbron.",
+      "cta": "Hoe revenue sharing werkt",
+      "models": [
+        {
+          "title": "Revenue sharing",
+          "desc": "Minimale opstartkosten. Wij groeien als jij groeit."
+        },
+        {
+          "title": "Directe licentie",
+          "desc": "Institutionele licenties met vaste jaarlijkse kosten."
+        }
+      ]
+    },
+    "comparison": {
+      "label": "Vergelijking",
+      "title": "Waarom Tree'd anders is.",
+      "desc": "Bekijk hoe ons schermvrije ecosysteem zich verhoudt tot traditionele methoden en moderne apps.",
+      "headers": {
+        "feature": "Kenmerk",
+        "treed": "Tree'd",
+        "audio": "Audiogidsen",
+        "guide": "Rondleiders",
+        "apps": "VR/AR/Apps"
+      },
+      "rows": {
+        "interactive": "Interactieve tweerichtingsdialoog",
+        "followup": "Beantwoordt vervolgvragen",
+        "selfpaced": "Verkennen op eigen tempo",
+        "route": "Eigen route kiezen",
+        "dashboard": "Krachtig dashboard & analytics",
+        "price": "Onder €10",
+        "multi": "Meertalig systeem",
+        "scheduling": "Geen planning nodig",
+        "eyesOn": "Aandacht op het object",
+        "zeroLearning": "Geen technische leercurve",
+        "noOnboarding": "Geen registratie of onboarding"
+      }
+    },
+    "handset": {
+      "title": "De handset",
+      "desc": "De metgezel van de bezoeker. Een schermvrij, vintage-geïnspireerd audioapparaat waarmee bezoekers objecten aantikken en vervolgvragen stellen in real-time.",
+      "specs": {
+        "lang": {
+          "title": "12+ talen",
+          "desc": "Directe meertalige ondersteuning op moedertaalniveau."
+        },
+        "battery": {
+          "title": "6 uur batterij",
+          "desc": "Ononderbroken gebruik voor een volledige museumdag."
+        },
+        "latency": {
+          "title": "Razendsnel",
+          "desc": "~2 seconden AI-reactietijd voor een natuurlijk gesprek."
+        }
+      },
+      "cta": "Bekijk details"
+    },
+    "tree": {
+      "title": "De Tree",
+      "desc": "De betrouwbare ruggengraat van je audiogidssysteem. Verdeelt veilig audiotracks, AI-kennis en firmware-updates naar elke handset.",
+      "specs": {
+        "charging": "Automatisch opladen",
+        "storage": "Hoge opslagcapaciteit",
+        "local": "Lokale content",
+        "custom": "Maatwerk"
+      },
+      "cta": "Bekijk details"
+    },
+    "dashboard": {
+      "title": "Het dashboard",
+      "desc": "Real time inzicht in bezoekersbetrokkenheid, talenmix en populaire objecten — via een krachtig analyticsdashboard voor musea.",
+      "specs": {
+        "trends": "Betrokkenheid",
+        "mix": "Talenmix",
+        "health": "Systeemstatus",
+        "privacy": "Privacy-first inzichten"
+      },
+      "cta": "Bekijk details"
+    },
+    "comparison_new": {
+      "text_block": {
+        "top": "Traditionele audiogidsen zijn eenrichtingsverkeer.",
+        "bottom": "Tree'd is een gesprek."
+      },
+      "why_different": {
+        "title": "Waarom Tree'd anders is",
+        "subtitle": "Een audiogidssysteem voor musea, ontworpen voor tweerichtingsverkenning — zonder schermen, apps of planning."
+      },
+      "comparisons": [
+        {
+          "title": "Traditionele audiogidsen",
+          "items": [
+            "Vaste opnames",
+            "Eenzijdig afspelen",
+            "Geen vervolgantwoorden"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Real time antwoorden",
+            "Echte dialoog",
+            "Directe antwoorden, door het museum goedgekeurd"
+          ]
+        },
+        {
+          "title": "Live rondleidingen",
+          "items": [
+            "Gepland",
+            "Op tempo van de groep",
+            "Beperkte beschikbaarheid"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Altijd beschikbaar",
+            "Volledig op eigen tempo",
+            "Schaalbaar naar meerdere talen"
+          ]
+        },
+        {
+          "title": "Mobiele apps",
+          "items": [
+            "Afleiding door schermen",
+            "Downloads & installatie",
+            "Compatibiliteitsproblemen"
+          ],
+          "treed_title": "Tree'd",
+          "treed_items": [
+            "Schermvrije ervaring",
+            "Geen downloads, geen onboarding",
+            "Speciaal ontwikkelde hardware voor musea"
+          ]
+        }
+      ],
+      "cta": "Bekijk de volledige bezoekersreis →"
+    },
+    "conversational_guide": {
+      "scrollytelling": {
+        "label": "BEGRIJPEN",
+        "highlight": "CONVERSATIONELE",
+        "rest": "AUDIOGIDSEN"
+      },
+      "static": {
+        "title": "Wat is een conversationele audiogids?",
+        "para1": "Een conversationele museumgids is een audiogids waarmee bezoekers vragen kunnen stellen en real-time antwoord krijgen — in plaats van te luisteren naar vaste opnames.",
+        "para2": "Bezoekers verkennen op eigen tempo, stellen vervolgvragen en krijgen antwoord in hun taal, gebaseerd op de museuminhoud.",
+        "traditional": {
+          "label": "Traditionele audiogids",
+          "items": [
+            "Vaste opnames",
+            "Geen vervolgvragen",
+            "Hetzelfde voor iedereen"
+          ]
+        },
+        "conversational": {
+          "label": "Conversationele audiogids",
+          "items": [
+            "Real time antwoorden",
+            "Tweerichtingsinteractie",
+            "Afgestemd op elke bezoeker"
+          ]
+        },
+        "cta": "Ontdek het systeem erachter"
+      }
+    }
+  },
+  "revenueSharing": {
+    "hero": {
+      "label": "Verdienmodel",
+      "title": "Maak van elk bezoek",
+      "subtitle": "in inkomsten.",
+      "desc": "Een revenue-sharing model voor onze AI-audiogidsen met minimale opstartkosten, afgestemd op de groei van je museum.",
+      "cta": {
+        "primary": "Plan een demo",
+        "secondary": "Ga naar de calculator"
+      }
+    },
+    "philosophy": {
+      "label": "De basis",
+      "title": "GEBOUWD OM SAMEN TE GROEIEN",
+      "desc": "De revenue share wordt berekend met een dynamische formule. Er geldt geen vast percentage voor alle musea. Wij groeien als jij groeit.",
+      "primary": {
+        "label": "Belangrijkste variabele",
+        "title": "PRIMAIRE DRIVER",
+        "desc": "Jaarlijks bezoekersvolume is onze primaire maatstaf. Hogere bezoekersaantallen leiden tot een geleidelijk groter aandeel voor het museum."
+      },
+      "secondary": {
+        "label": "De multipliers",
+        "title": "SECUNDAIRE DRIVERS",
+        "items": [
+          "Aantal ingezette handsets",
+          "Aantal objecten met audiogids",
+          "Aantal beschikbare talen"
+        ]
+      }
+    },
+    "waived": {
+      "title": "KWIJTGESCHOLDEN OPSTARTKOSTEN",
+      "desc": "We verlagen financiële drempels voor innovatie, afhankelijk van de omvang van je project.",
+      "items": {
+        "hardware": {
+          "label": "Hardware",
+          "title": "Standaard handsetvloot inbegrepen",
+          "note": "Extra handsets worden apart gefactureerd"
+        },
+        "software": {
+          "label": "Software",
+          "title": "Geen licentiekosten",
+          "note": "Strategisch partnerschapsmodel"
+        },
+        "access": {
+          "label": "Toegang",
+          "title": "Toegang voor 2 gebruikers",
+          "note": "Analytics-dashboard inbegrepen"
+        },
+        "infra": {
+          "label": "Infrastructuur",
+          "title": "Implementatiebegeleiding",
+          "note": "Pilotprojecten beschikbaar voor evaluatie"
+        }
+      }
+    },
+    "calculator": {
+      "title": "Schat de inkomsten uit audiogidsen voor je museum",
+      "subtitle": "",
+      "desc": "Gebruik de calculator om de potentiële inkomsten uit AI-audiogidsen te schatten op basis van je jaarlijkse bezoekers en verwachte adoptiegraad.",
+      "labels": {
+        "annualVisitors": "Jaarlijkse bezoekers",
+        "adoptionRate": "Adoptiegraad",
+        "adoptionTip": "Het percentage bezoekers dat de audiogids gebruikt tijdens het bezoek.",
+        "museumShare": "Museumaandeel",
+        "shareTip": "Jouw deel van de totale inkomsten, bepaald door onze dynamische formule.",
+        "pricePerTour": "Prijs per rondleiding",
+        "priceTip": "De afgesproken prijs die bezoekers betalen voor de Tree'd-rondleiding.",
+        "forecast": "Jaarlijkse inkomstenprognose",
+        "netEarnings": "Geprojecteerde netto-inkomsten",
+        "totalRevenue": "Totale projectinkomsten",
+        "totalTours": "Geschat aantal jaarlijkse rondleidingen",
+        "getStarted": "Aan de slag met Tree'd",
+        "bookCall": "Plan een strategiegesprek",
+        "chart": {
+          "title": "Inkomstenprognose museum",
+          "subtitle": "Inkomsten op basis van adoptiegraad",
+          "legend": "Jouw projectie"
+        }
+      }
+    }
+  },
+  "handset": {
+    "hero": {
+      "label": "De handset",
+      "title1": "Een conversationele",
+      "title2": "museum-audiogids",
+      "desc": "Een AI-audiogids waarmee bezoekers verhalen uit de collectie beluisteren en direct vervolgvragen stellen — in hun eigen taal.",
+      "cta": "Plan een demo"
+    },
+    "specs": {
+      "lang": {
+        "val": "12+",
+        "label": "ondersteunde talen"
+      },
+      "battery": {
+        "val": "6",
+        "unit": "uur",
+        "label": "op één lading"
+      },
+      "latency": {
+        "val": "~2",
+        "unit": "s",
+        "label": "reactietijd"
+      }
+    },
+    "specsPage": {
+      "battery": {
+        "val": "Batterij voor een hele dag",
+        "label": "op één lading"
+      }
+    },
+    "internal": {
+      "title": "Intelligentie van binnenuit.",
+      "desc": "Met Conversational AI als kern verwerkt de handset alles lokaal — razendsnel en volledig privé.",
+      "dialogue": {
+        "title": "Dynamische dialoog",
+        "desc": "Praat gewoon met de gids. Hij begrijpt context, volgt je nieuwsgierigheid en geeft antwoord met menselijke intelligentie."
+      },
+      "presence": {
+        "title": "Volledige aandacht",
+        "desc": "Ontworpen om je aandacht op de kunst te houden, niet op een scherm. Pure audio-onderdompeling, zonder digitale afleiding."
+      }
+    },
+    "interaction": {
+      "title": "Gebouwd voor musea.",
+      "quote": "Vertrouwd vanaf de eerste aanraking",
+      "desc": "De handset heeft een vertrouwde maar opvallend moderne vorm — geïnspireerd op klassieke telefoons. Het schermloze ontwerp elimineert afleiding en houdt de aandacht volledig bij de kunst.",
+      "tap": {
+        "title": "Tik om te starten",
+        "desc": "Tik op een object en het verhaal begint. Geen apps, geen QR-codes, geen gedoe."
+      },
+      "audio": {
+        "title": "Premium geluidskwaliteit",
+        "desc": "Helder, rijk geluid voor een premium, gefocuste bezoekerservaring."
+      }
+    },
+    "capabilities": {
+      "title": "Slimme technologie, gebouwd voor een hele museumdag.",
+      "desc": "De handset bevat meertalige Conversational AI die elke vraag direct beantwoordt, in de taal van de bezoeker.",
+      "items": {
+        "battery": {
+          "title": "6+ uur",
+          "desc": "Actief gebruik op één lading."
+        },
+        "latency": {
+          "title": "~2s reactietijd",
+          "desc": "Vrijwel directe AI-interactie."
+        },
+        "lang": {
+          "title": "12+ talen",
+          "desc": "Directe meertalige ondersteuning."
+        },
+        "privacy": {
+          "title": "Volledig privé",
+          "desc": "Geen dataopslag op het apparaat."
+        }
+      }
+    },
+    "formFactors": {
+      "label": "Vormen",
+      "title": "Één systeem. Elke vorm.",
+      "subtitle": "De ervaring blijft uitzonderlijk — de vorm past zich aan je museum aan.",
+      "comingSoon": "Binnenkort",
+      "designYourOwn": "Ontwerp je eigen",
+      "scrollHint": "Scroll om te verkennen",
+      "cards": {
+        "handset": {
+          "title": "De handset",
+          "desc": "Ons vlaggenschip. Direct vertrouwd en intuïtief in gebruik."
+        },
+        "box": {
+          "title": "De box",
+          "desc": "Compact en minimaal. Gebouwd voor AUX-first ervaringen."
+        },
+        "watch": {
+          "title": "Het horloge",
+          "desc": "AUX-first met eenvoudiger NFC-scanning onderweg."
+        },
+        "custom": {
+          "title": "Op maat",
+          "desc": "Ontwerp de vorm en kleur passend bij je ruimte, je bezoekers, je verhaal."
+        }
+      }
+    },
+    "feature_highlights": {
+      "label": "Ontdek",
+      "title1": "De",
+      "title2": "hoogtepunten",
+      "heading": "Hoogtepunten",
+      "slides": [
+        {
+          "title": "Gebouwd voor precisie",
+          "desc": "Strakke toleranties en hoogwaardige materialen zorgen voor duurzaamheid en betrouwbaarheid bij intensief dagelijks gebruik."
+        },
+        {
+          "title": "Directe AI-verwerking",
+          "desc": "Geoptimaliseerde rekenkracht levert snelle, natuurlijke gesprekken — bezoekers stellen vervolgvragen zonder enige vertraging.",
+          "link_text": "Toepassingen verkennen",
+          "link_href": "/use-cases"
+        },
+        {
+          "title": "Gebouwd voor een wereldwijd publiek",
+          "desc": "Geavanceerde meertalige ondersteuning maakt natuurlijke dialoog in tientallen talen mogelijk, zonder aparte apparaatversies."
+        },
+        {
+          "title": "Magnetisch docksysteem",
+          "desc": "Klikt naadloos in de Tree via magnetische aansluitingen — moeiteloos opladen en intuïtieve plaatsing voor personeel en bezoekers.",
+          "link_text": "Ontdek de Tree",
+          "link_href": "/tree"
+        },
+        {
+          "title": "Directe contentsync",
+          "desc": "Verstuur firmware-updates, nieuwe punten van interesse of talen op afstand en synchroniseer elke handset in seconden — zonder fysieke tussenkomst."
+        },
+        {
+          "title": "Begrijp bezoekersgedrag",
+          "desc": "Volg gedetailleerde betrokkenheidsdata en objectprestaties via het dashboard voor diepgaand inzicht in bezoekersinteresses.",
+          "link_text": "Ontdek het dashboard",
+          "link_href": "/dashboard"
+        },
+        {
+          "title": "Batterij voor een hele dag",
+          "desc": "Hoge capaciteit, ontworpen om museumopening tot -sluiting te overbruggen — elke bezoeker krijgt een volledige ervaring."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Breng je objecten tot leven",
+      "desc": "Klaar om bezoekers een onvergetelijke ervaring te geven? Laten we bespreken hoe de handset past bij jouw museum. Pilots van 90 dagen beschikbaar.",
+      "btn": "Reserveer je demo",
+      "btnSecondary": "Prijsopgave aanvragen"
+    },
+    "rotate_scrollytelling": {
+      "label": "Elegant.",
+      "highlight": "Strak.",
+      "rest": "Intelligent."
+    },
+    "explodedView": {
+      "heading1": "Gebouwd met precisie",
+      "heading2": "Onzichtbare intelligentie",
+      "scrollHint": "Scroll om te verkennen",
+      "para1": "Elk onderdeel is bewust geplaatst — voor maximale prestaties, zonder de iconische vorm aan te tasten.",
+      "para2": "Een complex hardware-ecosysteem, verpakt in een vormfactor die direct vertrouwd aanvoelt.",
+      "components": {
+        "audio": {
+          "label": "High-Resolution Audio Output",
+          "sublabel": "Natuurlijk geluid"
+        },
+        "nfc": {
+          "label": "NFC-lezer",
+          "sublabel": "Direct starten met tikken"
+        },
+        "battery": {
+          "label": "18650 Li-ion accu",
+          "sublabel": "Hoge capaciteit voor lange rondleidingen"
+        },
+        "haptic": {
+          "label": "Haptische motor",
+          "sublabel": "Tactiele terugkoppeling"
+        },
+        "core": {
+          "label": "Processor",
+          "sublabel": "Snelle AI-verwerking"
+        },
+        "mic": {
+          "label": "Digitale microfoon",
+          "sublabel": "Spraak-naar-tekst"
+        }
+      }
+    }
+  },
+  "tree": {
+    "cta": {
+      "title1": "Benieuwd naar de ",
+      "magic": "magie",
+      "title2": " achter de schermen?",
+      "desc": "Onze engineers lichten graag de volledige technische architectuur toe.",
+      "btn": "Praat met een expert"
+    },
+    "hero": {
+      "label": "Ruggengraat-architectuur",
+      "title": "De Tree.",
+      "desc": "De motor achter je audiogidssysteem. Laadt op, synchroniseert en levert AI-kennis op elk apparaat — zodat je team dat nooit hoeft te doen.",
+      "explore": "Verkennen",
+      "bullets": {
+        "ai": "AI volledig on-site verwerkt",
+        "infra": "Volledig zelfstandige infrastructuur",
+        "runs": "Beheert zichzelf, van begin tot eind"
+      }
+    },
+    "infrastructure": {
+      "label": "Infrastructuur",
+      "title": "Moderne infrastructuur voor een moderne gids.",
+      "desc": "De Tree vormt een betrouwbare basis door alle berekeningen en bestandsoverdrachten lokaal te verwerken — waardoor het systeem razendsnel en onafhankelijk van externe diensten blijft.",
+      "points": {
+        "stable": "Snel, stabiel en onafhankelijk van externe clouddiensten.",
+        "simple": "Vereenvoudigt het begin en einde van elke museumdag.",
+        "updates": "Automatische updates en oplaadbeheersing zonder handmatige controles."
+      },
+      "clean": {
+        "title": "Gebouwd voor betrouwbaarheid op schaal.",
+        "desc": "Alle bezoekapparaten volledig opgeladen, gesynchroniseerd en klaar voor de dag."
+      },
+      "quote": {
+        "label": "Core",
+        "heading": "Gebouwd voor betrouwbaarheid op schaal zodat alles altijd werkt.",
+        "headingPrefix": "Gebouwd voor betrouwbaarheid op schaal zodat alles altijd",
+        "headingUnderlined": "werkt."
+      }
+    },
+    "operational": {
+      "label": "Systeemoperatie",
+      "title1": "Operationele",
+      "title2": "harmonie.",
+      "desc": "De Tree beheert de complexiteit van je audiogidssysteem, zodat je personeel zich kan richten op wat telt: de bezoekers.",
+      "engine": {
+        "title": "Autonome on-site verwerking & distributie",
+        "desc": "Een supersnelle lokale hub die alle AI-verwerking afhandelt en content-updates veilig verstuurt naar elke handset. Volledig onafhankelijk van externe servers, zonder merkbare vertraging.",
+        "tags": {
+          "compute": "On-premise verwerking",
+          "sync": "Directe sync"
+        }
+      },
+      "power": {
+        "title": "Slim apparaatbeheer",
+        "desc": "Adaptief opladen dat handsets prioriteert op basis van batterijniveau en gebruikspatronen. Begin nooit meer een museumdag met lege apparaten.",
+        "status": "Snelladen actief"
+      },
+      "presentation": {
+        "title": "Geïntegreerde opslag en presentatie",
+        "desc": "Apparaten worden opgeslagen, opgeladen en gepresenteerd als onderdeel van de museumomgeving — altijd georganiseerd, toegankelijk en klaar."
+      },
+      "sync": {
+        "title": "Automatische synchronisatie op de achtergrond",
+        "desc": "Alle activiteit wordt on-site verwerkt en zichtbaar in het analytics-dashboard — je team heeft volledig inzicht zonder afhankelijkheid van externe systemen."
+      }
+    },
+    "tailored": {
+      "title": "Op maat voor je museum.",
+      "desc": "Elk museum heeft zijn eigen karakter — en de Tree is gebouwd om dat te respecteren. We passen de vorm, afwerking en materialen aan zodat het naadloos aansluit op je zalen.",
+      "items": {
+        "custom": {
+          "title": "Maatwerk design",
+          "desc": "Minimalistisch acryl, sculpturaal metaal, of volledig op maat — afgestemd op je ruimte."
+        },
+        "last": {
+          "title": "Gebouwd voor dagelijks gebruik",
+          "desc": "Duurzame materialen die uiterlijk en prestaties behouden bij constant gebruik."
+        },
+        "scale": {
+          "title": "Schaalbaar systeemontwerp",
+          "desc": "Geconfigureerd voor 20 tot 200+ apparaten — passend bij de schaal van je museum."
+        },
+        "collab": {
+          "title": "Samenwerking met kunstenaars",
+          "desc": "Optionele samenwerking met lokale kunstenaars om de identiteit van je instelling tot uiting te brengen."
+        }
+      }
+    },
+    "automate": {
+      "headline": "Alles draait lokaal. Geen beheer nodig.",
+      "intro": "De Tree beheert het systeem op de achtergrond — elk apparaat klaar, elke interactie direct, alles gesynchroniseerd.",
+      "outcome1": {
+        "title": "Elk apparaat is klaar voordat de deuren opengaan",
+        "pills": [
+          "Slimme laadprioritering",
+          "Synchronisatie buiten openingstijd",
+          "Controle van alle apparaten"
+        ]
+      },
+      "outcome2": {
+        "title": "Onmiddellijke prestaties, onafhankelijk van externe systemen",
+        "pills": [
+          "On-premise verwerking",
+          "Lokale bestandsdistributie",
+          "Offline-first architectuur"
+        ]
+      },
+      "outcome3": {
+        "title": "Geautomatiseerd opladen en synchroniseren",
+        "pills": [
+          "Synchronisatie buiten piekuren",
+          "Slim energiebeheer",
+          "Updates op de achtergrond"
+        ]
+      }
+    },
+    "connectivity": {
+      "label": "Connectiviteit",
+      "title": "Veilig, betrouwbaar, offline-first.",
+      "onsite": {
+        "title": "Lokaal on-site netwerk",
+        "desc": "Werkt ononderbroken, ook zonder internet."
+      },
+      "encrypted": {
+        "title": "Versleutelde kanalen",
+        "desc": "Alle communicatie is geverifieerd en beveiligd."
+      },
+      "autonomous": {
+        "title": "Nul externe afhankelijkheden",
+        "desc": "Geen cloud. Geen externe servers. Volledig on-premise audiogidssysteem."
+      },
+      "cta": {
+        "desc": "Meer weten over hoe de Tree alles achter de schermen regelt?",
+        "btn": "Praat met een expert"
+      }
+    },
+    "optionalLabel": "Optioneel"
+  },
+  "dashboard": {
+    "cta": {
+      "label": "Boek een live demo",
+      "headline": "Zie hoe je museum er écht uitziet in de {{numbers}}",
+      "subheadline": "Loop door het dashboard, verken echte scenario's en begrijp wat er verandert zodra je ziet hoe bezoekers zich daadwerkelijk gedragen.",
+      "numbersWord": "cijfers",
+      "primary": "Boek een live demo",
+      "secondary": "Bekijk het dashboard in actie"
+    },
+    "hero": {
+      "label": "Real time analytics",
+      "title": "Begrijp je bezoekers, helder",
+      "subtitle": "Nieuwsgierigheid in beeld.",
+      "desc": "Volg betrokkenheid, talenmix en populaire objecten in real-time — alles on-site verwerkt, volledig privé."
+    },
+    "visuals": {
+      "label": "Zie het in de praktijk",
+      "title": "Zo ziet de data eruit.",
+      "engagement": {
+        "title": "Actieve betrokkenheid",
+        "desc": "Real time inzicht in bezoekersinteresse en verblijftijd in elke zaal."
+      },
+      "mix": {
+        "title": "Talenmix",
+        "desc": "Het wereldwijde bereik van je museum zichtbaar via real-time taalstatistieken."
+      },
+      "popularity": {
+        "title": "Populaire objecten",
+        "desc": "Zie precies welke stukken de meeste gesprekken en nieuwsgierigheid opwekken."
+      },
+      "reach": {
+        "title": "Bezoekersbereik",
+        "desc": "Volg hoe je tentoonstellingen aansluiten bij verschillende publieksgroepen."
+      }
+    },
+    "gallery": {
+      "label": "Overzicht van functies",
+      "title": "Elk kunstwerk vertelt een verhaal",
+      "scrollHint": "Scroll naar beneden om te verkennen",
+      "expandTip": "Klik om te vergroten",
+      "cards": {
+        "inviteUsers": "Gebruikers uitnodigen",
+        "completionRates": "Voltooiingspercentage",
+        "artifacts": "Kunstwerken",
+        "home": "Start",
+        "languageMix": "Taalverdeling",
+        "analytics": "Data-analyse",
+        "status": "Status"
+      }
+    },
+    "scrollytelling": {
+      "title": "Inzichten voor impactvolle ervaringen.",
+      "labels": {
+        "insights": "Krachtige inzichten",
+        "interface": "Gebruiksvriendelijke interface",
+        "team": "Direct inzetbaar voor je team",
+        "glance": "Alles in één oogopslag"
+      }
+    },
+    "trust": {
+      "title1": "Privacy eerst.",
+      "title2": "Gebouwd op vertrouwen.",
+      "desc": "Alle inzichten zijn afkomstig van lokale gebruiksdata. Er worden geen persoonsgegevens opgeslagen op de handset, en je museum behoudt de controle over wat er verzameld wordt en hoe het gebruikt wordt."
+    },
+    "metrics": {
+      "label": "Statistieken",
+      "title": "Gecombineerd inzicht.",
+      "desc": "Het dashboard brengt elk signaal dat Tree'd verzamelt samen in één overzichtelijk beeld. Alle statistieken worden helder en altijd anoniem gepresenteerd — zodat musea een duidelijk inzicht krijgen van hoe bezoekers verkennen, leren en door de ruimtes bewegen.",
+      "behavior": {
+        "title": "Bezoekersgedrag",
+        "items": [
+          "Populaire routes door het museum",
+          "Heatmap van beweging per zaal",
+          "Verblijftijd per bezoek en per object",
+          "Populariteit van specifieke thema's en collecties"
+        ]
+      },
+      "interaction": {
+        "title": "Luisteren & vragen",
+        "items": [
+          "Voltooiingspercentages van audiotracks",
+          "Vervolgvragen gesteld aan de AI",
+          "Meest voorkomende thema's van vervolgvragen",
+          "Aantal objectscans per bezoeker"
+        ]
+      },
+      "language": {
+        "title": "Taal & herkomst",
+        "items": [
+          "Uitsplitsing van taalkeuze door bezoekers",
+          "Verschuiving in taaltrends over tijd",
+          "Objectpopulariteit per taalgroep"
+        ]
+      },
+      "system": {
+        "title": "Systeemstatus",
+        "items": [
+          "Actieve handsets in het museum",
+          "Batterijgezondheid en laadcycli",
+          "Laadtijd en dockingstatus",
+          "Signaalkwaliteit in alle zalen"
+        ]
+      }
+    },
+    "privacy": {
+      "label": "Privacy",
+      "headline1": "Privacy is geen instelling.",
+      "headline2": "Het zit in de architectuur.",
+      "pills": [
+        "Geen stemopnames",
+        "Geen bezoekersprofielen",
+        "On-premise verwerking",
+        "AVG-conform"
+      ],
+      "statements": [
+        {
+          "title": "Geen stemopnames, nooit.",
+          "body": "Gesprekken met de gids worden in real-time verwerkt en direct verwijderd. Niets wordt opgeslagen op de handset. Niets verlaat het museum."
+        },
+        {
+          "title": "Geen bezoekersprofielen, ooit.",
+          "body": "Het dashboard toont patronen in je publiek — nooit data gekoppeld aan een individu. Je leert wat bezoekers doen, niet wie ze zijn."
+        },
+        {
+          "title": "On-premise, by design.",
+          "body": "Alle data wordt lokaal verwerkt op de Tree, je on-site AI-hub. Het raakt nooit een externe server. Je bepaalt wat er verzameld wordt, hoe het wordt gebruikt en wie het kan inzien."
+        },
+        {
+          "title": "AVG-conform, door het ontwerp",
+          "body": "De meeste tools voldoen aan de AVG via cookiebanners en verwerkingsovereenkomsten. Tree'd voldoet omdat de data nooit bestaat in een vorm waarvoor toestemming nodig is."
+        }
+      ]
+    },
+    "actions": {
+      "title1a": "Zet",
+      "title1b": "statistieken",
+      "title2": "om in acties.",
+      "desc": "Dit is wat elke categorie je concreet vertelt en hoe je het inzet,",
+      "descHighlight": "van data naar beslissingen",
+      "hoverHint": "Beweeg je cursor om te verkennen",
+      "exampleDecisions": "Voorbeeldbeslissingen",
+      "cards": [
+        {
+          "category": "Bezoekersgedrag",
+          "action": "Weet welke ruimtes werken en welke niet — en pas aan.",
+          "body": "Zie waar bezoekers vertragen, welke thema's ze blijven opzoeken en welke zalen ze verliezen. Nu heb je een reden om te reorganiseren.",
+          "decisions": [
+            "Herorden slecht presterende zalen",
+            "Pas de plaatsing van objecten aan",
+            "Herontwerp de bezoekersroute"
+          ]
+        },
+        {
+          "category": "Luisteren & vragen",
+          "action": "Zie waar bezoekers echt mee bezig zijn",
+          "body": "Zie welke audiofragmenten worden afgeluisterd, welke worden overgeslagen en wat bezoekers daarna vragen. Je ziet snel wat aandacht trekt en wat verbetering behoeft.",
+          "decisions": [
+            "Herschrijf zwakke verhalen",
+            "Voeg diepte toe waar nieuwsgierigheid hoog is",
+            "Verwijder content die wordt overgeslagen"
+          ]
+        },
+        {
+          "category": "Taal & herkomst",
+          "action": "Zet aannames om in helder publieksinzicht.",
+          "body": "Zie welke talen bezoekers kiezen, hoe dat door de tijd verandert en welke groepen bij welke objecten betrokken raken.",
+          "decisions": [
+            "Pas bordteksten aan",
+            "Zet meertalig personeel gericht in",
+            "Stem content af op bezoekersgroepen"
+          ]
+        },
+        {
+          "category": "Systeemstatus",
+          "action": "Je personeel beheert bezoekers. Niet hardware.",
+          "body": "Batterijniveaus, dockingstatus, signaalkwaliteit — alles zichtbaar voordat de deuren opengaan. Geen verrassingen op de vloer.",
+          "decisions": [
+            "Identificeer apparaten die opladen nodig hebben",
+            "Bepaal het benodigde aantal apparaten",
+            "Zorg voor volledige systeemgereedheid"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "hero": {
+      "title1": "Veelgestelde",
+      "title2": "vragen",
+      "desc": "Duidelijke antwoorden over Tree'd, het ecosysteem en hoe implementaties werken voor musea."
+    },
+    "categories": [
+      {
+        "category": "Bezoekerservaring",
+        "items": [
+          {
+            "q": "Wat is een AI-museumgids?",
+            "a": "Een AI-museumgids is een conversationeel systeem waarmee bezoekers tentoonstellingen op eigen tempo verkennen, gecureerde verhalen beluisteren en vervolgvragen stellen in real time. In plaats van vaste opnames af te spelen, reageert het dynamisch op de nieuwsgierigheid van de bezoeker — voor een [bezoekerservaring](/visitor-experience) die persoonlijker, interactiever en boeiender is."
+          },
+          {
+            "q": "Hoe werkt Tree'd voor bezoekers?",
+            "a": "Bezoekers pakken een [handset](/handset), tikken op een NFC-taalpaneel om hun taal te kiezen en beginnen te verkennen. Bij een object met een Tree'd-sensor tikken ze erop om het verhaal te horen. Daarna kunnen ze elke vervolgvraag stellen."
+          },
+          {
+            "q": "Welke talen worden ondersteund?",
+            "a": "Tree'd ondersteunt momenteel 12+ talen op moedertaalniveau, waaronder Engels, Nederlands, Frans, Duits, Spaans en Italiaans. We voegen voortdurend nieuwe talen toe."
+          },
+          {
+            "q": "Moeten bezoekers een app downloaden?",
+            "a": "Nee. Tree'd is een fysiek, schermvrij systeem. Geen apps, geen accounts, geen eigen apparaat nodig."
+          },
+          {
+            "q": "Is het systeem toegankelijk voor alle leeftijden?",
+            "a": "Ja. De [bezoekerservaring](/visitor-experience) is bewust eenvoudig — tikken en praten. Intuïtief voor kinderen, ouderen en iedereen daartussenin."
+          }
+        ]
+      },
+      {
+        "category": "Hardware & de handset",
+        "items": [
+          {
+            "q": "Hoe lang gaat de batterij mee?",
+            "a": "Tot 6 uur actief gebruik. Met snelladen is [de handset](/handset) in ongeveer een uur terug op 50% — ruim voldoende voor een volledige museumdag."
+          },
+          {
+            "q": "Hoeveel handsets kan één Tree ondersteunen?",
+            "a": "Dat hangt af van je configuratie. [De Trees](/tree) zijn modulair en worden afgestemd op het benodigde aantal handsets."
+          },
+          {
+            "q": "Heeft Tree'd technisch personeel nodig?",
+            "a": "Nee. Tree'd is ontworpen zodat musea het systeem zelf kunnen beheren, zonder extra technische medewerkers."
+          },
+          {
+            "q": "Werkt Tree'd in drukbezochte musea?",
+            "a": "Ja. Laadcapaciteit, synchronisatiegedrag en lokale verwerking zijn ontworpen voor continu en [grootschalig gebruik](/use-cases)."
+          }
+        ]
+      },
+      {
+        "category": "Technologie & AI",
+        "items": [
+          {
+            "q": "Is een stabiele internetverbinding nodig?",
+            "a": "Alleen voor initiële installatie en periodieke updates. Dagelijks gebruik draait volledig op het lokale netwerk — storingen beïnvloeden de bezoekerservaring niet."
+          },
+          {
+            "q": "Waar draait het AI-model?",
+            "a": "Lokaal. [De Tree](/tree) host de kennisset, taalmodellen en updates van je museum — niets is afhankelijk van externe servers tijdens gebruik. Dit zorgt voor minder energieverbruik en snellere antwoorden via [Conversational AI](/solution)."
+          },
+          {
+            "q": "Kunnen we bepalen wat de AI zegt?",
+            "a": "Ja. Alle AI-kennis is museum-goedgekeurd en gecureerd. Het model blijft binnen de door jou gedefinieerde inhoudsgrenzen en raadpleegt NOOIT het internet of externe bronnen."
+          },
+          {
+            "q": "Kan Tree'd vragen beantwoorden die specifiek zijn voor onze collectie?",
+            "a": "Ja. We bouwen voor elk museum een [eigen kennisbank](/solution), gericht op je kunstwerken, thema's en context."
+          },
+          {
+            "q": "Hoe nauwkeurig zijn de AI-antwoorden?",
+            "a": "100% nauwkeurig. Antwoorden volgen museum-goedgekeurde content en blijven altijd feitelijk, gepast en in lijn met je curatorische standaarden. Hierdoor is er 0% kans op AI-hallucinaties."
+          }
+        ]
+      },
+      {
+        "category": "Installatie & implementatie",
+        "items": [
+          {
+            "q": "Hoe ziet de installatie eruit?",
+            "a": "[De Tree](/tree) wordt aangesloten op stroom en het lokale netwerk. Handsets worden gekoppeld en vereisen geen verdere setup. De meeste musea zijn binnen enkele uren volledig operationeel."
+          },
+          {
+            "q": "Bieden jullie pilots aan?",
+            "a": "Ja. We bieden [pilotprogramma's](/booking) aan, afhankelijk van de regio en beschikbaarheid."
+          },
+          {
+            "q": "Kan het uiterlijk van de hub (de Tree) worden aangepast aan onze ruimte of tentoonstelling?",
+            "a": "Ja. Het fysieke ontwerp, de materialen en afwerking van [de Tree](/tree) kunnen worden afgestemd op je museum — of worden gerealiseerd in samenwerking met een lokale kunstenaar."
+          }
+        ]
+      },
+      {
+        "category": "Prijzen & licenties",
+        "items": [
+          {
+            "q": "Bieden jullie revenue sharing of abonnementsmodellen aan?",
+            "a": "Ja. Tree'd biedt flexibele commerciële modellen, waaronder [inkomstendeling](/revenue-sharing) en heldere abonnementen. Het percentage varieert op basis van het jaarlijkse bezoekersvolume. Voor musea die de voorkeur geven aan voorspelbare budgettering, bieden we ook een abonnementsmodel dat hardware, software, multimedia en het volledige Tree'd-ecosysteem omvat."
+          },
+          {
+            "q": "Voldoet Tree'd aan privacywetgeving?",
+            "a": "Ja. Privacy-by-design staat centraal in onze architectuur. We verzamelen nooit persoonsgegevens van bezoekers, slaan geen stemopnames op en verwerken alle [analytics](/dashboard) anoniem op locatie. Tree'd is daarmee een veilige en conforme keuze voor musea die AI-bezoekerssystemen evalueren."
+          }
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Kenniscentrum",
+      "headlinePart1": "Alles wat je moet weten over",
+      "headlinePart2": "museumgidsen",
+      "subtitle": "Eerlijke vergelijkingen, prijsgidsen en praktische bronnen voor museumleiders die AI-audiogidsen evalueren."
+    },
+    "filters": {
+      "all": "Alles",
+      "news": "Nieuws",
+      "ai_audio_guides": "AI-audiogidsen",
+      "museum_operations": "Museumoperaties",
+      "visitor_experience": "Bezoekerservaring",
+      "treed_perspective": "Tree'd-perspectief",
+      "pricing": "Prijzen",
+      "comparisons": "Vergelijkingen"
+    },
+    "tags": {
+      "ai_audio_guides": "AI-audiogidsen",
+      "museum_operations": "Museumoperaties",
+      "visitor_experience": "Bezoekerservaring",
+      "treed_perspective": "Tree'd-perspectief",
+      "pricing": "Prijzen",
+      "comparisons": "Vergelijkingen",
+      "news": "Nieuws"
+    },
+    "sections": {
+      "featured": "Uitgelicht",
+      "browseByCategory": "Bladeren op categorie",
+      "allArticles": "Alle artikelen"
+    },
+    "featured": {
+      "badge": "Uitgelicht",
+      "readArticle": "Lees artikel"
+    },
+    "categoryCards": {
+      "viewAll": "Bekijk alles",
+      "articleCount_one": "{{count}} artikel",
+      "articleCount_other": "{{count}} artikelen",
+      "descriptors": {
+        "ai_audio_guides": "Technologie, formaten en mogelijkheden",
+        "museum_operations": "Aankoop, besluitvorming en implementatie",
+        "visitor_experience": "Betrokkenheid, tevredenheid en toegang",
+        "treed_perspective": "Inzichten en perspectief van binnenuit het product",
+        "pricing": "Kosten, modellen en budgetplanning",
+        "comparisons": "Rechtstreekse vergelijkingen voor besluitvormers",
+        "news": "Samenwerkingen, implementaties en bedrijfsmijlpalen"
+      }
+    },
+    "faqCard": {
+      "title": "Veelgestelde vragen",
+      "description": "Antwoorden op veelgestelde vragen over het Tree'd-systeem, de implementatie en het gebruik"
+    },
+    "grid": {
+      "read": "Lees",
+      "minRead": "{{count}} min lezen",
+      "minShort": "{{count}} min",
+      "noArticles": "Nog geen artikelen in deze categorie."
+    },
+    "cta": {
+      "eyebrow": "Pilot van 90 dagen",
+      "headline": "Klaar om Tree'd in actie te zien?",
+      "subtitle": "Start met een pilot van 90 dagen. Laag risico, vol bewijs.",
+      "button": "Plan een rondleiding van 30 minuten",
+      "buttonSecondary": "Prijsopgave aanvragen",
+      "buttonMobile": "Plan een demo"
+    },
+    "articlePage": {
+      "backToBlog": "Alle informatie",
+      "publishedOn": "Gepubliceerd",
+      "minRead": "{{count}} min lezen",
+      "relatedArticles": "Gerelateerde artikelen",
+      "shareLabel": "Delen",
+      "ctaEyebrow": "Pilot van 90 dagen",
+      "ctaHeadline": "Zie Tree'd in actie",
+      "ctaSubtitle": "Start met een risicovrije pilot van 90 dagen. Wij verzorgen de setup.",
+      "ctaPrimary": "Plan een rondleiding van 30 minuten",
+      "ctaSecondary": "Bekijk alle informatie",
+      "notFound": "Artikel niet gevonden.",
+      "browseAll": "Blader door alle informatie",
+      "ctaPrimaryMobile": "Plan een demo"
+    },
+    "categoryPage": {
+      "allResources": "Alle informatie",
+      "count_one": "{{count}} artikel",
+      "count_other": "{{count}} artikelen",
+      "seoTitle": "{{categoryName}} — Museumgids-informatie | Tree'd",
+      "seoDescription": "{{descriptor}} Praktische bronnen voor museumleiders die audiosystemen evalueren.",
+      "noArticles": "Nog geen artikelen in deze categorie.",
+      "browseAll": "Blader door alle informatie",
+      "featuredSection": "Topstukken",
+      "sortLatest": "Meest recent",
+      "ctaHeadline": "Klaar om Tree'd in actie te zien?",
+      "ctaSubtitle": "Start met een pilot van 90 dagen. Laag risico, vol bewijs.",
+      "ctaPrimary": "Plan een rondleiding van 30 minuten",
+      "ctaSecondary": "Bekijk alle informatie"
+    },
+    "categoryContent": {
+      "ai_audio_guides": {
+        "heroTitle": "AI-museumgidsen: technologie, formaten en hoe ze werken",
+        "heroIntro": "Van conversationele AI-handsets tot vooraf opgenomen wandelgidsen — niet alle audiogidstechnologie is gelijk. Deze bronnen helpen museumleiders de formaten te begrijpen, de verschillen te evalueren en vol vertrouwen te kiezen.",
+        "highlights": [
+          "Conversationele AI versus vooraf opgenomen formaten",
+          "Hoe AI-gidsen in real-time antwoord geven op bezoekersvragen",
+          "De juiste technologie kiezen voor je instelling"
+        ]
+      },
+      "museum_operations": {
+        "heroTitle": "Museum-audiogidsoperaties: aankoop, implementatie en bestuursakkoord",
+        "heroIntro": "Praktische bronnen voor museumleiders in elke fase van de audiogids-beslissing — van eerste evaluatie tot bestuursakkoord tot go-live. Opgesteld rond de vragen die ertoe doen.",
+        "highlights": [
+          "Kaders voor het vergelijken en evalueren van systemen",
+          "Hoe je het business case voor je bestuur opbouwt",
+          "Pilot-planning en implementatierichtlijnen"
+        ]
+      },
+      "visitor_experience": {
+        "heroTitle": "Hoe museumgidsen de bezoekerservaring bepalen",
+        "heroIntro": "Het formaat dat je implementeert bepaalt hoe bezoekers verkennen, betrokken raken en terugkeren. Deze bronnen richten zich op de bezoekerskant van audiogids-beslissingen — wat werkt, wat de gegevens laten zien en hoe je het meet.",
+        "highlights": [
+          "Betrokkenheid en verblijftijd over verschillende gidsformaten",
+          "Meertalige toegang en toegankelijkheidsaspecten",
+          "Bezoekersvoldoening en resultaten meten"
+        ]
+      },
+      "treed_perspective": {
+        "heroTitle": "Tree'd-perspectief: inzichten van het bouwen van AI-museumgidsen",
+        "heroIntro": "Eerlijk perspectief van het team dat Tree'd bouwt — wat we hebben geleerd van echte museumimplementaties, waarom we de productbeslissingen nemen die we nemen, en wat we denken over het bredere museumtechnologielandschap.",
+        "highlights": [
+          "Lessen uit echte museumimplementaties",
+          "Waarom we Tree'd op deze manier ontwerpen",
+          "Ons eerlijke oordeel over de museum tech-markt"
+        ]
+      },
+      "pricing": {
+        "heroTitle": "Museumgids-prijzen: totale kosten, modellen en budgetplanning",
+        "heroIntro": "Duidelijke en transparante prijsinformatie. Deze bronnen delen de werkelijke kosten van museumgidssystemen — hardware, software, setup en doorlopende kosten — over elk belangrijk formaat.",
+        "highlights": [
+          "Totale eigendomskosten over alle grote formaten",
+          "Licentie- en implementatiemodel-overzichten",
+          "Hoe je een realistisch audiogids-budget bouwt"
+        ]
+      },
+      "comparisons": {
+        "heroTitle": "Museumgids-vergelijkingen: directe evaluaties",
+        "heroIntro": "Rechtstreekse vergelijkingen tussen formaten, systemen en benaderingen. Ontworpen om museumleiders door leveranciersclaims heen te snijden en opties te evalueren op basis van wat voor hun instelling van belang is.",
+        "highlights": [
+          "AI-gidsen versus traditionele gidsen direct vergeleken",
+          "Toegewijde handsets, mobiele apps en QR-codes zij aan zij",
+          "Systeem-voor-systeem evaluaties voor 2026"
+        ]
+      },
+      "news": {
+        "heroTitle": "Tree'd nieuws: partnerschappen, implementaties en mijlpalen",
+        "heroIntro": "De laatste aankondigingen van Tree'd — nieuwe museumpartnerschappen, live implementaties en belangrijke mijlpalen in onze groei door Europa en het Midden-Oosten.",
+        "highlights": [
+          "Nieuwe museumpartnerschappen en live implementaties",
+          "Mijlpalen en productaankondigingen",
+          "Updates over de expansie van Tree'd in Europa en MENA"
+        ]
+      }
+    },
+    "articles": {
+      "1": {
+        "title": "Wat is een AI-museumgids?",
+        "excerpt": "De meeste bezoekers denken dat een audiogids een script afspeelt. Een AI-gids geeft antwoord op vragen die ze niet hadden gepland. Wat dat voor musea betekent, duidelijk uitgelegd."
+      },
+      "2": {
+        "title": "Wat is een conversationele audiogids?",
+        "excerpt": "Een conversationele gids speelt geen script af. Hij luistert, reageert en past zich aan. Dit betekent het echt voor je museumvloer."
+      },
+      "3": {
+        "title": "Hoeveel kost een museumgids?",
+        "excerpt": "Er is geen vast getal — en begrijpen waarom is nuttiger dan welke prijslijst dan ook. Een uitgebreide blik op de kostenversnellers die bepalen wat een audiogidssysteem je instelling zal kosten."
+      },
+      "4": {
+        "title": "AI-audiogids versus traditionele audiogids: wat verschilt echt",
+        "excerpt": "De handset ziet er vergelijkbaar uit. De ervaring is totaal anders. Een directe, eerlijke vergelijking van wat AI-gidsen anders doen — en waar traditionele gidsen nog steeds hun plaats hebben."
+      },
+      "5": {
+        "title": "Museumgids versus mobiele app: wat is geschikt voor jouw instelling?",
+        "excerpt": "Apps beloven flexibiliteit. Toegewijde gidsen beloven betrouwbaarheid. Deze vergelijking helpt leiders beslissen welk model past bij hun bezoekersprofiel, budget en operationele beperkingen."
+      },
+      "6": {
+        "title": "Meertalige bezoekers, één museum: hoe gidsen taal aanpakken",
+        "excerpt": "De meeste musea bieden hun gids in drie of vier talen en noemen het meertalig. Hun internationale bezoekers ervaren iets anders. Een kijk op hoe taal-toegang echt werkt over elk belangrijk gidsformaat."
+      },
+      "7": {
+        "title": "NFC-tags versus nummerinvoer in museumgidsen: wat de activatiekeuze echt betekent voor bezoekers",
+        "excerpt": "Nummerinvoer en NFC-tappen zijn twee manieren om dezelfde content op te roepen — maar ze leveren verschillende bezoekerservaringen op. Een eerlijke vergelijking van beide activatiemethoden."
+      },
+      "8": {
+        "title": "Waarom betere audiogidsinhoud bezoekerstevredenheid niet zal oplossen",
+        "excerpt": "Als betrokkenheid laag is, is het instinct inhoud verbeteren — betere scripts, rijkere productie, meer talen. Het werkt zelden. De beperking is niet de inhoud. Het is de architectuur."
+      },
+      "9": {
+        "title": "Waarom museumbezoekers stopten met gidsen — en wat ze echt betrokken houdt",
+        "excerpt": "De meeste bezoekers pakken de gids, gebruiken hem een paar stops en leggen hem neer. Het probleem is niet de inhoud. Het is het formaat. Een blik op waarom disengagement gebeurt."
+      },
+      "10": {
+        "title": "Het schermprobleem in museumgalerijen: waarom de beste gids ogen op kunst houdt",
+        "excerpt": "Bezoekers vragen hun smartphones als museumgidsen te gebruiken betekent concurreren met elke notificatie, app en afleiding op hetzelfde apparaat. Een blik op wat schermgebruik kost in een galerij-context."
+      },
+      "11": {
+        "title": "De vragen die bezoekers nooit mogen stellen (en wat gebeurt als ze kunnen)",
+        "excerpt": "Musea hebben interpretatie decennialang ontworpen rond wat conservatoren aannemen dat bezoekers willen weten. Conversationele gidsen onthullen wat bezoekers echt vragen. De kloof tussen die twee is cruciaal."
+      },
+      "12": {
+        "title": "De museumgids-pilot van 90 dagen: wat je kunt verwachten en hoe je het meet",
+        "excerpt": "Een pilot van 90 dagen verwijdert het giswerk. Deze gids loopt je door wat je kunt volgen, wat je kunt verwachten en hoe je resultaten aan je leidingsteam presenteert."
+      },
+      "13": {
+        "title": "Hoe museumleiders gidsen in 2026 zouden moeten evalueren",
+        "excerpt": "De meeste gids-evaluaties stellen de verkeerde vragen. Een raamwerk gericht op de 7 beslissingen die gidsen scheiden die bezoekers echt gebruiken van stille onderperformers."
+      },
+      "14": {
+        "title": "Voorbij taal: wat museumgids-toegankelijkheid echt vereist",
+        "excerpt": "Meertalige ondersteuning is één dimensie van audiogids-toegankelijkheid. Het is niet het hele plaatje. Een blik op wat echt inclusief gidsontwerp vereist."
+      },
+      "15": {
+        "title": "Abonnement, licentie of per-bezoek: hoe museumgids-prijzen echt werken",
+        "excerpt": "De prijs die een leverancier aanhaalt en de prijs die een museum over vijf jaar betaalt zijn zelden hetzelfde getal. Een duidelijke gids voor hoe audiogids-prijsmodellen zijn opgebouwd."
+      },
+      "16": {
+        "title": "Tree'd ondertekent eerste museumpartnerschap met Fayoum Art Center",
+        "excerpt": "Tree'd kondigt zijn eerste commerciële museumpartnerschap in Egypte aan — ondertekend met Fayoum Art Center, thuis van MENA's eerste karikatuuromuseum."
+      }
+    }
+  },
+  "requestPricing": {
+    "hero": {
+      "label": "Prijsopgave aanvragen",
+      "headline": "Krijg een maatwerk offerte in <0>1 werkdag</0>.",
+      "subheadline": "Vertel ons over je museum, tentoonstelling en implementatiebehoeften. We stellen een maatwerk offerte op op basis van je scope."
+    },
+    "support": {
+      "headline": "Liever eerst bespreken?",
+      "body": "Krijg een snelle rondleiding door het systeem, implementatieopties en wat je offerte bepaalt.",
+      "ctaPrimary": "Plan een consultatie",
+      "ctaSecondary": "Bel ons"
+    },
+    "form": {
+      "headline": "Vertel ons over je project",
+      "intro": "Duurt minder dan 2 minuten. We gebruiken je invoer om een maatwerk offerte op te stellen.",
+      "steps": {
+        "1": {
+          "title": "Over jou"
+        },
+        "2": {
+          "title": "Je museum"
+        },
+        "3": {
+          "title": "Projectbereik"
+        },
+        "4": {
+          "title": "Laatste details"
+        }
+      },
+      "navigation": {
+        "continue": "Doorgaan",
+        "back": "Terug",
+        "submit": "Mijn offerte aanvragen"
+      },
+      "step1": {
+        "firstName": "Voornaam",
+        "lastName": "Achternaam",
+        "email": "Werkmail",
+        "phone": "Telefoonnummer",
+        "organization": "Organisatienaam",
+        "jobTitle": "Functietitel"
+      },
+      "step2": {
+        "country": "Land",
+        "countryPlaceholder": "Selecteer een land",
+        "city": "Plaats",
+        "cityPlaceholder": "Voer je plaats in",
+        "usage": {
+          "label": "Waar zal je Tree'd gebruiken?",
+          "helper": "Selecteer alles wat van toepassing is",
+          "permanent": "Vaste tentoonstellingen",
+          "temporary": "Tijdelijke tentoonstellingen",
+          "special": "Bijzondere tentoonstellingen of evenementen",
+          "other": "Anders",
+          "otherPlaceholder": "Vertel ons meer over je gebruiksgeval"
+        },
+        "visitors": {
+          "label": "Geschat aantal jaarlijkse bezoekers",
+          "placeholder": "Selecteer een bereik",
+          "under50k": "Onder 50.000",
+          "50to200k": "50.000–200.000",
+          "200to500k": "200.000–500.000",
+          "500kplus": "500.000+"
+        },
+        "currentSolution": {
+          "label": "Huidge rondleidings- of gidsoplossing(en)",
+          "helper": "Selecteer alles wat van toepassing is",
+          "none": "Geen",
+          "audioGuides": "Traditionele audiogidsen",
+          "mobileApp": "Mobiele app-gids",
+          "liveGuides": "Live rondleiders",
+          "other": "Anders",
+          "otherPlaceholder": "Vertel ons meer over wat je momenteel gebruikt."
+        }
+      },
+      "step3": {
+        "placeholder": "Selecteer een optie",
+        "numGuides": {
+          "label": "Aantal benodigde audiogidsen",
+          "10to20": "10–20",
+          "21to50": "21–50",
+          "51to100": "51–100",
+          "100plus": "100+"
+        },
+        "numArtifacts": {
+          "label": "Aantal objecten of stops",
+          "10to25": "10–25",
+          "26to50": "26–50",
+          "51to100": "51–100",
+          "100plus": "100+"
+        },
+        "numLanguages": {
+          "label": "Aantal benodigde talen"
+        },
+        "timeline": {
+          "label": "Ideale lanceringstijdlijn",
+          "3months": "Binnen 3 maanden",
+          "6months": "Binnen 6 maanden",
+          "1year": "Binnen 1 jaar",
+          "exploring": "Nog verkenning"
+        }
+      },
+      "step4": {
+        "commercialModel": {
+          "label": "Geprefereerd commercieel model",
+          "directLicensing": "Directe licentie",
+          "revenueSharing": "Revenue sharing",
+          "notSure": "Nog onzeker",
+          "helperPrefix": "Eerst revenue sharing begrijpen?",
+          "helperLink": "Bekijk uitlegpagina"
+        },
+        "additionalInfo": {
+          "label": "Iets anders dat je wilt delen?",
+          "placeholder": "Deel alles wat ons helpt je project beter te begrijpen. Implementatieplannen, beperkingen, bezoekersprofiel, speciale vereisten…"
+        }
+      }
+    },
+    "success": {
+      "title": "Bedankt dat je je details hebt gedeeld.",
+      "body": "Ons team zal alles zorgvuldig beoordelen en binnen 1 werkdag contact met je opnemen met een maatwerk offerte.",
+      "callText": "Als je aanvraag urgent is, kun je",
+      "callLink": "ons rechtstreeks bellen",
+      "callPeriod": ".",
+      "blogText": "Ondertussen kun je ook meer leren over recente trends in culture tech, museuminnovatie en audiogidsen op onze",
+      "blogLink": "blog",
+      "blogPeriod": "."
+    },
+    "errors": {
+      "required": "Dit veld is vereist",
+      "emailInvalid": "Voer een geldig e-mailadres in",
+      "selectAtLeastOne": "Selecteer minimaal één optie"
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "AI-audiogids voor musea | Conversationeel | Tree'd",
+      "description": "AI-museumgids waarmee bezoekers vrij verkennen, vragen stellen en direct antwoord krijgen. Start met een pilot van 90 dagen."
+    },
+    "solution": {
+      "title": "Hoe Tree'd werkt | AI-audiogidssysteem voor musea",
+      "description": "Ontdek het Tree'd AI-audiogidsecosysteem: conversationele AI, meertalige tours, lokaal netwerk en een verdienmodel voor musea."
+    },
+    "handset": {
+      "title": "Museum-audiogids apparaat | Conversationele AI | Tree'd",
+      "description": "De Tree'd-handset: een schermvrije, conversationele AI-audiogids voor musea. Tikken, luisteren en vragen stellen in real-time."
+    },
+    "tree": {
+      "title": "On-premise AI voor museumgidsen | De Tree | Tree'd",
+      "description": "De Tree is de on-premise AI-ruggengraat van Tree'd. Laadt op, synchroniseert en distribueert content lokaal — veilig, snel en volledig autonoom."
+    },
+    "dashboard": {
+      "title": "Museum analytics dashboard | Bezoekersinzichten | Tree'd",
+      "description": "Volg bezoekersinteractie in real-time met Tree'd's museumdashboard: talenmix, populaire objecten en privacy-first inzichten."
+    },
+    "visitorExperience": {
+      "title": "AI-audiogidssysteem | Bezoekerservaring | Tree'd",
+      "description": "Tree'd transformeert de museumervaring met zelfgestuurde, conversationele AI-audiogidsen. Bezoekers verkennen vrij, stellen vragen en leren dieper."
+    },
+    "sustainability": {
+      "title": "Duurzame museumtechnologie | On-premise AI-gidsen | Tree'd",
+      "description": "Tree'd bouwt duurzame museumtechnologie met biologisch afbreekbare materialen, lokale verwerking en circulaire hardware voor minder afval en energieverbruik."
+    },
+    "useCases": {
+      "title": "Use Cases | Tree'd AI-audiogids Succesverhalen",
+      "description": "Ontdek hoe musea Tree'd gebruiken om bezoekersopstellingen te verbeteren, engagement te vergroten en operationele efficiëntie te behalen. Real-world toepassingen in musea van alle groottes."
+    },
+    "about": {
+      "title": "Over Tree'd | AI-audiogidsen voor musea",
+      "description": "Maak kennis met Tree'd, een CultureTech-bedrijf dat museumervaringen opnieuw uitvindt via conversationele AI, schermvrije hardware en mensgerichte vormgeving."
+    },
+    "contact": {
+      "title": "Contact Tree'd | Praat met ons museumtechnologieteam",
+      "description": "Neem contact op met Tree'd voor vragen over museumgidsen, bezoekerservaring of technische details. Ons team helpt je graag."
+    },
+    "revenueSharing": {
+      "title": "Museum revenue-sharing model | Inkomstenschatting | Tree'd",
+      "description": "Schat nieuwe museuminkomsten met Tree'd's revenue-sharing model. Dynamisch museumaandeel op basis van bezoekersvolume, implementatiebereik en adoptie."
+    },
+    "booking": {
+      "title": "Plan een demo voor museumgidsen | Start een pilot met Tree'd",
+      "description": "Plan een demo van 30 minuten om Tree'd's conversationele, schermvrije museumgidsen in actie te zien. In-person in NL, BE, PT en EG, of online wereldwijd."
+    },
+    "careers": {
+      "title": "Werken bij Tree'd | Bouw AI-audiogidsen voor musea",
+      "description": "Sluit je aan bij Tree'd en bouw conversationele, schermvrije museumgidsen. We zoeken kwaliteitsgedreven bouwers voor een klein, impactvol CultureTech-team."
+    },
+    "faq": {
+      "title": "Museum-audiogids FAQ | Prijzen & installatie | Tree'd",
+      "description": "Antwoorden op veelgestelde vragen over Tree'd's ecosysteem, implementatie, privacy en revenue-sharing model voor musea."
+    },
+    "notFound": {
+      "title": "Pagina niet gevonden | Tree'd",
+      "description": "De pagina die je zoekt bestaat niet. Ontdek Tree'd's AI-museumgidsen."
+    },
+    "blog": {
+      "title": "Informatie museumgidsen, vergelijkingen en inzichten | Tree'd",
+      "description": "Ontdek praktische informatie over museumgidsen, AI-audiosystemen, prijzen, bezoekerservaring en operationele besluitvorming."
+    },
+    "requestPricing": {
+      "title": "Museumprijzen aanvragen | Krijg een offerte in 24 uur | Tree'd",
+      "description": "Vraag prijzen aan voor Tree'd's AI-museumgidssysteem. Ontvang een maatwerk offerte binnen 24 uur."
+    }
+  },
+  "homeFaq": {
+    "title": "Veelgestelde vragen",
+    "questions": [
+      {
+        "q": "Wat is een AI-museumgids?",
+        "a": "Een AI-museumgids is een conversationeel systeem waarmee bezoekers tentoonstellingen op eigen tempo verkennen, gecureerde verhalen beluisteren en vervolgvragen stellen in real-time. In plaats van vaste opnames af te spelen, reageert het dynamisch op de nieuwsgierigheid van de bezoeker — persoonlijker, interactiever en boeiender."
+      },
+      {
+        "q": "Hoe werkt een AI-museumgids?",
+        "a": "Bezoekers kiezen eerst hun taal, tikken dan met een handset tegen een object om het verhaal te horen. Daarna kunnen ze vragen stellen, en de AI geeft direct antwoord met museum-goedgekeurde content. De hele ervaring is intuïtief, op eigen tempo en vereist geen setup."
+      },
+      {
+        "q": "Wat is het verschil tussen AI en traditionele audiogidsen?",
+        "a": "Traditionele audiogidsen spelen vooraf opgenomen, eenrichtingscontent af. AI-audiogidsen creëren tweerichtingsgesprekken. Bezoekers kunnen vragen stellen, onderwerpen dieper verkennen en zelf bepalen hoeveel ze leren — een passieve rondleiding wordt een interactieve ervaring."
+      },
+      {
+        "q": "Ondersteunen museumgidsen meerdere talen?",
+        "a": "Ja. AI-museumgidsen ondersteunen meerdere talen tegelijk, zodat elke bezoeker het museum beleeft in zijn voorkeurstaal. Dat vergroot de toegankelijkheid en zorgt voor een consistente ervaring voor internationaal publiek."
+      },
+      {
+        "q": "Moeten bezoekers een app downloaden?",
+        "a": "Nee. Het systeem is volledig schermvrij en vereist geen downloads of setup. Bezoekers pakken het apparaat op, kiezen hun taal en beginnen direct."
+      }
+    ],
+    "cta": "Alle vragen bekijken"
+  },
+  "useCases": {
+    "hero": {
+      "eyebrow": "Toepassingen",
+      "preText": "VOOR EEN OPTIMALE",
+      "rotatingWords": [
+        "MUSEUM",
+        "CURATOR",
+        "BEZOEKER",
+        "DOCENT",
+        "TEAM"
+      ],
+      "experienceText": "ERVARING",
+      "postText": "BIJ ELKE INTERACTIE",
+      "subtext": "Een systeem ontworpen voor elke rol, elke context en elk moment binnen het museum.",
+      "ctaPrimary": "Plan een demo",
+      "ctaSecondary": "Vraag een offerte aan"
+    },
+    "cases": {
+      "eyebrow": "TOEPASSINGEN",
+      "title": "Gemaakt voor elk type museum.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Drukbezochte musea",
+          "problem": "Grote bezoekersaantallen. Tientallen talen. Te weinig personeel om elke bezoeker de ervaring te bieden waarvoor ze komen.",
+          "solution": "Bezoekers bewegen op hun eigen tempo en krijgen direct toegang tot content in hun taal — zonder afhankelijk te zijn van personeel.",
+          "outcome": "Betere doorstroming. Consistente kwaliteit. Elke bezoeker, elke keer.",
+          "shortTitle": "Druk",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "02",
+          "title": "Kunstmusea",
+          "problem": "Wandteksten beschrijven wat iets is. Zelden waarom het ertoe doet — of wat bezoekers echt willen weten.",
+          "solution": "Bezoekers spreken met de gids over specifieke werken en gaan zo diep als hun nieuwsgierigheid reikt.",
+          "outcome": "Meer tijd per kunstwerk. Een diepere, persoonlijkere band met de collectie.",
+          "shortTitle": "Kunst",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "03",
+          "title": "Wetenschaps- en educatieve musea",
+          "problem": "Een kind en een onderzoeker hebben totaal verschillende uitleg nodig. Statische content kan zich niet aanpassen.",
+          "solution": "De gids reageert op vragen op het niveau van elke bezoeker — zonder aannames.",
+          "outcome": "Sterkere leerresultaten voor elke leeftijd en elk kennisniveau.",
+          "shortTitle": "Wetenschap",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "04",
+          "title": "Kleinere en private musea",
+          "problem": "Beperkt personeel en budget maken meertalige of begeleide ervaringen moeilijk haalbaar.",
+          "solution": "Eén systeem dat professionele, meertalige ervaringen levert zonder extra personeel.",
+          "outcome": "Een hoogwaardige bezoekerservaring. Zonder extra complexiteit.",
+          "shortTitle": "Privé",
+          "typeSuffix": "Museum"
+        },
+        {
+          "number": "05",
+          "title": "Tijdelijke tentoonstellingen",
+          "problem": "Tentoonstellingen veranderen voortdurend. Traditionele audiogidsen kunnen niet volgen zonder hoge kosten en veel moeite.",
+          "solution": "Content wordt direct en op afstand bijgewerkt — geen nieuwe hardware, geen herinstallatie, geen downtime.",
+          "outcome": "Volledige flexibiliteit in content en gebruik. Altijd actueel.",
+          "shortTitle": "Tijdelijk",
+          "typeSuffix": "Tentoonstelling"
+        }
+      ],
+      "panelLabels": {
+        "challenges": "Uitdagingen",
+        "solution": "Wat Tree'd doet",
+        "result": "Het resultaat"
+      }
+    },
+    "transformation": {
+      "eyebrow": "WAT ER ECHT VERANDERT",
+      "title": "Het verschil dat bezoekers ervaren.",
+      "before": {
+        "label": "Voor",
+        "lines": [
+          "Bezoekers lezen een label.",
+          "Vragen blijven onbeantwoord.",
+          "Personeel staat onder druk.",
+          "De tentoonstelling blijft stil.",
+          "Het bezoek vervaagt."
+        ]
+      },
+      "after": {
+        "label": "Met Tree'd",
+        "lines": [
+          "Bezoekers voeren een gesprek.",
+          "Nieuwsgierigheid zonder limiet.",
+          "De gids is er altijd.",
+          "Elk detail vertelt een verhaal.",
+          "Een blijvende herinnering."
+        ]
+      },
+      "closing": "Van seconden naar minuten per kunstwerk.",
+      "ctaLabel": "BEZOEKERSERVARING",
+      "ctaText": "Bekijk het als bezoeker",
+      "ctaSubtext": "Ontdek hoe de ervaring voelt voor mensen die door jouw museum lopen."
+    },
+    "impact": {
+      "eyebrow": "WAT VERANDERT",
+      "title": "Meetbare resultaten. Echte waarde.",
+      "items": [
+        {
+          "title": "Nieuwe omzet per bezoeker",
+          "description": "Verwerk Tree'd in je ticketprijs of bied het aan als premium add-on. Beide modellen genereren aantoonbare extra omzet per bezoeker — zonder extra complexiteit."
+        },
+        {
+          "title": "Consistente tevredenheid",
+          "description": "De ervaring voelt persoonlijk, intuïtief en compleet — ongeacht achtergrond of taal."
+        },
+        {
+          "title": "Meer tijd per kunstwerk",
+          "description": "Van seconden naar minuten per kunstwerk — omdat bezoekers een reden hebben om te blijven."
+        },
+        {
+          "title": "Meer van de collectie",
+          "description": "Bezoekers gaan verder dan de highlights en ontdekken de volledige diepte van de collectie."
+        },
+        {
+          "title": "Lagere overhead",
+          "description": "Geen extra personeel. Geen complexe installatie. Minimale overhead. Meer impact, minder frictie."
+        }
+      ]
+    },
+    "fit": {
+      "eyebrow": "HERKENBAAR?",
+      "title": "De uitdagingen die moderne musea niet kunnen negeren.",
+      "cta": "Plan een gesprek",
+      "items": [
+        {
+          "number": "01",
+          "title": "Meer omzet per bezoeker",
+          "description": "Verwerk Tree'd in je ticketprijs of bied het aan als premium add-on. Het levert aantoonbare extra omzet op — zonder extra complexiteit."
+        },
+        {
+          "number": "02",
+          "title": "Een nieuwe bezoekerservaring",
+          "description": "Ga voorbij statische labels en traditionele gidsen. Bied een ervaring die persoonlijk, dynamisch en echt modern aanvoelt."
+        },
+        {
+          "number": "03",
+          "title": "Meertalige toegang",
+          "description": "Laat elke bezoeker direct toegang krijgen tot content in hun taal. Geen afhankelijkheid van personeel, geen extra overhead."
+        },
+        {
+          "number": "04",
+          "title": "Voor elke leeftijd",
+          "description": "Van kinderen tot experts — elke bezoeker verdiept zich op zijn eigen niveau. Eén systeem. Elke vorm van nieuwsgierigheid."
+        },
+        {
+          "number": "05",
+          "title": "Van observeren naar begrijpen",
+          "description": "Voeg context en verhalen toe die labels niet kunnen dragen."
+        },
+        {
+          "number": "06",
+          "title": "Altijd actuele content",
+          "description": "Werk content bij of lanceer nieuwe verhalen in minuten. Geen herdruk, geen hardwarewissels, geen vertraging."
+        },
+        {
+          "number": "07",
+          "title": "Meer betrokkenheid",
+          "description": "Maak van bezoekers actieve deelnemers. Begeleide, interactieve verkenning houdt aandacht langer vast."
+        },
+        {
+          "number": "08",
+          "title": "Meer uit de collectie",
+          "description": "Leid bezoekers voorbij de highlights. Breng verborgen werken en nieuwe routes door het museum naar voren."
+        },
+        {
+          "number": "09",
+          "title": "Inzicht in bezoekersgedrag",
+          "description": "Analyseer interactie, routes en afhaakmomenten om de ervaring continu te verbeteren."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "BEGIN HIER",
+      "title": "Ontdek hoe het past bij jouw museum.",
+      "subtitle": "Een demo op maat voor jouw ruimte, bezoekers en doelen.",
+      "primary": "Plan een demo",
+      "secondary": "Vraag een offerte aan"
+    }
+  },
+  "cookieBanner": {
+    "title": "Wij gebruiken cookies",
+    "body": "Wij gebruiken 1 partner (Google) om te begrijpen hoe bezoekers onze site gebruiken, zodat we deze kunnen blijven verbeteren. Ook gebruiken we cookies om onze kantoorlocatie op een kaart te tonen. Niet-essentiële cookies worden alleen met uw toestemming geplaatst.",
+    "accept": "Alles accepteren",
+    "reject": "Alles weigeren",
+    "note": "U kunt uw voorkeuren op elk moment wijzigen via de Cookie-instellingen in de voettekst."
+  },
+  "notFoundPage": {
+    "headingStart": "Deze pagina",
+    "headingHighlight": "is verdwaald.",
+    "desc": "We konden de pagina die je zocht niet vinden. Laat ons je terugbrengen naar de homepage.",
+    "cta": "Terug naar home"
+  },
+  "bookingPage": {
+    "inPersonOnlyLabel": "alleen ter plaatse"
+  }
+}
