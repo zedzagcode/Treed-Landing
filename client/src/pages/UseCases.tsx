@@ -394,6 +394,7 @@ function UseCasesSection() {
                   animate={{ opacity: 1, scale: 1 }}
                   exit={{   opacity: 0, scale: 0.988 }}
                   transition={{ duration: 0.65, ease: "easeInOut" }}
+                  loading="lazy"
                 />
               </AnimatePresence>
             </div>
@@ -688,8 +689,11 @@ function ImpactSection() {
 
   return (
     <section className="py-32 md:py-48 relative overflow-hidden">
-      <div className="absolute top-0 -left-20 w-96 h-96 bg-primary/5 rounded-full blur-[120px] animate-pulse" />
-      <div className="absolute bottom-0 -right-20 w-96 h-96 bg-primary/5 rounded-full blur-[120px] animate-pulse" style={{ animationDelay: "2s" }} />
+      {/* These blobs are barely visible (5% opacity) even on desktop. On mobile,
+          blur-[120px] + animate-pulse is continuous GPU work for invisible output.
+          Hidden below md — desktop still gets the full ambient effect. */}
+      <div className="hidden md:block absolute top-0 -left-20 w-96 h-96 bg-primary/5 rounded-full blur-[120px] animate-pulse" />
+      <div className="hidden md:block absolute bottom-0 -right-20 w-96 h-96 bg-primary/5 rounded-full blur-[120px] animate-pulse" style={{ animationDelay: "2s" }} />
 
       <div className="container mx-auto relative z-10">
         <div className="mb-20 md:mb-24">
@@ -937,13 +941,16 @@ function FitSection() {
                   style={{ height: cardH }}
                   transition={{ type: "spring", stiffness: 320, damping: 40 }}
                 >
-                  {/* Background photo */}
+                  {/* Background photo — lazy-loaded since FitSection is far below
+                      the fold. On mobile this alone saves downloading 9 images
+                      (~1–3 MB) at page-load before the user even scrolls there. */}
                   <div className="absolute inset-0">
                     <img
                       src={CARD_IMAGES[i]}
                       alt={card.title}
                       className="w-full h-full object-cover"
                       draggable={false}
+                      loading="lazy"
                     />
                     {/* Gradient overlay — heavier on inactive so vertical text is readable */}
                     <div

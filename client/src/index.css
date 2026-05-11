@@ -194,6 +194,15 @@
   padding-top: 11rem;
   padding-bottom: 3rem;
 }
+
+/* Mobile: suppress the aspect-ratio:16/9 inline style that can fight min-height
+   on iOS (iPhone 15, Dynamic Island viewports) and leave the section shorter
+   than the navbar — causing hero content to overlap with the nav bar.
+   Below md the section height must come entirely from min-height: 680px. */
+@media (max-width: 767px) {
+  .handset-hero-section { aspect-ratio: unset !important; }
+}
+
 /* Desktop (xl+) */
 @media (min-width: 1280px) {
   .handset-hero-section { min-height: 560px; }

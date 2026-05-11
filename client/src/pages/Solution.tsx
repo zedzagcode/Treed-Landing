@@ -124,7 +124,7 @@ function ConversationalScrollytelling() {
           position: "sticky",
           top: 0,
           height: "100vh",
-          overflow: "clip",
+          overflow: "hidden",
           zIndex: 50,
         }}
       >
@@ -457,7 +457,7 @@ export default function Solution() {
   const comparisons = t('solution.comparison_new.comparisons', { returnObjects: true }) as any[];
 
   return (
-    <div className="min-h-screen bg-background text-foreground selection:bg-primary selection:text-black">
+    <div className="min-h-screen bg-background text-foreground selection:bg-primary selection:text-black [overflow-x:clip]">
       <SEO page="solution" />
       <StructuredData page="solution" />
       <Navbar />

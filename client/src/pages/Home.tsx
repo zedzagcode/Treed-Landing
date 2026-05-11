@@ -643,13 +643,13 @@ export default function Home() {
                     />
                   </div>
                   
-                  <p
-                    className={`text-sm leading-relaxed overflow-hidden transition-all duration-300 ${
+                  <div
+                    className={`text-sm leading-relaxed overflow-hidden transition-all duration-300 m-0 ${
                       openFaqIndex === index ? 'max-h-96 opacity-100 mt-4' : 'max-h-0 opacity-0 mt-0'
                     } ${isLight ? "text-zinc-700" : "text-zinc-400"}`}
                   >
                     {item.a}
-                  </p>
+                  </div>
                 </button>
               </motion.div>
             ))}

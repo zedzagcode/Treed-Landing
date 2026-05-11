@@ -73,17 +73,20 @@
     },
     {
       "type": "h2",
-      "text": "The Partnership in Their Own Words"
+      "text": "The Partnership in Their Own Words",
+      "_hidden": true
     },
     {
       "type": "quote",
       "text": "Caricature has always been a conversation with society. It speaks truth through image, but the image becomes richer when visitors can ask what it means — when they can push further, question it, engage with it directly. Tree’d gives our visitors that opportunity. It turns the museum into a genuine dialogue, which is exactly what caricature has always demanded.",
-      "attribution": "Mohamed Abla, Founder, Fayoum Art Center"
+      "attribution": "Mohamed Abla, Founder, Fayoum Art Center",
+      "_hidden": true
     },
     {
       "type": "quote",
       "text": "We are an agile institution. We do not adopt technology because it is new — we adopt it when it genuinely serves visitors better than what came before. Tree’d gave us exactly that. When something works this well for the visitor experience, the decision is straightforward.",
-      "attribution": "Ibrahim Abla, Managing Director, Fayoum Art Center"
+      "attribution": "Ibrahim Abla, Managing Director, Fayoum Art Center",
+      "_hidden": true
     },
     {
       "type": "h2",

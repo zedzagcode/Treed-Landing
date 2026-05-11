@@ -156,21 +156,29 @@ export default function VisitorJourney() {
     target: journeyRef,
     offset: ["start start", "end end"],
   });
-const headingScaleMobile = useTransform(introProgress, [0, 1], [1, 10]);
+// Mobile: safe scale 1→1.8 (GPU cost is negligible — 1.8× texture vs the original
+// crash-inducing 10×). Combined with opacity fade this gives a zoom-out-and-dissolve
+// exit that looks deliberate without overheating the device.
+const headingScaleMobile = useTransform(introProgress, [0, 1], [1, 1.8]);
+
 const headingFontSizeDesktop = useTransform(
   introProgress,
   [0, 1],
   ["clamp(90px, 11vw, 180px)", "1800px"]
 );
-  // Desktop: font-size flip (render huge, start at 10% ≈ 97% of screen width)
-  // Mobile: normal readable font, scale 1→10 (starts full-size, zooms dramatically)
-  const headingOpacity = useTransform(introProgress, [0, 0.8, 1], [1, 1, 0]);
-  
+  // Fade the heading out over the second half of intro scroll (both mobile and desktop).
+  // Mobile benefits from the earlier fade because the journey section appears at 0.65
+  // scroll progress — the heading needs to be gone before that point.
+  const headingOpacity = useTransform(introProgress, [0, 0.55, 0.75], [1, 1, 0]);
+
   const mouseOpacity = useTransform(introProgress, [0, 0.4, 0.6], [1, 1, 0]);
   const mouseScale = useTransform(introProgress, [0, 0.4, 0.6], [1, 1, 0.8]);
 
+  // Mobile: lower threshold so the journey content appears earlier and more
+  // reliably — phones don't need to scrub through a full 100vh of zoom before
+  // the interactive section becomes visible.
   useMotionValueEvent(introProgress, "change", (v) => {
-    setIsZoomFinished(v > 0.99);
+    setIsZoomFinished(v > (isMobile ? 0.65 : 0.99));
   });
 
   const smoothProgress = useSpring(journeyProgress, { stiffness: 55, damping: 25 });
@@ -238,14 +246,16 @@ const headingFontSizeDesktop = useTransform(
           <motion.h2
             style={{
               opacity: headingOpacity,
-              scale: isMobile ? headingScaleMobile : 1,
-              // Desktop: font-size flip trick — clamp max raised to 1800px so font scales
-              // proportionally on large screens (900px cap caused text to shrink on wide viewports)
-              // Mobile: normal readable font — wraps naturally, zooms in dramatically
+              // Mobile: gentle scale 1→1.8 alongside the opacity fade — gives the
+              // zoom-out-and-dissolve feel without the original scale(1→10) that
+              // crashed Safari. GPU cost is trivial (1.8× vs 10× texture).
+              // Desktop: font-size grows via headingFontSizeDesktop motion value.
+              scale: isMobile ? headingScaleMobile : undefined,
               fontSize: isMobile
                ? "clamp(2.5rem, 13vw, 4.5rem)"
                : headingFontSizeDesktop,
-              willChange: "transform",
+              // Mobile animates both opacity and transform (scale), so include both.
+              willChange: isMobile ? "opacity, transform" : "transform",
               backfaceVisibility: "hidden",
               WebkitBackfaceVisibility: "hidden",
               whiteSpace: isMobile ? "normal" : "nowrap",

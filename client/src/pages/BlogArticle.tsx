@@ -491,6 +491,10 @@ function ArticleBody({
   return (
     <div className="space-y-6">
       {blocks.map((block, i) => {
+        // Blocks with "_hidden": true are kept in the JSON for future use
+        // but suppressed from rendering. Remove the flag to restore them.
+        if ((block as any)._hidden) return null;
+
         switch (block.type) {
           case "p":
             return (
@@ -824,9 +828,14 @@ function ArticleHero({
 }) {
   const { t } = useTranslation();
 
+  // Mobile: aspect-[16/9] forces the hero to be landscape so cover images are
+  // not portrait-cropped. min-h-[320px] ensures back-button + title + bottom
+  // padding always have room. CSS gives max(aspect-ratio-height, min-height),
+  // so on a 390px wide phone: max(219px, 320px) = 320px → 1.22:1 landscape. ✓
+  // Desktop (md+): aspect-auto + min-h-[80vh] restores the original design.
   return (
     <section
-  className="relative w-full min-h-[70vh] md:min-h-[80vh] flex flex-col overflow-hidden bg-black text-white"
+  className="relative w-full aspect-[16/9] min-h-[320px] md:aspect-auto md:min-h-[80vh] flex flex-col overflow-hidden bg-black text-white"
   style={{ colorScheme: "dark" }}
 >
       <div className="absolute inset-0">
