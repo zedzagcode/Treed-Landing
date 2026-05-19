@@ -1222,14 +1222,19 @@ export default function BlogArticlePage() {
     );
   }
 
-  // Format publish date for display
-  const formattedDate = article.publishedAt
-    ? new Date(article.publishedAt).toLocaleDateString("en-GB", {
-        day: "numeric",
-        month: "long",
-        year: "numeric",
-      })
-    : null;
+  // Format publish date for display.
+  // Hidden for specific articles where the date should not appear under the title.
+  const HIDE_DATE_SLUGS = new Set([
+    "treed-signs-first-museum-partnership-fayoum-art-center",
+  ]);
+  const formattedDate =
+    article.publishedAt && !HIDE_DATE_SLUGS.has(article.slug)
+      ? new Date(article.publishedAt).toLocaleDateString("en-GB", {
+          day: "numeric",
+          month: "long",
+          year: "numeric",
+        })
+      : null;
 
   // Shared TOC state — called once, passed to both DesktopTOC and MobileTOC
   const tocState = useTocState(Array.isArray(body) ? body : []);
